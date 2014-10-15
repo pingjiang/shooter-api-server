@@ -1,0 +1,34 @@
+{
+  "name": "shooter-api-server",
+  "version": "0.0.1",
+  "description": "Shooter api server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/pingjiang/shooter-api-server.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Proxy"
+  ],
+  "author": "pingjiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pingjiang/shooter-api-server/issues"
+  },
+  "homepage": "https://github.com/pingjiang/shooter-api-server",
+  "dependencies": {
+    "adm-zip": "^0.4.4",
+    "http-proxy": "^1.5.3",
+    "iconv-lite": "^0.4.4",
+    "jschardet": "^1.1.0",
+    "node-rar": "0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}

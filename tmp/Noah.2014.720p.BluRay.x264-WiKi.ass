@@ -1,0 +1,1174 @@
+[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 0
+PlayResY: 0
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Narrow,13,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,13,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:40.95,0:00:43.95,Default,,0000,0000,0000,,{\fn黑体\fs18}一开始什么也没有…{\r}
+Dialogue: 0,0:00:49.88,0:00:52.37,Default,,0000,0000,0000,,{\fn黑体\fs18}诱惑导致罪恶{\r}
+Dialogue: 0,0:00:59.47,0:01:01.63,Default,,0000,0000,0000,,{\fn黑体\fs18}被逐出伊甸园的亚当和夏娃…{\r}
+Dialogue: 0,0:01:01.72,0:01:02.96,Default,,0000,0000,0000,,{\fn黑体\fs18}…有三个儿子{\r}
+Dialogue: 0,0:01:03.31,0:01:06.22,Default,,0000,0000,0000,,{\fn黑体\fs18}该隐，亚伯与塞特{\r}
+Dialogue: 0,0:01:11.57,0:01:15.36,Default,,0000,0000,0000,,{\fn黑体\fs18}该隐杀了亚伯，逃至东方{\r}
+Dialogue: 0,0:01:15.61,0:01:18.02,Default,,0000,0000,0000,,{\fn黑体\fs18}由一群堕落的天使庇护着他{\r}
+Dialogue: 0,0:01:18.12,0:01:20.23,Default,,0000,0000,0000,,{\fn黑体\fs18}“守望者”{\r}
+Dialogue: 0,0:01:29.54,0:01:31.33,Default,,0000,0000,0000,,{\fn黑体\fs18}这些守望者帮助该隐的子孙{\r}
+Dialogue: 0,0:01:31.42,0:01:33.21,Default,,0000,0000,0000,,{\fn黑体\fs18}建造出伟大的工业文明{\r}
+Dialogue: 0,0:01:39.89,0:01:41.63,Default,,0000,0000,0000,,{\fn黑体\fs18}这些城市所散播的邪恶…{\r}
+Dialogue: 0,0:01:41.72,0:01:43.21,Default,,0000,0000,0000,,{\fn黑体\fs18}…吞噬了整个世界{\r}
+Dialogue: 0,0:01:55.15,0:01:57.64,Default,,0000,0000,0000,,{\fn黑体\fs18}只有塞特的子孙…{\r}
+Dialogue: 0,0:01:57.90,0:02:02.82,Default,,0000,0000,0000,,{\fn黑体\fs18}…还传承着创世的纯真与良善{\r}
+Dialogue: 0,0:02:03.49,0:02:05.48,Default,,0000,0000,0000,,{\fn黑体\fs18}如今，他最新的血脉长大成人{\r}
+Dialogue: 0,0:02:05.66,0:02:09.00,Default,,0000,0000,0000,,{\fn黑体\fs18}亚当生了塞特，塞特生了以挪士{\r}\NFrom Adam to Seth, from Seth to Enosh,
+Dialogue: 0,0:02:09.33,0:02:13.45,Default,,0000,0000,0000,,{\fn黑体\fs18}以挪士生了该南，该南生了玛勒列{\r}\NEnosh to Kenan, Kenan to Mahalalel,
+Dialogue: 0,0:02:13.84,0:02:17.80,Default,,0000,0000,0000,,{\fn黑体\fs18}再来是我的父亲，玛土撒拉，接着是我{\r}\Nto my father, Methuselah, then to me.
+Dialogue: 0,0:02:18.38,0:02:21.13,Default,,0000,0000,0000,,{\fn黑体\fs18}今天开始由你来继承我们{\r}\NToday, that birthright passes to you,
+Dialogue: 0,0:02:22.30,0:02:23.42,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,0:02:23.81,0:02:25.39,Default,,0000,0000,0000,,{\fn黑体\fs18}我的儿子{\r}\NMy son.
+Dialogue: 0,0:02:38.03,0:02:40.52,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主按自己的形像创造了亚当{\r}\NThe Creator made Adam in His image,
+Dialogue: 0,0:02:40.86,0:02:43.36,Default,,0000,0000,0000,,{\fn黑体\fs18}让他治理整个世界{\r}\Nand then placed the world in his care.
+Dialogue: 0,0:02:44.20,0:02:48.62,Default,,0000,0000,0000,,{\fn黑体\fs18}现在开始就是你的责任了{\r}\NThis is your work now.  Your responsibility.
+Dialogue: 0,0:02:51.21,0:02:55.29,Default,,0000,0000,0000,,{\fn黑体\fs18}愿你心存公义，与造物主同行{\r}\NMay you walk  alongside The Creator in righteousness.
+Dialogue: 0,0:03:01.47,0:03:03.21,Default,,0000,0000,0000,,{\fn黑体\fs18}我告诉你…{\r}\NSo I say to you...
+Dialogue: 0,0:03:03.51,0:03:04.84,Default,,0000,0000,0000,,{\fn黑体\fs18}塞特的子嗣！{\r}\NThe Shrine of Seth!
+Dialogue: 0,0:03:05.26,0:03:06.92,Default,,0000,0000,0000,,{\fn黑体\fs18}有人来了{\r}\NMen.
+Dialogue: 0,0:03:07.18,0:03:08.42,Default,,0000,0000,0000,,{\fn黑体\fs18}躲起来{\r}\NHide.
+Dialogue: 0,0:03:16.40,0:03:18.31,Default,,0000,0000,0000,,{\fn黑体\fs18}我们要在这里采矿{\r}\NWe mine here.
+Dialogue: 0,0:03:21.91,0:03:24.49,Default,,0000,0000,0000,,{\fn黑体\fs18}这块土地富含光石{\r}\NThe ground is rich with Tzohar.
+Dialogue: 0,0:03:26.08,0:03:29.28,Default,,0000,0000,0000,,{\fn黑体\fs18}这是造物主的土地，你在做什么？{\r}\NThis is The Creator's land.  What are you doing?
+Dialogue: 0,0:03:31.25,0:03:32.66,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主？{\r}\NThe Creator?
+Dialogue: 0,0:03:33.00,0:03:34.79,Default,,0000,0000,0000,,{\fn黑体\fs18}我的矿坑都已枯竭{\r}\NMy mines run dry.
+Dialogue: 0,0:03:34.88,0:03:37.83,Default,,0000,0000,0000,,{\fn黑体\fs18}我的城市正在败坏，需要资源{\r}\NMy city withers and must be fed.
+Dialogue: 0,0:03:38.17,0:03:40.00,Default,,0000,0000,0000,,{\fn黑体\fs18}他做了什么？{\r}\NAnd what has He done?
+Dialogue: 0,0:03:41.68,0:03:45.42,Default,,0000,0000,0000,,{\fn黑体\fs18}他诅咒我们必须汗流浃背  才得以苟且偷生！{\r}\NHe cursed us to struggle  by the sweat of our brow to survive!
+Dialogue: 0,0:03:45.76,0:03:50.01,Default,,0000,0000,0000,,{\fn黑体\fs18}所以我不择手段也要活下去{\r}\NDamned if I don't do everything it takes  to do just that.
+Dialogue: 0,0:03:52.10,0:03:53.68,Default,,0000,0000,0000,,{\fn黑体\fs18}所以我要什么…{\r}\NDamned if I don't take 
+Dialogue: 0,0:03:53.94,0:03:55.27,Default,,0000,0000,0000,,{\fn黑体\fs18}…我就去拿{\r}\Nwhat I want.
+Dialogue: 0,0:04:03.82,0:04:07.06,Default,,0000,0000,0000,,{\fn黑体\fs18}这片土地现在属于该隐的子孙{\r}\NThis relic belongs to  the descendants of Cain now.
+Dialogue: 0,0:04:07.83,0:04:09.99,Default,,0000,0000,0000,,{\fn黑体\fs18}塞特的血脉到此为止{\r}\NThe line of Seth ends here.
+Dialogue: 0,0:04:16.50,0:04:19.33,Default,,0000,0000,0000,,{\fn黑体\fs18}是我们的了，开始挖！{\r}\NIt is ours. Now dig!
+Dialogue: 0,0:05:15.10,0:05:16.22,Default,,0000,0000,0000,,{\fn黑体\fs18}含{\r}\NHam.
+Dialogue: 0,0:05:17.60,0:05:19.27,Default,,0000,0000,0000,,{\fn黑体\fs18}你在做什么？{\r}\NWhat are you doing?
+Dialogue: 0,0:05:19.36,0:05:20.94,Default,,0000,0000,0000,,{\fn黑体\fs18}它好漂亮{\r}\NIt's pretty.
+Dialogue: 0,0:05:22.94,0:05:24.27,Default,,0000,0000,0000,,{\fn黑体\fs18}你看看其他花朵？{\r}\NYou see those other flowers?
+Dialogue: 0,0:05:25.20,0:05:26.73,Default,,0000,0000,0000,,{\fn黑体\fs18}它们是不是都生长在地上？{\r}\NHow they're attached to the ground?
+Dialogue: 0,0:05:27.11,0:05:28.60,Default,,0000,0000,0000,,{\fn黑体\fs18}它们就是该在那里的{\r}\NThat's where they should be.
+Dialogue: 0,0:05:29.78,0:05:31.44,Default,,0000,0000,0000,,{\fn黑体\fs18}这是有目的的{\r}\NThey have a purpose.
+Dialogue: 0,0:05:31.79,0:05:33.20,Default,,0000,0000,0000,,{\fn黑体\fs18}它们会发芽{\r}\NThey sprout.
+Dialogue: 0,0:05:33.70,0:05:35.19,Default,,0000,0000,0000,,{\fn黑体\fs18}会开花{\r}\NAnd they bloom.
+Dialogue: 0,0:05:35.37,0:05:38.03,Default,,0000,0000,0000,,{\fn黑体\fs18}风带走种子，让花不断生长{\r}\NThe wind takes their seeds  and more flowers grow.
+Dialogue: 0,0:05:38.46,0:05:41.04,Default,,0000,0000,0000,,{\fn黑体\fs18}我们只采集可用和所需的量{\r}\NWe only collect what we can use  and what we need.
+Dialogue: 0,0:05:41.46,0:05:42.79,Default,,0000,0000,0000,,{\fn黑体\fs18}懂吗？{\r}\NDo you understand?
+Dialogue: 0,0:06:03.90,0:06:04.89,Default,,0000,0000,0000,,{\fn黑体\fs18}闪{\r}\NShem.
+Dialogue: 0,0:06:05.74,0:06:06.72,Default,,0000,0000,0000,,{\fn黑体\fs18}含{\r}\NHam.
+Dialogue: 0,0:06:07.90,0:06:09.24,Default,,0000,0000,0000,,{\fn黑体\fs18}我们走{\r}\NLet's go.
+Dialogue: 0,0:06:20.67,0:06:22.91,Default,,0000,0000,0000,,{\fn黑体\fs18}有人来了，躲起来{\r}\NMen. Hide, hide.
+Dialogue: 0,0:06:23.25,0:06:24.08,Default,,0000,0000,0000,,{\fn黑体\fs18}快{\r}\NGo.
+Dialogue: 0,0:07:08.67,0:07:10.08,Default,,0000,0000,0000,,{\fn黑体\fs18}你发现了我们的猎物{\r}\NYou found our kill.
+Dialogue: 0,0:07:10.43,0:07:11.76,Default,,0000,0000,0000,,{\fn黑体\fs18}真幸运{\r}\NHow fortunate.
+Dialogue: 0,0:07:12.09,0:07:14.80,Default,,0000,0000,0000,,{\fn黑体\fs18}但对你来说可能是不幸{\r}\NBut for you maybe not.
+Dialogue: 0,0:07:18.48,0:07:20.97,Default,,0000,0000,0000,,{\fn黑体\fs18}你知道我们有多久没吃肉吗？{\r}\NYou know how long it is  since we ate meat?
+Dialogue: 0,0:07:21.44,0:07:23.52,Default,,0000,0000,0000,,{\fn黑体\fs18}多久没看见动物了吗？{\r}\NSince we even saw an animal?
+Dialogue: 0,0:07:25.77,0:07:26.93,Default,,0000,0000,0000,,{\fn黑体\fs18}别轻举妄动{\r}\NEasy.
+Dialogue: 0,0:07:42.04,0:07:44.03,Default,,0000,0000,0000,,{\fn黑体\fs18}别这样，你想要什么？{\r}\NPlease. What do you want?
+Dialogue: 0,0:07:47.25,0:07:48.41,Default,,0000,0000,0000,,{\fn黑体\fs18}正义{\r}\NJustice.
+Dialogue: 0,0:07:57.18,0:07:59.59,Default,,0000,0000,0000,,{\fn黑体\fs18}- 他们为什么要杀它？  - 吃它的肉{\r}\NWhy did they kill it?  They eat them.
+Dialogue: 0,0:08:02.60,0:08:03.93,Default,,0000,0000,0000,,{\fn黑体\fs18}为什么？{\r}\NWhy?
+Dialogue: 0,0:08:08.61,0:08:10.27,Default,,0000,0000,0000,,{\fn黑体\fs18}他们以为这样可以变强壮{\r}\NThey think it makes them stronger.
+Dialogue: 0,0:08:11.19,0:08:12.53,Default,,0000,0000,0000,,{\fn黑体\fs18}可以吗？{\r}\NIs it true?
+Dialogue: 0,0:08:14.16,0:08:15.61,Default,,0000,0000,0000,,{\fn黑体\fs18}他们忘记了…{\r}\NThey forget
+Dialogue: 0,0:08:15.87,0:08:18.03,Default,,0000,0000,0000,,{\fn黑体\fs18}…真正的力量来自造物主{\r}\Nstrength comes from The Creator.
+Dialogue: 0,0:08:39.39,0:08:40.63,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈！{\r}\NMama!
+Dialogue: 0,0:08:46.40,0:08:47.39,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈！{\r}\NMommy!
+Dialogue: 0,0:08:51.11,0:08:52.44,Default,,0000,0000,0000,,{\fn黑体\fs18}哥哥们回来了？{\r}\NSee your brothers?
+Dialogue: 0,0:09:24.06,0:09:25.89,Default,,0000,0000,0000,,{\fn黑体\fs18}含看见人狩猎了{\r}\NHam saw men hunting today.
+Dialogue: 0,0:09:26.56,0:09:28.39,Default,,0000,0000,0000,,{\fn黑体\fs18}他们离我们越来越近了{\r}\NThey are getting closer.
+Dialogue: 0,0:09:30.57,0:09:31.65,Default,,0000,0000,0000,,{\fn黑体\fs18}含有什么反应？{\r}\NHow was he?
+Dialogue: 0,0:09:33.32,0:09:35.06,Default,,0000,0000,0000,,{\fn黑体\fs18}他有点太好奇了{\r}\NA little too interested.
+Dialogue: 0,0:09:37.91,0:09:39.49,Default,,0000,0000,0000,,{\fn黑体\fs18}他迟早都会见到{\r}\NHe had to see it sometime.
+Dialogue: 0,0:09:44.87,0:09:46.53,Default,,0000,0000,0000,,{\fn黑体\fs18}我还看见了其他东西{\r}\NI saw something else.
+Dialogue: 0,0:09:49.33,0:09:50.82,Default,,0000,0000,0000,,{\fn黑体\fs18}一朵花…{\r}\NA flower
+Dialogue: 0,0:09:51.67,0:09:53.33,Default,,0000,0000,0000,,{\fn黑体\fs18}…从无到有{\r}\Nbloom from nothing.
+Dialogue: 0,0:10:03.89,0:10:04.75,Default,,0000,0000,0000,,{\fn黑体\fs18}休息吧{\r}\NRest.
+Dialogue: 0,0:10:14.36,0:10:17.02,Default,,0000,0000,0000,,{\fn黑体\fs18}或许他将导正一切{\r}\NPerhaps He will finally  make things right.
+Dialogue: 0,0:11:04.08,0:11:05.44,Default,,0000,0000,0000,,{\fn黑体\fs18}玛土撒拉{\r}\NMethuselah.
+Dialogue: 0,0:11:58.00,0:11:59.79,Default,,0000,0000,0000,,{\fn黑体\fs18}他对你说话了吗？{\r}\NDid He speak to you?
+Dialogue: 0,0:12:00.63,0:12:02.00,Default,,0000,0000,0000,,{\fn黑体\fs18}应该是{\r}\NI think so.
+Dialogue: 0,0:12:13.52,0:12:14.98,Default,,0000,0000,0000,,{\fn黑体\fs18}他会帮助我们吗？{\r}\NWill He help us?
+Dialogue: 0,0:12:18.07,0:12:20.15,Default,,0000,0000,0000,,{\fn黑体\fs18}他要毁灭世界{\r}\NHe's going to destroy the world.
+Dialogue: 0,0:12:26.82,0:12:29.57,Default,,0000,0000,0000,,{\fn黑体\fs18}这段旅程对孩子们来说又长又危险{\r}\NIt's a long and dangerous journey  for the boys.
+Dialogue: 0,0:12:30.91,0:12:33.24,Default,,0000,0000,0000,,{\fn黑体\fs18}你怎么知道你祖父还活着？{\r}\NHow do you know  your grandfather's still alive?
+Dialogue: 0,0:12:33.50,0:12:34.33,Default,,0000,0000,0000,,{\fn黑体\fs18}我不知道{\r}\NI don't.
+Dialogue: 0,0:12:35.17,0:12:36.53,Default,,0000,0000,0000,,{\fn黑体\fs18}但我梦见了他住的山头{\r}\NI saw his mountain.
+Dialogue: 0,0:12:37.25,0:12:39.83,Default,,0000,0000,0000,,{\fn黑体\fs18}他可能知道我们该怎么做{\r}\NWe need to go and find out  if he knows what we're to do.
+Dialogue: 0,0:12:40.09,0:12:42.42,Default,,0000,0000,0000,,{\fn黑体\fs18}闪，可以帮我的忙吗？{\r}\NShem. Can you help me with this?
+Dialogue: 0,0:12:47.76,0:12:50.25,Default,,0000,0000,0000,,{\fn黑体\fs18}我们可以带着孩子找个地方躲起来{\r}\NWe could take the boys  and find a place to hide.
+Dialogue: 0,0:12:56.77,0:12:58.35,Default,,0000,0000,0000,,{\fn黑体\fs18}我们无处可躲{\r}\NThere'll be no hiding.
+Dialogue: 0,0:13:00.28,0:13:01.86,Default,,0000,0000,0000,,{\fn黑体\fs18}我们早该出发了{\r}\NWe should have left already.
+Dialogue: 0,0:13:07.62,0:13:09.61,Default,,0000,0000,0000,,{\fn黑体\fs18}我来教你怎么做{\r}\NHam, let me show you how to do that.
+Dialogue: 0,0:13:09.95,0:13:11.11,Default,,0000,0000,0000,,{\fn黑体\fs18}放进这里面{\r}\NPush it in here.
+Dialogue: 0,0:13:11.20,0:13:12.57,Default,,0000,0000,0000,,{\fn黑体\fs18}下次我们来的时候{\r}\NNext time we come through,
+Dialogue: 0,0:13:12.70,0:13:14.87,Default,,0000,0000,0000,,{\fn黑体\fs18}这些东西就能派上用场{\r}\Nwe'll know  we've got certain things we might need.
+Dialogue: 0,0:13:21.21,0:13:22.95,Default,,0000,0000,0000,,{\fn黑体\fs18}城市就在前面{\r}\NThere are cities ahead.
+Dialogue: 0,0:13:23.30,0:13:25.29,Default,,0000,0000,0000,,{\fn黑体\fs18}我们不会走太近{\r}\NWe will not get too close.
+Dialogue: 0,0:13:50.07,0:13:51.91,Default,,0000,0000,0000,,{\fn黑体\fs18}那是光石矿坑吗？{\r}\NIs that a Tzohar mine?
+Dialogue: 0,0:13:52.24,0:13:54.23,Default,,0000,0000,0000,,{\fn黑体\fs18}曾经是，但矿藏已经耗尽{\r}\NIt was once. Before they dug it all up.
+Dialogue: 0,0:13:55.58,0:13:57.12,Default,,0000,0000,0000,,{\fn黑体\fs18}我们该绕过去吗？{\r}\NShould we go around?
+Dialogue: 0,0:13:59.96,0:14:00.79,Default,,0000,0000,0000,,{\fn黑体\fs18}不必{\r}\NNo.
+Dialogue: 0,0:14:15.27,0:14:16.60,Default,,0000,0000,0000,,{\fn黑体\fs18}他们都死了吗？{\r}\NDo you think they're all dead?
+Dialogue: 0,0:14:17.94,0:14:19.52,Default,,0000,0000,0000,,{\fn黑体\fs18}看起来是如此{\r}\NIt looks that way.
+Dialogue: 0,0:14:20.27,0:14:22.01,Default,,0000,0000,0000,,{\fn黑体\fs18}他们一定是在这里扎营{\r}\NThey must have been scavenging here.
+Dialogue: 0,0:14:22.61,0:14:24.14,Default,,0000,0000,0000,,{\fn黑体\fs18}然后再被别人打劫{\r}\NAnd someone scavenged from them.
+Dialogue: 0,0:14:26.28,0:14:27.61,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸！{\r}\NDada!
+Dialogue: 0,0:14:32.62,0:14:34.20,Default,,0000,0000,0000,,{\fn黑体\fs18}跟紧我{\r}\NStay close.
+Dialogue: 0,0:14:51.97,0:14:53.13,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸！{\r}\NFather!
+Dialogue: 0,0:14:53.30,0:14:54.46,Default,,0000,0000,0000,,{\fn黑体\fs18}这里！{\r}\NHere!
+Dialogue: 0,0:15:05.82,0:15:07.18,Default,,0000,0000,0000,,{\fn黑体\fs18}让我看看？{\r}\NMay I see?
+Dialogue: 0,0:15:09.20,0:15:10.18,Default,,0000,0000,0000,,{\fn黑体\fs18}放轻松{\r}\NLet me see.
+Dialogue: 0,0:15:19.66,0:15:21.15,Default,,0000,0000,0000,,{\fn黑体\fs18}你叫什么名字？{\r}\NTell me your name.
+Dialogue: 0,0:15:22.83,0:15:24.17,Default,,0000,0000,0000,,{\fn黑体\fs18}你有名字吗？{\r}\NYou have a name?
+Dialogue: 0,0:15:24.46,0:15:25.32,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉{\r}\NIla.
+Dialogue: 0,0:15:25.67,0:15:27.33,Default,,0000,0000,0000,,{\fn黑体\fs18}我叫伊拉{\r}\NMy name is Ila.
+Dialogue: 0,0:15:27.55,0:15:28.54,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉{\r}\NIla.
+Dialogue: 0,0:15:29.67,0:15:31.21,Default,,0000,0000,0000,,{\fn黑体\fs18}没事了{\r}\NYou're going to be all right, Ila.
+Dialogue: 0,0:15:33.01,0:15:34.38,Default,,0000,0000,0000,,{\fn黑体\fs18}他是闪{\r}\NThis is Shem.
+Dialogue: 0,0:15:35.22,0:15:38.34,Default,,0000,0000,0000,,{\fn黑体\fs18}他会紧握你的手  不会放开{\r}\NHe's going to hold your hand tight  and he won't let go.
+Dialogue: 0,0:15:42.56,0:15:44.05,Default,,0000,0000,0000,,{\fn黑体\fs18}到山顶！快！快！{\r}\NUp the hill! Hurry! Hurry!
+Dialogue: 0,0:15:45.52,0:15:47.86,Default,,0000,0000,0000,,{\fn黑体\fs18}我们得走了，动作快{\r}\NWe have to go. Now.
+Dialogue: 0,0:15:51.24,0:15:52.52,Default,,0000,0000,0000,,{\fn黑体\fs18}往上爬，快跑{\r}\NUp the hill. Run.
+Dialogue: 0,0:16:01.91,0:16:03.53,Default,,0000,0000,0000,,{\fn黑体\fs18}我们不能去那里{\r}\NWe can't go there.
+Dialogue: 0,0:16:07.38,0:16:09.92,Default,,0000,0000,0000,,{\fn黑体\fs18}我们别无选择，快！{\r}\NWe have no choice. Hurry!
+Dialogue: 0,0:16:28.61,0:16:30.96,Default,,0000,0000,0000,,{\fn黑体\fs18}别过去！  那里有巨人！{\r}\NHold, men! Hold!  The giants!
+Dialogue: 0,0:16:32.57,0:16:33.73,Default,,0000,0000,0000,,{\fn黑体\fs18}他们会杀了你们！{\r}\NThey'll kill you!
+Dialogue: 0,0:16:35.82,0:16:36.81,Default,,0000,0000,0000,,{\fn黑体\fs18}闪！{\r}\NShem!
+Dialogue: 0,0:16:39.33,0:16:41.74,Default,,0000,0000,0000,,{\fn黑体\fs18}无论如何一定要保护妈妈{\r}\NProtect your mother, first and last.
+Dialogue: 0,0:16:42.08,0:16:43.11,Default,,0000,0000,0000,,{\fn黑体\fs18}我爱你{\r}\NI love you.
+Dialogue: 0,0:16:43.83,0:16:44.82,Default,,0000,0000,0000,,{\fn黑体\fs18}快跑！{\r}\NRun!
+Dialogue: 0,0:16:56.16,0:16:58.64,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,0:17:12.44,0:17:14.40,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,0:17:16.61,0:17:17.65,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,0:17:17.99,0:17:20.61,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚，你没事吧？{\r}\NNoah. Are you all right?
+Dialogue: 0,0:17:50.15,0:17:53.36,Default,,0000,0000,0000,,{\fn黑体\fs18}我们是来见我的祖父玛土撒拉的{\r}\NWe are to see Methuselah.  My grandfather.
+Dialogue: 0,0:17:53.69,0:17:56.03,Default,,0000,0000,0000,,{\fn黑体\fs18}长者的子孙？{\r}\NA child of the old one?
+Dialogue: 0,0:17:58.03,0:18:00.02,Default,,0000,0000,0000,,{\fn黑体\fs18}你应该杀死它们的{\r}\NYou should have killed them.
+Dialogue: 0,0:18:00.83,0:18:01.99,Default,,0000,0000,0000,,{\fn黑体\fs18}可是，撒米亚扎…{\r}\NBut, Samyaza...
+Dialogue: 0,0:18:02.20,0:18:03.66,Default,,0000,0000,0000,,{\fn黑体\fs18}这可是人啊，咢{\r}\NThis is a man, Og.
+Dialogue: 0,0:18:03.79,0:18:06.62,Default,,0000,0000,0000,,{\fn黑体\fs18}你忘了他们是怎么背叛造物主的吗？{\r}\NDo you forget how  they betrayed The Creator?
+Dialogue: 0,0:18:07.37,0:18:08.86,Default,,0000,0000,0000,,{\fn黑体\fs18}是他要我们来的！{\r}\NIt is He who sends us!
+Dialogue: 0,0:18:11.38,0:18:13.21,Default,,0000,0000,0000,,{\fn黑体\fs18}它说谎！{\r}\NIt lies!
+Dialogue: 0,0:18:14.17,0:18:16.83,Default,,0000,0000,0000,,{\fn黑体\fs18}让它们在这里自生自灭{\r}\NLeave them here to rot.
+Dialogue: 0,0:18:34.40,0:18:35.89,Default,,0000,0000,0000,,{\fn黑体\fs18}他们是什么？{\r}\NWhat are they?
+Dialogue: 0,0:18:36.40,0:18:37.86,Default,,0000,0000,0000,,{\fn黑体\fs18}守望者{\r}\NThe Watchers.
+Dialogue: 0,0:18:46.75,0:18:48.24,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸？{\r}\NDada?
+Dialogue: 0,0:18:56.38,0:18:57.37,Default,,0000,0000,0000,,{\fn黑体\fs18}睡吧{\r}\NSleep now.
+Dialogue: 0,0:18:58.51,0:19:00.04,Default,,0000,0000,0000,,{\fn黑体\fs18}唱歌给我听{\r}\NSing to me.
+Dialogue: 0,0:19:01.89,0:19:03.84,Default,,0000,0000,0000,,{\fn黑体\fs18}我想要我爸爸唱歌给我听{\r}\NI want my daddy to sing to me.
+Dialogue: 0,0:19:08.60,0:19:11.09,Default,,0000,0000,0000,,{\fn黑体\fs18}我跟你一样很小的时候就失去了父亲{\r}\NYou know, I, too,  lost my father when I was very young.
+Dialogue: 0,0:19:13.90,0:19:16.94,Default,,0000,0000,0000,,{\fn黑体\fs18}每次我睡不着他都会唱一首歌{\r}\NThere's a song  he used to sing me sometimes  when I couldn't sleep.
+Dialogue: 0,0:19:17.61,0:19:19.10,Default,,0000,0000,0000,,{\fn黑体\fs18}你想听吗？{\r}\NWould you like to hear it?
+Dialogue: 0,0:19:23.91,0:19:26.12,Default,,0000,0000,0000,,{\fn黑体\fs18}月亮高挂{\r}\NThe moon is high
+Dialogue: 0,0:19:26.45,0:19:28.78,Default,,0000,0000,0000,,{\fn黑体\fs18}枝条缠绕{\r}\NThe trees entwine
+Dialogue: 0,0:19:29.08,0:19:32.41,Default,,0000,0000,0000,,{\fn黑体\fs18}你的父亲等待着…{\r}\NYour Father waits for thee
+Dialogue: 0,0:19:34.13,0:19:37.62,Default,,0000,0000,0000,,{\fn黑体\fs18}…将你抱入怀中{\r}\NTo wrap you in His sheltering wings
+Dialogue: 0,0:19:38.46,0:19:41.96,Default,,0000,0000,0000,,{\fn黑体\fs18}轻声哄你入睡{\r}\NAnd whisper you to sleep
+Dialogue: 0,0:19:43.30,0:19:45.13,Default,,0000,0000,0000,,{\fn黑体\fs18}你的父亲是…{\r}\NYour Father is
+Dialogue: 0,0:19:45.81,0:19:47.47,Default,,0000,0000,0000,,{\fn黑体\fs18}…那疗愈的风{\r}\NThe healing wind
+Dialogue: 0,0:19:47.97,0:19:51.64,Default,,0000,0000,0000,,{\fn黑体\fs18}轻声哄你入睡{\r}\NThat whispers you to sleep
+Dialogue: 0,0:19:52.48,0:19:57.14,Default,,0000,0000,0000,,{\fn黑体\fs18}轻声哄你入睡{\r}\NThat whispers as you sleep
+Dialogue: 0,0:20:12.83,0:20:14.45,Default,,0000,0000,0000,,{\fn黑体\fs18}她的伤口很深{\r}\NIt's an ugly wound.
+Dialogue: 0,0:20:16.46,0:20:17.95,Default,,0000,0000,0000,,{\fn黑体\fs18}这辈子都无法生儿育女了{\r}\NShe'll never have children.
+Dialogue: 0,0:20:20.17,0:20:21.83,Default,,0000,0000,0000,,{\fn黑体\fs18}但如果她能熬过这场高烧{\r}\NIf the fever doesn't take her,
+Dialogue: 0,0:20:22.47,0:20:23.75,Default,,0000,0000,0000,,{\fn黑体\fs18}就能活下来{\r}\NI think she'll live.
+Dialogue: 0,0:20:40.94,0:20:42.27,Default,,0000,0000,0000,,{\fn黑体\fs18}跟我来{\r}\NFollow me.
+Dialogue: 0,0:20:46.82,0:20:49.28,Default,,0000,0000,0000,,{\fn黑体\fs18}抱歉让你们受惊了{\r}\NI'm sorry I frightened you.
+Dialogue: 0,0:20:49.62,0:20:51.95,Default,,0000,0000,0000,,{\fn黑体\fs18}守望者很清楚人类的可怕{\r}\NWatchers have learned to fear men.
+Dialogue: 0,0:20:52.46,0:20:54.45,Default,,0000,0000,0000,,{\fn黑体\fs18}那你为什么要帮助我们？{\r}\NThen why are you helping us?
+Dialogue: 0,0:20:57.84,0:21:01.50,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主在第二天创造了我们{\r}\NThe Creator formed us  on the second day.
+Dialogue: 0,0:21:01.84,0:21:03.83,Default,,0000,0000,0000,,{\fn黑体\fs18}同一天他也创造了天{\r}\NThe day He made the heavens.
+Dialogue: 0,0:21:04.68,0:21:07.17,Default,,0000,0000,0000,,{\fn黑体\fs18}我们看守亚当和夏娃{\r}\NWe watched over Adam and Eve.
+Dialogue: 0,0:21:07.47,0:21:10.01,Default,,0000,0000,0000,,{\fn黑体\fs18}看见他们的弱点和爱{\r}\NSaw their frailty and their love.
+Dialogue: 0,0:21:10.35,0:21:14.01,Default,,0000,0000,0000,,{\fn黑体\fs18}也目睹他们堕落，并怜悯他们{\r}\NAnd then we saw their fall.  And we pitied them.
+Dialogue: 0,0:21:14.64,0:21:18.64,Default,,0000,0000,0000,,{\fn黑体\fs18}那时我们不是石头，而是光芒{\r}\NWe were not stone then, but light.
+Dialogue: 0,0:21:18.98,0:21:21.69,Default,,0000,0000,0000,,{\fn黑体\fs18}我们没有资格插手{\r}\NIt was not our place to interfere.
+Dialogue: 0,0:21:22.03,0:21:24.86,Default,,0000,0000,0000,,{\fn黑体\fs18}却选择尽力帮助人类{\r}\NYet we chose to try and help mankind.
+Dialogue: 0,0:21:25.15,0:21:27.69,Default,,0000,0000,0000,,{\fn黑体\fs18}因此违背了造物主的旨意{\r}\NAnd when we disobeyed The Creator,
+Dialogue: 0,0:21:30.74,0:21:32.57,Default,,0000,0000,0000,,{\fn黑体\fs18}所以他惩罚我们{\r}\NHe punished us.
+Dialogue: 0,0:21:33.87,0:21:36.86,Default,,0000,0000,0000,,{\fn黑体\fs18}让我们被你们的世界包覆{\r}\NWe were encrusted by your world.
+Dialogue: 0,0:21:37.67,0:21:41.00,Default,,0000,0000,0000,,{\fn黑体\fs18}火焰般的光芒被岩石和泥巴遮盖{\r}\NRock and mud shackled our fiery glow.
+Dialogue: 0,0:21:45.38,0:21:49.88,Default,,0000,0000,0000,,{\fn黑体\fs18}但我们仍将所有知识传授给人{\r}\NStill, we taught mankind  all we knew of Creation.
+Dialogue: 0,0:21:51.26,0:21:52.92,Default,,0000,0000,0000,,{\fn黑体\fs18}在我们的帮助下{\r}\NWith our help,
+Dialogue: 0,0:21:53.10,0:21:57.22,Default,,0000,0000,0000,,{\fn黑体\fs18}人从尘土中崛起  变得伟大且不可一世{\r}\Nthey rose from the dust,  became great and mighty.
+Dialogue: 0,0:21:57.56,0:22:01.52,Default,,0000,0000,0000,,{\fn黑体\fs18}然后把我们的恩惠转为暴行{\r}\NBut then  they turned our gifts to violence.
+Dialogue: 0,0:22:02.53,0:22:04.77,Default,,0000,0000,0000,,{\fn黑体\fs18}只有一人保护我们{\r}\NOnly one man protected us.
+Dialogue: 0,0:22:04.90,0:22:07.06,Default,,0000,0000,0000,,{\fn黑体\fs18}你的祖父玛土撒拉{\r}\NYour grandfather Methuselah.
+Dialogue: 0,0:22:07.86,0:22:12.03,Default,,0000,0000,0000,,{\fn黑体\fs18}我们几乎被赶尽杀绝{\r}\NWe were hunted. Most of us killed.
+Dialogue: 0,0:22:22.09,0:22:25.92,Default,,0000,0000,0000,,{\fn黑体\fs18}活下来的则继续困在石壳里{\r}\NThose who lived were left prisoners  in these stony shells,
+Dialogue: 0,0:22:26.26,0:22:28.92,Default,,0000,0000,0000,,{\fn黑体\fs18}被放逐在这片贫瘠的大地上{\r}\Nmarooned upon this barren land.
+Dialogue: 0,0:22:29.26,0:22:31.92,Default,,0000,0000,0000,,{\fn黑体\fs18}我们恳求造物主带我们回家{\r}\NWe begged The Creator  to take us home.
+Dialogue: 0,0:22:32.26,0:22:34.72,Default,,0000,0000,0000,,{\fn黑体\fs18}但他总是沉默{\r}\NBut He was always silent.
+Dialogue: 0,0:22:36.98,0:22:37.93,Default,,0000,0000,0000,,{\fn黑体\fs18}现在…{\r}\NAnd now 
+Dialogue: 0,0:22:38.44,0:22:41.27,Default,,0000,0000,0000,,{\fn黑体\fs18}你却说你听见了他的呼唤{\r}\Nyou claim that  you have heard His call.
+Dialogue: 0,0:22:41.61,0:22:43.77,Default,,0000,0000,0000,,{\fn黑体\fs18}撒米亚扎无法接受{\r}\NSamyaza cannot accept this.
+Dialogue: 0,0:22:44.11,0:22:48.27,Default,,0000,0000,0000,,{\fn黑体\fs18}就凭你一个人？  人可是破坏世界的元凶{\r}\NA man?  When it is men who broke the world.
+Dialogue: 0,0:22:50.74,0:22:52.60,Default,,0000,0000,0000,,{\fn黑体\fs18}但当我看着你{\r}\NBut I look at you
+Dialogue: 0,0:22:53.12,0:22:55.78,Default,,0000,0000,0000,,{\fn黑体\fs18}就好像又看见了亚当{\r}\Nand I see a glimmer of Adam again.
+Dialogue: 0,0:22:56.29,0:22:57.95,Default,,0000,0000,0000,,{\fn黑体\fs18}我所认识的人{\r}\NThe man I knew.
+Dialogue: 0,0:22:59.16,0:23:01.50,Default,,0000,0000,0000,,{\fn黑体\fs18}我前来帮助的人{\r}\NThe man I came to help.
+Dialogue: 0,0:23:26.15,0:23:27.98,Default,,0000,0000,0000,,{\fn黑体\fs18}我为什么不能去？{\r}\NWhy can't I come?
+Dialogue: 0,0:23:29.45,0:23:31.61,Default,,0000,0000,0000,,{\fn黑体\fs18}因为我要你照顾妈妈{\r}\NBecause I need you to look after Mother.
+Dialogue: 0,0:23:32.11,0:23:33.45,Default,,0000,0000,0000,,{\fn黑体\fs18}懂吗？{\r}\NDo you understand?
+Dialogue: 0,0:23:42.50,0:23:44.29,Default,,0000,0000,0000,,{\fn黑体\fs18}好好照顾爸爸{\r}\NAnd you look after your father.
+Dialogue: 0,0:23:51.22,0:23:52.55,Default,,0000,0000,0000,,{\fn黑体\fs18}看顾他们{\r}\NWatch over them.
+Dialogue: 0,0:23:53.18,0:23:55.13,Default,,0000,0000,0000,,{\fn黑体\fs18}你大可以放心{\r}\NThey are in good hands.
+Dialogue: 0,0:24:10.69,0:24:12.03,Default,,0000,0000,0000,,{\fn黑体\fs18}祖父？{\r}\NGrandfather?
+Dialogue: 0,0:24:20.70,0:24:21.86,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,0:24:45.02,0:24:48.06,Default,,0000,0000,0000,,{\fn黑体\fs18}这是你的曾祖父，要尊敬他{\r}\NThis is your great-grandfather.  Show him respect.
+Dialogue: 0,0:24:50.23,0:24:51.57,Default,,0000,0000,0000,,{\fn黑体\fs18}告诉他你的名字{\r}\NTell him your name.
+Dialogue: 0,0:24:54.24,0:24:55.40,Default,,0000,0000,0000,,{\fn黑体\fs18}我叫闪{\r}\NI am Shem.
+Dialogue: 0,0:24:55.74,0:24:56.77,Default,,0000,0000,0000,,{\fn黑体\fs18}我的长子{\r}\NMy eldest.
+Dialogue: 0,0:24:58.62,0:24:59.61,Default,,0000,0000,0000,,{\fn黑体\fs18}靠近一点{\r}\NCome closer.
+Dialogue: 0,0:25:01.04,0:25:02.37,Default,,0000,0000,0000,,{\fn黑体\fs18}让我看看你{\r}\NLet me see you. 
+Dialogue: 0,0:25:03.21,0:25:04.70,Default,,0000,0000,0000,,{\fn黑体\fs18}你是个幸运的孩子{\r}\NYou're a lucky boy.
+Dialogue: 0,0:25:05.25,0:25:09.24,Default,,0000,0000,0000,,{\fn黑体\fs18}你一定长得像妈妈，不像爸爸{\r}\NI think  you must have your mother's looks,  not your father's.
+Dialogue: 0,0:25:10.38,0:25:12.21,Default,,0000,0000,0000,,{\fn黑体\fs18}过来让曾祖父认识你{\r}\NCome tell me about yourself.
+Dialogue: 0,0:25:13.22,0:25:14.20,Default,,0000,0000,0000,,{\fn黑体\fs18}我问你{\r}\NSo,
+Dialogue: 0,0:25:14.93,0:25:17.59,Default,,0000,0000,0000,,{\fn黑体\fs18}世界上你最喜欢什么？{\r}\N what do you like most in the world?
+Dialogue: 0,0:25:19.76,0:25:22.04,Default,,0000,0000,0000,,{\fn黑体\fs18}- 莓果  - 你说什么？{\r}\NBerries.  What?
+Dialogue: 0,0:25:22.22,0:25:24.89,Default,,0000,0000,0000,,{\fn黑体\fs18}莓果，莓果，当然了{\r}\NBerries.  Berries, yes.
+Dialogue: 0,0:25:25.06,0:25:28.05,Default,,0000,0000,0000,,{\fn黑体\fs18}没有什么比鲜甜的莓果更好吃了{\r}\NWhat can compete with  fresh, ripe berries? Nothing.
+Dialogue: 0,0:25:28.31,0:25:31.65,Default,,0000,0000,0000,,{\fn黑体\fs18}太久没吃我都快忘了它们的滋味{\r}\NYes, it's been so long I can barely  remember the taste of them.
+Dialogue: 0,0:25:32.90,0:25:34.56,Default,,0000,0000,0000,,{\fn黑体\fs18}你有没有带一些来给我吃？{\r}\NTell me, did you bring me any?
+Dialogue: 0,0:25:35.78,0:25:36.77,Default,,0000,0000,0000,,{\fn黑体\fs18}没有吗？{\r}\NNo?
+Dialogue: 0,0:25:37.11,0:25:38.95,Default,,0000,0000,0000,,{\fn黑体\fs18}我现在好想吃{\r}\NI'm craving them now.
+Dialogue: 0,0:25:39.28,0:25:41.27,Default,,0000,0000,0000,,{\fn黑体\fs18}好吧，可能以后还有机会{\r}\NWell, perhaps one day.
+Dialogue: 0,0:25:41.62,0:25:44.80,Default,,0000,0000,0000,,{\fn黑体\fs18}爬这么长一段路，你一定累了{\r}\NYou must be tired.  It's a long way up here.  Yeah.
+Dialogue: 0,0:25:45.33,0:25:46.32,Default,,0000,0000,0000,,{\fn黑体\fs18}休息一下吧？{\r}\NWhy not rest?
+Dialogue: 0,0:25:55.30,0:25:56.63,Default,,0000,0000,0000,,{\fn黑体\fs18}这样就行了{\r}\NHow perfect.
+Dialogue: 0,0:25:58.93,0:26:02.76,Default,,0000,0000,0000,,{\fn黑体\fs18}我们要讨论的话题不适合孩子{\r}\NWhat we need to discuss  is not for boys.
+Dialogue: 0,0:26:04.60,0:26:07.09,Default,,0000,0000,0000,,{\fn黑体\fs18}- 你知道我来的原因？  - 是的{\r}\NYou know why I've come?  Yes.
+Dialogue: 0,0:26:08.15,0:26:12.76,Default,,0000,0000,0000,,{\fn黑体\fs18}我父亲以诺临终前曾告诉我{\r}\NBefore he walked on,  my father Enoch told me that one day,
+Dialogue: 0,0:26:12.98,0:26:15.14,Default,,0000,0000,0000,,{\fn黑体\fs18}人若不知悔改{\r}\Nif man continued in his ways,
+Dialogue: 0,0:26:16.49,0:26:18.98,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主将摧毁这个世界{\r}\NThe Creator would annihilate this world.
+Dialogue: 0,0:26:19.32,0:26:20.78,Default,,0000,0000,0000,,{\fn黑体\fs18}所以我看到的即将成真？{\r}\NSo what I saw is true?
+Dialogue: 0,0:26:21.83,0:26:24.49,Default,,0000,0000,0000,,{\fn黑体\fs18}所有生命都将因人的恶行而抹杀？{\r}\NAll life blotted out  because of what man has done?
+Dialogue: 0,0:26:26.46,0:26:28.29,Default,,0000,0000,0000,,{\fn黑体\fs18}还有挽救的余地吗？{\r}\NCan it not be averted?
+Dialogue: 0,0:26:28.50,0:26:32.16,Default,,0000,0000,0000,,{\fn黑体\fs18}他一定会用你能了解的方法让你知道{\r}\NNoah, you must trust that He speaks  in a way that you can understand.
+Dialogue: 0,0:26:33.13,0:26:36.29,Default,,0000,0000,0000,,{\fn黑体\fs18}告诉我，这场灾难是否能够避免？{\r}\NSo you tell me.  Can this destruction be averted?
+Dialogue: 0,0:26:38.72,0:26:39.71,Default,,0000,0000,0000,,{\fn黑体\fs18}不能{\r}\NNo.
+Dialogue: 0,0:26:44.35,0:26:45.68,Default,,0000,0000,0000,,{\fn黑体\fs18}但他要我来这里{\r}\NHe sent me here.
+Dialogue: 0,0:26:47.31,0:26:49.97,Default,,0000,0000,0000,,{\fn黑体\fs18}如果我阻挡不了，为什么还要我来？{\r}\NWhy send me  if there's nothing I can do to stop it?
+Dialogue: 0,0:26:50.69,0:26:53.55,Default,,0000,0000,0000,,{\fn黑体\fs18}他可能只是要你来…{\r}\NWell, perhaps He simply sends you here
+Dialogue: 0,0:26:53.73,0:26:55.22,Default,,0000,0000,0000,,{\fn黑体\fs18}…跟我这老头喝杯茶{\r}\Nto share a cup of tea with an old man.
+Dialogue: 0,0:26:57.40,0:26:59.89,Default,,0000,0000,0000,,{\fn黑体\fs18}你还看见了什么？{\r}\NSo, is that all you saw?
+Dialogue: 0,0:27:00.32,0:27:02.86,Default,,0000,0000,0000,,{\fn黑体\fs18}除了这里以及毁灭世界的烈焰？{\r}\NThe fires of destruction on this place?
+Dialogue: 0,0:27:03.03,0:27:05.37,Default,,0000,0000,0000,,{\fn黑体\fs18}不，不是火{\r}\NNo, not fire.
+Dialogue: 0,0:27:06.37,0:27:08.36,Default,,0000,0000,0000,,{\fn黑体\fs18}- 是水  - 水？{\r}\N- Water.  - Water?
+Dialogue: 0,0:27:10.00,0:27:12.03,Default,,0000,0000,0000,,{\fn黑体\fs18}我父亲说会是火{\r}\NMy father said it would be fire.
+Dialogue: 0,0:27:12.38,0:27:14.91,Default,,0000,0000,0000,,{\fn黑体\fs18}我看见了水，水带来死亡{\r}\NI saw water. Death by water.
+Dialogue: 0,0:27:17.01,0:27:18.50,Default,,0000,0000,0000,,{\fn黑体\fs18}我看见了死亡{\r}\NI saw death.
+Dialogue: 0,0:27:19.88,0:27:21.59,Default,,0000,0000,0000,,{\fn黑体\fs18}也看见了新生命{\r}\NAnd I saw new life.
+Dialogue: 0,0:27:22.89,0:27:24.59,Default,,0000,0000,0000,,{\fn黑体\fs18}还有别的，祖父{\r}\NThere's something more, Grandfather.
+Dialogue: 0,0:27:25.51,0:27:27.35,Default,,0000,0000,0000,,{\fn黑体\fs18}一件我该做的事{\r}\NSomething I'm to do. 
+Dialogue: 0,0:27:27.89,0:27:29.22,Default,,0000,0000,0000,,{\fn黑体\fs18}我知道的{\r}\NI know it.
+Dialogue: 0,0:27:30.35,0:27:32.18,Default,,0000,0000,0000,,{\fn黑体\fs18}但我之前没看出来{\r}\NI just didn't see what it was.
+Dialogue: 0,0:27:33.90,0:27:35.39,Default,,0000,0000,0000,,{\fn黑体\fs18}新的生命{\r}\NNew life.
+Dialogue: 0,0:27:36.69,0:27:39.35,Default,,0000,0000,0000,,{\fn黑体\fs18}或许你还有东西没看见{\r}\NWell, perhaps  there is more for you to see.
+Dialogue: 0,0:27:39.70,0:27:43.36,Default,,0000,0000,0000,,{\fn黑体\fs18}他难道不是要你来跟老头喝杯茶吗？{\r}\NDid He not send you here to  drink a cup of tea with an old man?
+Dialogue: 0,0:27:47.08,0:27:49.41,Default,,0000,0000,0000,,{\fn黑体\fs18}药就是难吃{\r}\NThe medicine always tastes bad.
+Dialogue: 0,0:28:50.64,0:28:53.47,Default,,0000,0000,0000,,{\fn黑体\fs18}- 她是唯一活着的人  - 她伤得很重吗？{\r}\NShe was the only one moving.  Was she hurt badly?
+Dialogue: 0,0:28:53.64,0:28:55.73,Default,,0000,0000,0000,,{\fn黑体\fs18}她的肚皮上有个很大的伤口{\r}\NShe had a big cut on her belly.
+Dialogue: 0,0:28:55.81,0:28:58.30,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈帮她，我则握住她的手{\r}\NMother helped and I held her hand.
+Dialogue: 0,0:28:58.65,0:29:00.94,Default,,0000,0000,0000,,{\fn黑体\fs18}她一定觉得很安心{\r}\NThat must have made her feel safe.
+Dialogue: 0,0:29:01.53,0:29:02.52,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么样？{\r}\NWell?
+Dialogue: 0,0:29:03.82,0:29:05.48,Default,,0000,0000,0000,,{\fn黑体\fs18}火会吞噬一切{\r}\NFire consumes all.
+Dialogue: 0,0:29:08.33,0:29:09.86,Default,,0000,0000,0000,,{\fn黑体\fs18}水能洗清罪恶{\r}\NWater cleanses.
+Dialogue: 0,0:29:11.29,0:29:15.28,Default,,0000,0000,0000,,{\fn黑体\fs18}将肮脏与纯洁隔离  邪恶与无辜分开{\r}\NIt separates the foul from the pure.  The wicked from the innocent.
+Dialogue: 0,0:29:16.00,0:29:19.49,Default,,0000,0000,0000,,{\fn黑体\fs18}恶则向下沉沦  善则向上提升{\r}\NAnd that which sinks  from that which rises.
+Dialogue: 0,0:29:23.01,0:29:24.50,Default,,0000,0000,0000,,{\fn黑体\fs18}他要摧毁一切…{\r}\NHe destroys all,
+Dialogue: 0,0:29:26.01,0:29:27.97,Default,,0000,0000,0000,,{\fn黑体\fs18}…是为了重新来过{\r}\Nbut only to start again.
+Dialogue: 0,0:29:28.85,0:29:29.93,Default,,0000,0000,0000,,{\fn黑体\fs18}你确定？{\r}\NYou sure?
+Dialogue: 0,0:29:31.22,0:29:32.21,Default,,0000,0000,0000,,{\fn黑体\fs18}确定{\r}\NYes.
+Dialogue: 0,0:29:32.85,0:29:34.84,Default,,0000,0000,0000,,{\fn黑体\fs18}风暴无法避免{\r}\NThe storm cannot be stopped.
+Dialogue: 0,0:29:35.85,0:29:37.72,Default,,0000,0000,0000,,{\fn黑体\fs18}但可以求存{\r}\NBut it can be survived.
+Dialogue: 0,0:29:40.32,0:29:42.02,Default,,0000,0000,0000,,{\fn黑体\fs18}你可能会需要这个{\r}\NYou may need this.
+Dialogue: 0,0:29:42.36,0:29:43.69,Default,,0000,0000,0000,,{\fn黑体\fs18}这是一颗种子{\r}\NIt's a seed.
+Dialogue: 0,0:29:44.03,0:29:45.73,Default,,0000,0000,0000,,{\fn黑体\fs18}它来自最早的花园{\r}\NFrom the first Garden.
+Dialogue: 0,0:29:46.86,0:29:48.35,Default,,0000,0000,0000,,{\fn黑体\fs18}伊甸园{\r}\NFrom Eden.
+Dialogue: 0,0:29:50.16,0:29:51.82,Default,,0000,0000,0000,,{\fn黑体\fs18}记住，诺亚{\r}\NRemember, Noah,
+Dialogue: 0,0:29:52.37,0:29:54.53,Default,,0000,0000,0000,,{\fn黑体\fs18}他选择你是有原因的{\r}\NHe chose you for a reason.
+Dialogue: 0,0:30:00.71,0:30:02.37,Default,,0000,0000,0000,,{\fn黑体\fs18}你抓不到我！{\r}\NYou can't get me! 
+Dialogue: 0,0:30:02.71,0:30:04.75,Default,,0000,0000,0000,,{\fn黑体\fs18}你抓不到我！{\r}\NYou can't get me!
+Dialogue: 0,0:30:06.93,0:30:08.21,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸！{\r}\NDada!
+Dialogue: 0,0:30:18.06,0:30:19.39,Default,,0000,0000,0000,,{\fn黑体\fs18}我的祖父还活着{\r}\NMy grandfather lives.
+Dialogue: 0,0:30:21.02,0:30:23.06,Default,,0000,0000,0000,,{\fn黑体\fs18}他让我看清楚我们来这里的目的{\r}\NHe's helped me see  what we're here to do.
+Dialogue: 0,0:30:29.57,0:30:32.74,Default,,0000,0000,0000,,{\fn黑体\fs18}人将因其所作所为而受罚{\r}\NMen are going to be punished  for what they've done to this world.
+Dialogue: 0,0:30:33.74,0:30:35.58,Default,,0000,0000,0000,,{\fn黑体\fs18}毁灭即将来临{\r}\NThere will be destruction.
+Dialogue: 0,0:30:36.29,0:30:37.95,Default,,0000,0000,0000,,{\fn黑体\fs18}悲剧就要发生{\r}\NThere will be tragedy.
+Dialogue: 0,0:30:39.42,0:30:43.08,Default,,0000,0000,0000,,{\fn黑体\fs18}我们家族被赋予重任{\r}\NAnd our family  has been chosen for a great task.
+Dialogue: 0,0:30:44.92,0:30:47.96,Default,,0000,0000,0000,,{\fn黑体\fs18}我们被选来解救无辜的生命{\r}\NWe've been chosen  to save the innocent.
+Dialogue: 0,0:30:48.80,0:30:50.13,Default,,0000,0000,0000,,{\fn黑体\fs18}无辜的生命？{\r}\NThe innocent?
+Dialogue: 0,0:30:51.39,0:30:52.72,Default,,0000,0000,0000,,{\fn黑体\fs18}动物{\r}\NThe animals.
+Dialogue: 0,0:30:53.60,0:30:55.05,Default,,0000,0000,0000,,{\fn黑体\fs18}它们为什么是无辜的？{\r}\NWhy are they innocent?
+Dialogue: 0,0:30:55.72,0:30:58.39,Default,,0000,0000,0000,,{\fn黑体\fs18}因为它们仍依照伊甸园的方式过活{\r}\NBecause they still live  as they did in the Garden.
+Dialogue: 0,0:30:59.90,0:31:00.73,Default,,0000,0000,0000,,{\fn黑体\fs18}没错{\r}\NYes.
+Dialogue: 0,0:31:02.48,0:31:04.35,Default,,0000,0000,0000,,{\fn黑体\fs18}我们必须拯救足够的动物{\r}\NAnd we need to save enough of them
+Dialogue: 0,0:31:04.44,0:31:05.43,Default,,0000,0000,0000,,{\fn黑体\fs18}让生命重新开始{\r}\Nto start again.
+Dialogue: 0,0:31:05.73,0:31:07.07,Default,,0000,0000,0000,,{\fn黑体\fs18}那我们怎么办？{\r}\NBut what of us?
+Dialogue: 0,0:31:15.95,0:31:18.16,Default,,0000,0000,0000,,{\fn黑体\fs18}我们也会重新来过{\r}\NI guess we get to start again, too.
+Dialogue: 0,0:31:19.46,0:31:22.45,Default,,0000,0000,0000,,{\fn黑体\fs18}在更美好的新世界里重新来过{\r}\NWe get to start again  in a new and better world.
+Dialogue: 0,0:31:24.63,0:31:25.79,Default,,0000,0000,0000,,{\fn黑体\fs18}不过在那之前{\r}\NBut first
+Dialogue: 0,0:31:27.30,0:31:29.66,Default,,0000,0000,0000,,{\fn黑体\fs18}- 必须先建造  - 建造什么？{\r}\Nwe have to build.  Build What?
+Dialogue: 0,0:31:34.64,0:31:36.47,Default,,0000,0000,0000,,{\fn黑体\fs18}大洪水要来了{\r}\NA great flood is coming.
+Dialogue: 0,0:31:37.31,0:31:41.47,Default,,0000,0000,0000,,{\fn黑体\fs18}天上的水和地上的水将汇合{\r}\NThe waters of the heavens  will meet the waters of the earth.
+Dialogue: 0,0:31:42.31,0:31:44.68,Default,,0000,0000,0000,,{\fn黑体\fs18}我们要造船来度过风暴{\r}\NWe build a vessel to survive the storm.
+Dialogue: 0,0:31:51.03,0:31:52.52,Default,,0000,0000,0000,,{\fn黑体\fs18}我们要建造一艘方舟{\r}\NWe build an ark.
+Dialogue: 0,0:32:12.68,0:32:14.51,Default,,0000,0000,0000,,{\fn黑体\fs18}把叛徒带回去{\r}\NTake the traitor back.
+Dialogue: 0,0:32:14.85,0:32:17.30,Default,,0000,0000,0000,,{\fn黑体\fs18}他是长者的子嗣！{\r}\NHe is a child of the old one!
+Dialogue: 0,0:32:17.97,0:32:19.01,Default,,0000,0000,0000,,{\fn黑体\fs18}别走！{\r}\NStop!
+Dialogue: 0,0:32:19.98,0:32:22.64,Default,,0000,0000,0000,,{\fn黑体\fs18}我们被赋予任务，帮助我们{\r}\NThere is work to do. Help us.
+Dialogue: 0,0:32:23.31,0:32:24.64,Default,,0000,0000,0000,,{\fn黑体\fs18}帮助你们？{\r}\NHelp you?
+Dialogue: 0,0:32:24.86,0:32:27.52,Default,,0000,0000,0000,,{\fn黑体\fs18}我们曾经帮助过人{\r}\NWe tried to help your kind once.
+Dialogue: 0,0:32:27.73,0:32:30.57,Default,,0000,0000,0000,,{\fn黑体\fs18}但你们害我们失去一切！{\r}\NAnd we lost everything because of you!
+Dialogue: 0,0:32:31.24,0:32:32.77,Default,,0000,0000,0000,,{\fn黑体\fs18}还不是一切{\r}\NNot everything.
+Dialogue: 0,0:32:33.36,0:32:36.90,Default,,0000,0000,0000,,{\fn黑体\fs18}我们可以拯救其余生命，再次服侍他{\r}\NWe can save what is left.  We can serve Him again.
+Dialogue: 0,0:32:37.87,0:32:40.36,Default,,0000,0000,0000,,{\fn黑体\fs18}你们都是背信忘义的蛇！{\r}\NYou treacherous snake!
+Dialogue: 0,0:32:48.59,0:32:50.37,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主{\r}\NThe Creator.
+Dialogue: 0,0:33:52.94,0:33:54.15,Default,,0000,0000,0000,,{\fn黑体\fs18}孩子们！{\r}\NChildren!
+Dialogue: 0,0:34:01.62,0:34:02.90,Default,,0000,0000,0000,,{\fn黑体\fs18}这是什么？{\r}\NWhat is this?
+Dialogue: 0,0:34:05.96,0:34:06.95,Default,,0000,0000,0000,,{\fn黑体\fs18}这是…{\r}\NThis...
+Dialogue: 0,0:34:10.00,0:34:11.79,Default,,0000,0000,0000,,{\fn黑体\fs18}这是我们的方舟{\r}\NThis is our ark.
+Dialogue: 0,0:34:22.81,0:34:25.47,Default,,0000,0000,0000,,{\fn黑体\fs18}我们将帮助这个人{\r}\NWe will help this man.
+Dialogue: 0,0:36:24.08,0:36:25.76,Default,,0000,0000,0000,,{\fn黑体\fs18}不{\r}\NNo!
+Dialogue: 0,0:36:44.61,0:36:45.60,Default,,0000,0000,0000,,{\fn黑体\fs18}闪{\r}\NShem.
+Dialogue: 0,0:36:46.83,0:36:47.81,Default,,0000,0000,0000,,{\fn黑体\fs18}别这样{\r}\NWait.
+Dialogue: 0,0:36:48.62,0:36:49.90,Default,,0000,0000,0000,,{\fn黑体\fs18}拜托{\r}\NPlease.
+Dialogue: 0,0:36:55.29,0:36:56.78,Default,,0000,0000,0000,,{\fn黑体\fs18}还会痛吗？{\r}\NIt still hurts?
+Dialogue: 0,0:37:02.34,0:37:03.33,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,0:37:03.63,0:37:04.62,Default,,0000,0000,0000,,{\fn黑体\fs18}闪！{\r}\NShem!
+Dialogue: 0,0:37:05.80,0:37:07.42,Default,,0000,0000,0000,,{\fn黑体\fs18}他没有人陪{\r}\NHe doesn't have anyone.
+Dialogue: 0,0:37:25.95,0:37:26.94,Default,,0000,0000,0000,,{\fn黑体\fs18}我们走{\r}\NCome.
+Dialogue: 0,0:37:34.66,0:37:36.53,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸，你看见了吗？{\r}\NFather, did you see them?
+Dialogue: 0,0:37:37.63,0:37:38.61,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸？{\r}\NFather?
+Dialogue: 0,0:37:41.17,0:37:42.50,Default,,0000,0000,0000,,{\fn黑体\fs18}看见了，雅弗{\r}\NYes, Japheth.
+Dialogue: 0,0:37:44.34,0:37:45.80,Default,,0000,0000,0000,,{\fn黑体\fs18}风暴要来了{\r}\NIt begins.
+Dialogue: 0,0:39:06.88,0:39:07.92,Default,,0000,0000,0000,,{\fn黑体\fs18}准备好了吗？{\r}\NReady?
+Dialogue: 0,0:39:32.28,0:39:33.82,Default,,0000,0000,0000,,{\fn黑体\fs18}它睡着了{\r}\NIt sleeps.
+Dialogue: 0,0:40:21.79,0:40:23.00,Default,,0000,0000,0000,,{\fn黑体\fs18}动作轻一点{\r}\NGently.
+Dialogue: 0,0:40:25.46,0:40:28.17,Default,,0000,0000,0000,,{\fn黑体\fs18}你瞧，一只公的和一只母的{\r}\NSee, that's a boy one  and that's a girl one.
+Dialogue: 0,0:40:28.34,0:40:31.17,Default,,0000,0000,0000,,{\fn黑体\fs18}风暴过后，它们会成为父母{\r}\NAfter the storm,  they'll become a mother and a father.
+Dialogue: 0,0:40:31.34,0:40:34.13,Default,,0000,0000,0000,,{\fn黑体\fs18}孵出来的雏鸟将在大地上生生不息{\r}\NAnd the hatchlings will spread  right across the world.
+Dialogue: 0,0:40:36.64,0:40:38.50,Default,,0000,0000,0000,,{\fn黑体\fs18}我们必须温柔对待它们{\r}\NWe have to be gentle with them
+Dialogue: 0,0:40:38.89,0:40:40.68,Default,,0000,0000,0000,,{\fn黑体\fs18}好好保护它们{\r}\Nand we have to be protective.
+Dialogue: 0,0:40:41.35,0:40:42.51,Default,,0000,0000,0000,,{\fn黑体\fs18}万一它们有了什么闪失{\r}\NIf something were to happen,
+Dialogue: 0,0:40:42.64,0:40:45.23,Default,,0000,0000,0000,,{\fn黑体\fs18}创世的一小部分就会永远消失{\r}\Nthat would be  a small piece of Creation lost forever.
+Dialogue: 0,0:40:47.02,0:40:49.81,Default,,0000,0000,0000,,{\fn黑体\fs18}这些无辜的动物现在交付我们手中{\r}\NAll of these innocent creatures  are now in our care.
+Dialogue: 0,0:40:51.82,0:40:54.03,Default,,0000,0000,0000,,{\fn黑体\fs18}我们的工作就是照顾它们{\r}\NIt's our job to look after them.
+Dialogue: 0,0:41:06.88,0:41:08.12,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸？{\r}\NFather?
+Dialogue: 0,0:41:09.21,0:41:10.70,Default,,0000,0000,0000,,{\fn黑体\fs18}所有鸟都成双成对{\r}\NAll the birds are two.
+Dialogue: 0,0:41:12.05,0:41:14.51,Default,,0000,0000,0000,,{\fn黑体\fs18}你有妈妈，闪有伊拉{\r}\NYou have Mother, Shem has Ila.
+Dialogue: 0,0:41:15.72,0:41:17.05,Default,,0000,0000,0000,,{\fn黑体\fs18}那我呢？{\r}\NBut what of me?
+Dialogue: 0,0:41:17.68,0:41:19.01,Default,,0000,0000,0000,,{\fn黑体\fs18}雅弗呢？{\r}\NWhat of Japheth?
+Dialogue: 0,0:41:20.47,0:41:22.13,Default,,0000,0000,0000,,{\fn黑体\fs18}谁会是我们的另一半？{\r}\NWho is there for us?
+Dialogue: 0,0:41:22.98,0:41:26.14,Default,,0000,0000,0000,,{\fn黑体\fs18}你看见他造林让我们有木材建方舟{\r}\NDid you see how He made the forest  to give us wood for the ark?
+Dialogue: 0,0:41:26.73,0:41:28.56,Default,,0000,0000,0000,,{\fn黑体\fs18}也看见他把鸟送过来{\r}\NHow He sent the birds?
+Dialogue: 0,0:41:29.48,0:41:30.64,Default,,0000,0000,0000,,{\fn黑体\fs18}你想想…{\r}\NSo,
+Dialogue: 0,0:41:31.48,0:41:33.32,Default,,0000,0000,0000,,{\fn黑体\fs18}他不是给了我们所需的东西吗？{\r}\Nhasn't He sent everything we need?
+Dialogue: 0,0:41:38.99,0:41:40.23,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈！{\r}\NMother!
+Dialogue: 0,0:41:41.87,0:41:43.20,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么了？{\r}\NWhat is it? What?
+Dialogue: 0,0:41:43.37,0:41:44.70,Default,,0000,0000,0000,,{\fn黑体\fs18}蛇来了！{\r}\NSnakes!
+Dialogue: 0,0:41:51.80,0:41:53.54,Default,,0000,0000,0000,,{\fn黑体\fs18}- 蛇也会来？  - 是的{\r}\N- Snakes are coming, too?  - Yeah.
+Dialogue: 0,0:41:55.09,0:41:59.55,Default,,0000,0000,0000,,{\fn黑体\fs18}所有在地上爬行蠕动的都会来{\r}\NAll that creeps, all that crawls,  all that slithers.
+Dialogue: 0,0:42:00.85,0:42:02.18,Default,,0000,0000,0000,,{\fn黑体\fs18}没事的{\r}\NIt's all right.
+Dialogue: 0,0:43:22.26,0:43:24.47,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸！爸爸！{\r}\NFather! Father!
+Dialogue: 0,0:43:26.64,0:43:28.30,Default,,0000,0000,0000,,{\fn黑体\fs18}别怕{\r}\NDon't be afraid.
+Dialogue: 0,0:43:31.23,0:43:33.39,Default,,0000,0000,0000,,{\fn黑体\fs18}谁都不准伤害这个男孩{\r}\NNo one will hurt this boy.
+Dialogue: 0,0:43:36.19,0:43:37.43,Default,,0000,0000,0000,,{\fn黑体\fs18}你叫什么名字？{\r}\NWhat's your name?
+Dialogue: 0,0:43:39.03,0:43:40.11,Default,,0000,0000,0000,,{\fn黑体\fs18}- 含  - 含？{\r}\N- Ham.  - Ham?
+Dialogue: 0,0:43:42.95,0:43:44.61,Default,,0000,0000,0000,,{\fn黑体\fs18}我是土拔尔 - 该隐{\r}\NI am Tubal-Cain.
+Dialogue: 0,0:43:45.08,0:43:46.57,Default,,0000,0000,0000,,{\fn黑体\fs18}你认识我吗？{\r}\NDo you know me?
+Dialogue: 0,0:43:49.21,0:43:50.95,Default,,0000,0000,0000,,{\fn黑体\fs18}你不认识你的王？{\r}\NYou don't know your king?
+Dialogue: 0,0:43:54.09,0:43:57.92,Default,,0000,0000,0000,,{\fn黑体\fs18}我父亲说造物主的花园里不能有王{\r}\NMy father says there can be no king  in The Creator's garden.
+Dialogue: 0,0:44:54.52,0:44:56.64,Default,,0000,0000,0000,,{\fn黑体\fs18}含，过来{\r}\NHam, come here.
+Dialogue: 0,0:45:00.99,0:45:03.02,Default,,0000,0000,0000,,{\fn黑体\fs18}别带走我最优秀的士兵{\r}\NDo not take my best soldier.
+Dialogue: 0,0:45:03.95,0:45:05.61,Default,,0000,0000,0000,,{\fn黑体\fs18}他不属于你们{\r}\NHe's nothing of yours.
+Dialogue: 0,0:45:05.82,0:45:07.40,Default,,0000,0000,0000,,{\fn黑体\fs18}看看他拿武器的样子{\r}\NLook at his hand on that weapon.
+Dialogue: 0,0:45:07.49,0:45:09.23,Default,,0000,0000,0000,,{\fn黑体\fs18}我相信他是我们的一分子{\r}\NI believe he is something of mine.
+Dialogue: 0,0:45:10.20,0:45:11.19,Default,,0000,0000,0000,,{\fn黑体\fs18}含{\r}\NHam.
+Dialogue: 0,0:45:12.83,0:45:13.99,Default,,0000,0000,0000,,{\fn黑体\fs18}东西放下{\r}\NLeave it.
+Dialogue: 0,0:45:14.92,0:45:17.41,Default,,0000,0000,0000,,{\fn黑体\fs18}- 不，他给了我  - 听话{\r}\N- No, he gave it to me.  - Do what I tell you.
+Dialogue: 0,0:45:30.81,0:45:34.47,Default,,0000,0000,0000,,{\fn黑体\fs18}有人说奇迹发生  我斥为无稽之谈{\r}\NWhen I heard talk of miracles,  I dismissed them.
+Dialogue: 0,0:45:35.39,0:45:38.43,Default,,0000,0000,0000,,{\fn黑体\fs18}但我亲眼看见鸟群飞来{\r}\NBut then I saw the birds  with my own eyes, flying here,
+Dialogue: 0,0:45:38.81,0:45:40.40,Default,,0000,0000,0000,,{\fn黑体\fs18}因此想一探究竟{\r}\Nand I had to come.
+Dialogue: 0,0:45:42.28,0:45:44.84,Default,,0000,0000,0000,,{\fn黑体\fs18}- 这里没有东西可以给你  - 是吗？{\r}\NThere isn't anything for you here.  No?
+Dialogue: 0,0:45:45.24,0:45:47.23,Default,,0000,0000,0000,,{\fn黑体\fs18}所有东西都是我的{\r}\NThis all belongs to me.
+Dialogue: 0,0:45:47.62,0:45:50.11,Default,,0000,0000,0000,,{\fn黑体\fs18}这块土地，这片森林{\r}\NThis land. This forest.
+Dialogue: 0,0:45:50.83,0:45:52.82,Default,,0000,0000,0000,,{\fn黑体\fs18}还有你盖的那座堡垒{\r}\NThat stronghold of yours.
+Dialogue: 0,0:45:53.54,0:45:57.03,Default,,0000,0000,0000,,{\fn黑体\fs18}你真的以为躲在那里就能逃离我？{\r}\NDid you really think you could  protect yourself from me in that?
+Dialogue: 0,0:45:57.38,0:45:59.21,Default,,0000,0000,0000,,{\fn黑体\fs18}那不是为了逃离你而盖的{\r}\NIt's not protection from you.
+Dialogue: 0,0:45:59.59,0:46:01.08,Default,,0000,0000,0000,,{\fn黑体\fs18}不然是为了什么？{\r}\NThen what is it?
+Dialogue: 0,0:46:01.63,0:46:02.62,Default,,0000,0000,0000,,{\fn黑体\fs18}这艘方舟…{\r}\NAn ark
+Dialogue: 0,0:46:04.26,0:46:05.96,Default,,0000,0000,0000,,{\fn黑体\fs18}…会在造物主以洪水清除世上罪恶时…{\r}\Nto hold the innocent
+Dialogue: 0,0:46:05.96,0:46:08.44,Default,,0000,0000,0000,,{\fn黑体\fs18}…保护无辜性命{\r}\Nwhen The Creator sends his deluge  to wipe out the wicked from this world.
+Dialogue: 0,0:46:08.51,0:46:11.17,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主才不在乎这世界变成怎么样{\r}\NThe Creator does not care  what happens in this world.
+Dialogue: 0,0:46:11.35,0:46:13.84,Default,,0000,0000,0000,,{\fn黑体\fs18}他标记该隐后便无声无息{\r}\NNobody has heard from Him  since He marked Cain.
+Dialogue: 0,0:46:14.31,0:46:17.14,Default,,0000,0000,0000,,{\fn黑体\fs18}我们无依无靠  是被抛弃的孩子{\r}\NWe are alone.  Orphaned children,
+Dialogue: 0,0:46:17.48,0:46:18.81,Default,,0000,0000,0000,,{\fn黑体\fs18}受到诅咒{\r}\Ncursed to struggle by
+Dialogue: 0,0:46:19.11,0:46:21.85,Default,,0000,0000,0000,,{\fn黑体\fs18}必须汗流浃背才得以苟且偷生{\r}\Nthe sweat of our brow to survive.
+Dialogue: 0,0:46:21.94,0:46:25.40,Default,,0000,0000,0000,,{\fn黑体\fs18}所以我不择手段也要活下去{\r}\NDamned if I don't do everything  it takes to do just that.
+Dialogue: 0,0:46:26.57,0:46:28.65,Default,,0000,0000,0000,,{\fn黑体\fs18}所以我要什么就去拿{\r}\NDamned if I don't take what I want.
+Dialogue: 0,0:46:40.38,0:46:42.04,Default,,0000,0000,0000,,{\fn黑体\fs18}我们见过面吗？{\r}\NWe have met?
+Dialogue: 0,0:46:43.92,0:46:45.41,Default,,0000,0000,0000,,{\fn黑体\fs18}我是拉麦的儿子！{\r}\NI am the son of Lamech!
+Dialogue: 0,0:46:47.93,0:46:50.09,Default,,0000,0000,0000,,{\fn黑体\fs18}塞特的第八代子孙！{\r}\NEight generations descended from Seth!
+Dialogue: 0,0:46:50.43,0:46:52.26,Default,,0000,0000,0000,,{\fn黑体\fs18}回到该隐为你们建立的城市去{\r}\NReturn to your cities of Cain!
+Dialogue: 0,0:46:52.85,0:46:54.93,Default,,0000,0000,0000,,{\fn黑体\fs18}我们都已经受到审判！{\r}\NKnow we have all been judged!
+Dialogue: 0,0:46:55.77,0:46:57.76,Default,,0000,0000,0000,,{\fn黑体\fs18}我拥有千万大军{\r}\NI have men at my back,
+Dialogue: 0,0:46:57.85,0:46:59.93,Default,,0000,0000,0000,,{\fn黑体\fs18}凭你一个人就想抵抗我？{\r}\Nand you stand alone and defy me?
+Dialogue: 0,0:47:02.23,0:47:03.35,Default,,0000,0000,0000,,{\fn黑体\fs18}我并非独自一人{\r}\NI'm not alone.
+Dialogue: 0,0:47:14.76,0:47:16.25,Default,,0000,0000,0000,,Take the children!
+Dialogue: 0,0:47:16.33,0:47:17.99,Default,,0000,0000,0000,,{\fn黑体\fs18}别害怕，我的子民！{\r}\NDo not fear, my people!
+Dialogue: 0,0:47:18.71,0:47:21.52,Default,,0000,0000,0000,,{\fn黑体\fs18}别害怕！站稳脚步！{\r}\NDon't be afraid! Stand!  Hold your line, men.
+Dialogue: 0,0:47:38.02,0:47:40.63,Default,,0000,0000,0000,,{\fn黑体\fs18}他的奴才跟你站在同一阵线？{\r}\NHis minions, they're with you?
+Dialogue: 0,0:47:43.90,0:47:46.89,Default,,0000,0000,0000,,{\fn黑体\fs18}奇迹？你说洪水会来？{\r}\NMiracles? A deluge, you claim?
+Dialogue: 0,0:47:48.40,0:47:50.31,Default,,0000,0000,0000,,{\fn黑体\fs18}或许你是对的{\r}\NWell, perhaps you're right.
+Dialogue: 0,0:47:51.36,0:47:53.80,Default,,0000,0000,0000,,{\fn黑体\fs18}或许把我们逐出伊甸园还不够{\r}\NPerhaps casting us out of Paradise  was not enough.
+Dialogue: 0,0:47:53.80,0:47:58.32,Default,,0000,0000,0000,,{\fn黑体\fs18}他要回来把我们解决掉{\r}\NPerhaps, He returns to finish us off.
+Dialogue: 0,0:47:59.41,0:48:01.07,Default,,0000,0000,0000,,{\fn黑体\fs18}如果是这样…{\r}\NWell, if He does,
+Dialogue: 0,0:48:01.42,0:48:04.41,Default,,0000,0000,0000,,{\fn黑体\fs18}…我会乘上你那艘船度过风暴{\r}\NI will ride the storm in that ship of yours.
+Dialogue: 0,0:48:07.13,0:48:09.12,Default,,0000,0000,0000,,{\fn黑体\fs18}你和你的子民都无处可逃{\r}\NThere is no escape  for you and your kind.
+Dialogue: 0,0:48:12.22,0:48:13.80,Default,,0000,0000,0000,,{\fn黑体\fs18}你的大限已到{\r}\NYour time is done.
+Dialogue: 0,0:48:17.56,0:48:19.56,Default,,0000,0000,0000,,{\fn黑体\fs18}- 大地正在死去  - 含{\r}\N- The land is dying.  - Ham.
+Dialogue: 0,0:48:19.56,0:48:22.80,Default,,0000,0000,0000,,{\fn黑体\fs18}- 城市已经凋零  - 别再听他说了{\r}\N- The cities are dead.  - Don't listen to him.
+Dialogue: 0,0:48:22.90,0:48:24.73,Default,,0000,0000,0000,,{\fn黑体\fs18}我的子民追随我！{\r}\NMy people follow me!
+Dialogue: 0,0:48:25.48,0:48:27.77,Default,,0000,0000,0000,,{\fn黑体\fs18}更多人会追随他们！{\r}\NAnd more will follow them!
+Dialogue: 0,0:48:30.40,0:48:33.11,Default,,0000,0000,0000,,{\fn黑体\fs18}我才不怕奇迹  拉麦之子！{\r}\NI'm not afraid of miracles,  son of Lamech!
+Dialogue: 0,0:48:33.41,0:48:35.44,Default,,0000,0000,0000,,{\fn黑体\fs18}你现在拒绝我们少数人{\r}\NIf you refuse my dozens now,
+Dialogue: 0,0:48:35.62,0:48:38.61,Default,,0000,0000,0000,,{\fn黑体\fs18}那就等着我带多数人回来！{\r}\NI shall return with legions!
+Dialogue: 0,0:48:51.84,0:48:52.75,Default,,0000,0000,0000,,{\fn黑体\fs18}走{\r}\NMove.
+Dialogue: 0,0:48:59.27,0:49:00.43,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸？{\r}\NFather?
+Dialogue: 0,0:49:01.60,0:49:03.26,Default,,0000,0000,0000,,{\fn黑体\fs18}他们真的会带更多人来吗？{\r}\NWill so many really come?
+Dialogue: 0,0:49:04.94,0:49:06.60,Default,,0000,0000,0000,,{\fn黑体\fs18}我们必须尽快建好方舟{\r}\NWe need to finish as fast as we can.
+Dialogue: 0,0:49:07.27,0:49:09.26,Default,,0000,0000,0000,,{\fn黑体\fs18}大雨下得愈早愈好{\r}\NThe sooner He sends the rain,  the better.
+Dialogue: 0,0:49:11.11,0:49:12.52,Default,,0000,0000,0000,,{\fn黑体\fs18}到时我们在里面就安全了{\r}\NUntil then, we're safer inside.
+Dialogue: 0,0:49:22.62,0:49:24.11,Default,,0000,0000,0000,,{\fn黑体\fs18}我们全面动员{\r}\NWe build.
+Dialogue: 0,0:49:24.71,0:49:27.12,Default,,0000,0000,0000,,{\fn黑体\fs18}先是武器，再来是人{\r}\NFirst weapons, then men.
+Dialogue: 0,0:49:28.54,0:49:30.79,Default,,0000,0000,0000,,{\fn黑体\fs18}只有能战斗的人可以吃饭{\r}\NFeed only those that will fight.
+Dialogue: 0,0:49:31.71,0:49:33.05,Default,,0000,0000,0000,,{\fn黑体\fs18}给他们装备{\r}\NArm them, train them,
+Dialogue: 0,0:49:33.88,0:49:37.49,Default,,0000,0000,0000,,{\fn黑体\fs18}训练他们，让他们无所不能{\r}\Nand there is nothing they can't do.
+Dialogue: 0,0:49:38.72,0:49:42.63,Default,,0000,0000,0000,,{\fn黑体\fs18}只要军队够强大，就可以击溃那些巨人{\r}\NWith an army,  we can crush those giants.
+Dialogue: 0,0:51:13.40,0:51:18.06,Default,,0000,0000,0000,,{\fn黑体\fs18}我们快饿死了！给我们肉！求求你！{\r}\NPlease, we're hungry!  - Give us meat.  - Our children are starving.  Please help us!
+Dialogue: 0,0:51:21.57,0:51:23.06,Default,,0000,0000,0000,,{\fn黑体\fs18}放我们走！{\r}\NLet us go!
+Dialogue: 0,0:51:23.41,0:51:25.15,Default,,0000,0000,0000,,{\fn黑体\fs18}我们要饿死了！{\r}\NWe're starving!
+Dialogue: 0,0:51:58.78,0:52:00.27,Default,,0000,0000,0000,,{\fn黑体\fs18}我等一下再过来好了{\r}\NShould I come back?
+Dialogue: 0,0:52:01.32,0:52:02.31,Default,,0000,0000,0000,,{\fn黑体\fs18}没事的{\r}\NNo.
+Dialogue: 0,0:52:03.78,0:52:05.94,Default,,0000,0000,0000,,{\fn黑体\fs18}那些人会来攻击我们吗？{\r}\NDo you think  those men are going to attack us?
+Dialogue: 0,0:52:08.25,0:52:09.58,Default,,0000,0000,0000,,{\fn黑体\fs18}大雨来的时候就会{\r}\NWhen the rain comes.
+Dialogue: 0,0:52:15.71,0:52:17.45,Default,,0000,0000,0000,,{\fn黑体\fs18}那会是什么情景？{\r}\NWhat do you think it'll be like?
+Dialogue: 0,0:52:21.80,0:52:23.46,Default,,0000,0000,0000,,{\fn黑体\fs18}我在脑海中见过了{\r}\NI've imagined it.
+Dialogue: 0,0:52:24.97,0:52:26.63,Default,,0000,0000,0000,,{\fn黑体\fs18}万物死亡的惨状{\r}\NSeeing that much death,
+Dialogue: 0,0:52:29.39,0:52:32.05,Default,,0000,0000,0000,,{\fn黑体\fs18}难以言喻{\r}\NI'm not sure there are words.
+Dialogue: 0,0:52:34.98,0:52:36.31,Default,,0000,0000,0000,,{\fn黑体\fs18}所有生命都将结束{\r}\NThe end of everything.
+Dialogue: 0,0:52:39.82,0:52:41.06,Default,,0000,0000,0000,,{\fn黑体\fs18}但也将重生{\r}\NThe beginning.
+Dialogue: 0,0:52:41.99,0:52:43.65,Default,,0000,0000,0000,,{\fn黑体\fs18}一切都将重头来过{\r}\NThe beginning of everything.
+Dialogue: 0,0:52:50.08,0:52:51.41,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么了？{\r}\NSo what is it?
+Dialogue: 0,0:52:52.16,0:52:53.32,Default,,0000,0000,0000,,{\fn黑体\fs18}不管闪说了或做了什么{\r}\NWhatever he's done or said,
+Dialogue: 0,0:52:53.42,0:52:54.33,Default,,0000,0000,0000,,{\fn黑体\fs18}他都是喜欢你的{\r}\NShem is very fond of you.
+Dialogue: 0,0:53:02.42,0:53:04.34,Default,,0000,0000,0000,,{\fn黑体\fs18}闪需要一个女人{\r}\NShem needs a woman.
+Dialogue: 0,0:53:07.51,0:53:08.92,Default,,0000,0000,0000,,{\fn黑体\fs18}真正的女人{\r}\NA real woman.
+Dialogue: 0,0:53:10.77,0:53:12.51,Default,,0000,0000,0000,,{\fn黑体\fs18}他应该建立自己的家庭{\r}\NHe should have a family.
+Dialogue: 0,0:53:13.85,0:53:15.51,Default,,0000,0000,0000,,{\fn黑体\fs18}但我却无法给他{\r}\NI can't give any of that to him.
+Dialogue: 0,0:53:19.36,0:53:21.85,Default,,0000,0000,0000,,{\fn黑体\fs18}即使他愿意{\r}\NAnd I'm not going to  deny him those things,
+Dialogue: 0,0:53:22.28,0:53:24.02,Default,,0000,0000,0000,,{\fn黑体\fs18}我也不会要他这么牺牲{\r}\Neven if he wants me to.
+Dialogue: 0,0:53:24.36,0:53:25.77,Default,,0000,0000,0000,,{\fn黑体\fs18}我不会这么做{\r}\NI won't do it.
+Dialogue: 0,0:53:26.12,0:53:27.28,Default,,0000,0000,0000,,{\fn黑体\fs18}再说…{\r}\NBesides,
+Dialogue: 0,0:53:27.78,0:53:29.36,Default,,0000,0000,0000,,{\fn黑体\fs18}…造物主才不会让一个不孕的女孩…{\r}\Nwhy would The Creator
+Dialogue: 0,0:53:29.45,0:53:30.78,Default,,0000,0000,0000,,{\fn黑体\fs18}…待在他的方舟上{\r}\Nwant a barren girl on His ark?
+Dialogue: 0,0:53:31.70,0:53:33.04,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉，伊拉{\r}\NIla. Ila.
+Dialogue: 0,0:53:35.29,0:53:37.12,Default,,0000,0000,0000,,{\fn黑体\fs18}我们一开始收容你的时候{\r}\NWhen we first took you in,
+Dialogue: 0,0:53:38.46,0:53:40.62,Default,,0000,0000,0000,,{\fn黑体\fs18}我认为你会是个负担{\r}\NI thought you were going to be a burden.
+Dialogue: 0,0:53:41.63,0:53:43.42,Default,,0000,0000,0000,,{\fn黑体\fs18}而且我不想再看见被这世界腐化的…{\r}\NAnd I didn't want to see
+Dialogue: 0,0:53:43.51,0:53:45.04,Default,,0000,0000,0000,,{\fn黑体\fs18}…任何一个人{\r}\Nanybody else ruined by this world.
+Dialogue: 0,0:53:46.18,0:53:47.76,Default,,0000,0000,0000,,{\fn黑体\fs18}但我错了{\r}\NBut I was wrong.
+Dialogue: 0,0:53:48.80,0:53:50.01,Default,,0000,0000,0000,,{\fn黑体\fs18}你是上天赋予的礼物{\r}\NYou're a gift.
+Dialogue: 0,0:53:50.60,0:53:52.09,Default,,0000,0000,0000,,{\fn黑体\fs18}珍贵不已的礼物{\r}\NA precious, precious gift.
+Dialogue: 0,0:53:52.98,0:53:55.64,Default,,0000,0000,0000,,{\fn黑体\fs18}千万别忘记这一点{\r}\NJust don't forget  how precious a gift you are.
+Dialogue: 0,0:54:09.53,0:54:13.03,Default,,0000,0000,0000,,{\fn黑体\fs18}我知道你会帮含和雅弗找到妻子{\r}\NI know you'll be going to find wives  for Ham and Japheth.
+Dialogue: 0,0:54:15.50,0:54:17.91,Default,,0000,0000,0000,,{\fn黑体\fs18}你也应该帮闪找一个{\r}\N- You should find one for Shem, too.  - Ila.
+Dialogue: 0,0:55:00.54,0:55:02.70,Default,,0000,0000,0000,,{\fn黑体\fs18}你想逃到哪里？{\r}\NWhere do you think you're going?
+Dialogue: 0,0:55:05.96,0:55:07.20,Default,,0000,0000,0000,,{\fn黑体\fs18}别带走我的宝贝女儿！{\r}\NPlease, please don't take my baby!
+Dialogue: 0,0:55:07.80,0:55:09.79,Default,,0000,0000,0000,,{\fn黑体\fs18}放开她们！求求你！{\r}\NLet them go! Please!
+Dialogue: 0,0:55:10.22,0:55:12.38,Default,,0000,0000,0000,,{\fn黑体\fs18}对不起，我们得填饱肚子！{\r}\NSorry, we have to eat!
+Dialogue: 0,0:55:12.64,0:55:14.38,Default,,0000,0000,0000,,{\fn黑体\fs18}我的宝贝女儿！住手！{\r}\NDon't take my baby! No!
+Dialogue: 0,0:55:14.89,0:55:18.38,Default,,0000,0000,0000,,{\fn黑体\fs18}别带走我的宝贝！快阻止他！{\r}\NDon't take my baby!  No, no, please will you stop him?
+Dialogue: 0,0:55:18.48,0:55:20.14,Default,,0000,0000,0000,,{\fn黑体\fs18}放开她们！{\r}\NLet them go!
+Dialogue: 0,0:55:24.92,0:55:27.24,Default,,0000,0000,0000,,{\fn黑体\fs18}不{\r}\NNo!
+Dialogue: 0,0:55:31.41,0:55:33.15,Default,,0000,0000,0000,,{\fn黑体\fs18}别挣扎了 !{\r}\NQuit struggling! It'll be easier.
+Dialogue: 0,0:55:34.12,0:55:36.15,Default,,0000,0000,0000,,{\fn黑体\fs18}跟我走！少白费力气！{\r}\NCome with me! Stop struggling!
+Dialogue: 0,0:55:38.12,0:55:40.28,Default,,0000,0000,0000,,{\fn黑体\fs18}你！是你！{\r}\NYou! You!
+Dialogue: 0,0:55:55.68,0:55:59.34,Default,,0000,0000,0000,,{\fn黑体\fs18}我这里有两个女孩和你们交易！{\r}\NI have two girls! I have two girls to trade!
+Dialogue: 0,0:56:00.69,0:56:03.93,Default,,0000,0000,0000,,{\fn黑体\fs18}女孩给你们！肉给我！快！{\r}\NTake the girls! Give me the meat!  Give it to me!
+Dialogue: 0,0:57:43.25,0:57:44.49,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么了？{\r}\NWhat happened?
+Dialogue: 0,0:57:46.96,0:57:49.12,Default,,0000,0000,0000,,{\fn黑体\fs18}这些东西全都早该放进去了{\r}\NAll of this should be inside by now.
+Dialogue: 0,0:57:49.29,0:57:51.64,Default,,0000,0000,0000,,{\fn黑体\fs18}- 风暴要来了  - 我们的妻子在哪？{\r}\NThe storm is coming.  What about our wives? Where are they?
+Dialogue: 0,0:57:51.76,0:57:54.17,Default,,0000,0000,0000,,{\fn黑体\fs18}- 你没听见我的话吗？  - 她们何时来？{\r}\NDid you not hear what I just said?  But when are they coming?
+Dialogue: 0,0:57:56.26,0:57:57.84,Default,,0000,0000,0000,,{\fn黑体\fs18}不会有什么妻子{\r}\NThere will be no wives.
+Dialogue: 0,0:57:58.10,0:57:59.71,Default,,0000,0000,0000,,{\fn黑体\fs18}什么？不行！{\r}\NWhat? What? No!
+Dialogue: 0,0:57:59.81,0:58:01.89,Default,,0000,0000,0000,,{\fn黑体\fs18}你说过造物主会给我们所需的东西{\r}\NYou said that The Creator  would give us what we'll need.
+Dialogue: 0,0:58:02.47,0:58:03.96,Default,,0000,0000,0000,,{\fn黑体\fs18}去帮你哥哥{\r}\N- Help your brother.  - No.
+Dialogue: 0,0:58:04.18,0:58:05.67,Default,,0000,0000,0000,,{\fn黑体\fs18}不！你不能这样！{\r}\NListen. Listen, you can't do this!
+Dialogue: 0,0:58:05.77,0:58:07.76,Default,,0000,0000,0000,,{\fn黑体\fs18}我要怎么当个男人？{\r}\NYou can't.  How am I supposed to be a man?
+Dialogue: 0,0:58:08.11,0:58:09.77,Default,,0000,0000,0000,,{\fn黑体\fs18}我要你去帮你哥哥{\r}\NI said help your brother.
+Dialogue: 0,0:58:10.32,0:58:13.52,Default,,0000,0000,0000,,{\fn黑体\fs18}- 你要我永远长不大！  - 不是的！{\r}\NYou want me to stay a child!  No!
+Dialogue: 0,0:58:15.70,0:58:18.56,Default,,0000,0000,0000,,{\fn黑体\fs18}我现在要求你当个男人{\r}\NI'm asking you to be a man
+Dialogue: 0,0:58:18.66,0:58:20.69,Default,,0000,0000,0000,,{\fn黑体\fs18}做你该做的事{\r}\Nand do what needs to be done.
+Dialogue: 0,0:58:28.38,0:58:29.54,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,0:58:33.05,0:58:34.21,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,0:58:55.07,0:58:56.73,Default,,0000,0000,0000,,{\fn黑体\fs18}你这是做什么，诺亚？{\r}\NWhat are you doing, Noah?
+Dialogue: 0,0:58:57.53,0:58:59.19,Default,,0000,0000,0000,,{\fn黑体\fs18}邪恶的不只其他人{\r}\NThe wickedness is not just in them.
+Dialogue: 0,0:59:00.20,0:59:01.69,Default,,0000,0000,0000,,{\fn黑体\fs18}我们所有人都一样{\r}\NIt's in all of us.
+Dialogue: 0,0:59:03.12,0:59:04.36,Default,,0000,0000,0000,,{\fn黑体\fs18}我见识过了{\r}\NI saw it.
+Dialogue: 0,0:59:07.62,0:59:08.61,Default,,0000,0000,0000,,{\fn黑体\fs18}不{\r}\NNo.
+Dialogue: 0,0:59:08.83,0:59:09.91,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,0:59:11.17,0:59:13.00,Default,,0000,0000,0000,,{\fn黑体\fs18}我们是善良的{\r}\NThere's goodness in us.
+Dialogue: 0,0:59:13.75,0:59:15.42,Default,,0000,0000,0000,,{\fn黑体\fs18}看看我们的孩子{\r}\NLook at our boys.
+Dialogue: 0,0:59:15.80,0:59:18.29,Default,,0000,0000,0000,,{\fn黑体\fs18}闪忠心耿耿，雅弗宅心仁厚{\r}\NShem's loyalty. Japheth's kindness.
+Dialogue: 0,0:59:19.18,0:59:21.09,Default,,0000,0000,0000,,{\fn黑体\fs18}含正直诚实{\r}\NHam's integrity.
+Dialogue: 0,0:59:23.26,0:59:24.50,Default,,0000,0000,0000,,{\fn黑体\fs18}他们都是好人{\r}\NGood men.
+Dialogue: 0,0:59:25.27,0:59:27.18,Default,,0000,0000,0000,,{\fn黑体\fs18}也会成为好父亲{\r}\NThey'd be good fathers.
+Dialogue: 0,0:59:27.52,0:59:29.43,Default,,0000,0000,0000,,{\fn黑体\fs18}闪被欲望所蒙蔽{\r}\NShem is blinded by desire.
+Dialogue: 0,0:59:30.69,0:59:32.35,Default,,0000,0000,0000,,{\fn黑体\fs18}含贪求身外之物{\r}\NHam is covetous.
+Dialogue: 0,0:59:33.52,0:59:35.23,Default,,0000,0000,0000,,{\fn黑体\fs18}雅弗只会讨好他人{\r}\NAnd Japheth lives only to please.
+Dialogue: 0,0:59:35.53,0:59:36.94,Default,,0000,0000,0000,,{\fn黑体\fs18}我也没好到哪里去{\r}\NI am no better.
+Dialogue: 0,0:59:37.57,0:59:38.73,Default,,0000,0000,0000,,{\fn黑体\fs18}至于你{\r}\NAnd you?
+Dialogue: 0,0:59:39.53,0:59:41.44,Default,,0000,0000,0000,,{\fn黑体\fs18}只要是为了那三个孩子{\r}\NIs there anything you would not do,
+Dialogue: 0,0:59:41.53,0:59:43.40,Default,,0000,0000,0000,,{\fn黑体\fs18}不管好事坏事都做得出来{\r}\Ngood or bad, for those three boys?
+Dialogue: 0,0:59:44.49,0:59:46.40,Default,,0000,0000,0000,,{\fn黑体\fs18}只要是为了保护孩子…{\r}\NWe would both choose to kill
+Dialogue: 0,0:59:47.20,0:59:49.32,Default,,0000,0000,0000,,{\fn黑体\fs18}- 我们杀人放火也愿意  - 是的{\r}\N in order to protect our children. Yes.
+Dialogue: 0,0:59:50.71,0:59:52.04,Default,,0000,0000,0000,,{\fn黑体\fs18}我们与他人并无不同{\r}\NWe're no different.
+Dialogue: 0,0:59:53.79,0:59:55.13,Default,,0000,0000,0000,,{\fn黑体\fs18}既自私又懦弱{\r}\NWe were weak and we were selfish
+Dialogue: 0,0:59:55.21,0:59:56.79,Default,,0000,0000,0000,,{\fn黑体\fs18}还以为能和邪恶划清界线{\r}\Nto think we could set ourselves apart.
+Dialogue: 0,0:59:58.47,0:59:59.96,Default,,0000,0000,0000,,{\fn黑体\fs18}我们要努力…{\r}\NWe will work, 
+Dialogue: 0,1:00:00.43,1:00:02.17,Default,,0000,0000,0000,,{\fn黑体\fs18}完成任务…{\r}\Ncomplete the task,
+Dialogue: 0,1:00:03.51,1:00:04.84,Default,,0000,0000,0000,,{\fn黑体\fs18}然后死去{\r}\Nand then we'll die.
+Dialogue: 0,1:00:06.89,1:00:08.88,Default,,0000,0000,0000,,{\fn黑体\fs18}就和世人一样{\r}\NThe same as everyone else.
+Dialogue: 0,1:00:10.39,1:00:11.88,Default,,0000,0000,0000,,{\fn黑体\fs18}他们都还是孩子！{\r}\NThey are children!
+Dialogue: 0,1:00:12.15,1:00:14.39,Default,,0000,0000,0000,,{\fn黑体\fs18}我们的孩子，诺亚！{\r}\NThey are our children, Noah!
+Dialogue: 0,1:00:16.73,1:00:18.47,Default,,0000,0000,0000,,{\fn黑体\fs18}你一点慈悲心都没有吗？{\r}\NHave you no mercy?
+Dialogue: 0,1:00:20.07,1:00:22.06,Default,,0000,0000,0000,,{\fn黑体\fs18}慈悲的时间已过{\r}\NThe time for mercy has passed.
+Dialogue: 0,1:00:24.28,1:00:26.19,Default,,0000,0000,0000,,{\fn黑体\fs18}天罚就要降临{\r}\NNow our punishment begins.
+Dialogue: 0,1:00:57.82,1:00:59.06,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:01:03.91,1:01:04.64,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:01:17.84,1:01:19.17,Default,,0000,0000,0000,,{\fn黑体\fs18}祖父？{\r}\NGrandfather?
+Dialogue: 0,1:01:25.76,1:01:27.09,Default,,0000,0000,0000,,{\fn黑体\fs18}祖父？{\r}\NGrandfather?
+Dialogue: 0,1:01:30.43,1:01:32.26,Default,,0000,0000,0000,,{\fn黑体\fs18}你带了东西来给我吗？{\r}\NDid you bring me something?
+Dialogue: 0,1:01:34.44,1:01:36.60,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚种了我给他的种子吗？{\r}\NDid Noah plant the seed I gave him?
+Dialogue: 0,1:01:37.61,1:01:38.72,Default,,0000,0000,0000,,{\fn黑体\fs18}是的{\r}\NYes.
+Dialogue: 0,1:01:40.61,1:01:43.02,Default,,0000,0000,0000,,{\fn黑体\fs18}那么大的森林里没有莓果吗？{\r}\NAnd in all that forest  there were no berries?
+Dialogue: 0,1:01:43.74,1:01:45.73,Default,,0000,0000,0000,,{\fn黑体\fs18}闪说要带莓果来给我吃的{\r}\NShem promised me berries.
+Dialogue: 0,1:01:49.12,1:01:50.11,Default,,0000,0000,0000,,{\fn黑体\fs18}对不起{\r}\NI'm sorry.
+Dialogue: 0,1:01:50.45,1:01:51.78,Default,,0000,0000,0000,,{\fn黑体\fs18}我不知道这件事{\r}\NI didn't know.
+Dialogue: 0,1:01:53.04,1:01:54.37,Default,,0000,0000,0000,,{\fn黑体\fs18}太可惜了{\r}\NIt's a pity.
+Dialogue: 0,1:01:57.79,1:01:59.45,Default,,0000,0000,0000,,{\fn黑体\fs18}那你为什么来这里？{\r}\NThen why did you come here?
+Dialogue: 0,1:02:02.92,1:02:03.96,Default,,0000,0000,0000,,{\fn黑体\fs18}因为诺亚{\r}\NIt's Noah.
+Dialogue: 0,1:02:04.55,1:02:06.54,Default,,0000,0000,0000,,{\fn黑体\fs18}他不让我们的儿子传宗接代{\r}\NHe leaves our boys with no one.
+Dialogue: 0,1:02:06.80,1:02:08.76,Default,,0000,0000,0000,,{\fn黑体\fs18}闪有伊拉，但她不能生育{\r}\NShem has Ila, but she's barren.
+Dialogue: 0,1:02:10.31,1:02:12.30,Default,,0000,0000,0000,,{\fn黑体\fs18}我们家不会有其他妻子{\r}\NThere'll be no other wives,
+Dialogue: 0,1:02:12.93,1:02:13.97,Default,,0000,0000,0000,,{\fn黑体\fs18}也就不会有下一代{\r}\Nso no children.
+Dialogue: 0,1:02:16.56,1:02:17.55,Default,,0000,0000,0000,,{\fn黑体\fs18}这是正义{\r}\NJustice.
+Dialogue: 0,1:02:19.40,1:02:22.81,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主必须摧毁被人破坏殆尽的世界{\r}\NThe Creator destroys this world  because we corrupted it.
+Dialogue: 0,1:02:23.49,1:02:26.07,Default,,0000,0000,0000,,{\fn黑体\fs18}因此我们也应该被消灭{\r}\NSo we ourselves must be destroyed.
+Dialogue: 0,1:02:26.32,1:02:27.23,Default,,0000,0000,0000,,{\fn黑体\fs18}不{\r}\NNo.
+Dialogue: 0,1:02:27.82,1:02:29.98,Default,,0000,0000,0000,,{\fn黑体\fs18}我不相信{\r}\N I can't believe that's true.
+Dialogue: 0,1:02:30.74,1:02:32.40,Default,,0000,0000,0000,,{\fn黑体\fs18}我的儿子们不该有这种下场{\r}\NNot when I look at my sons.
+Dialogue: 0,1:02:33.16,1:02:35.32,Default,,0000,0000,0000,,{\fn黑体\fs18}他们渴望的只有爱{\r}\NAll they desire is love.
+Dialogue: 0,1:02:35.75,1:02:38.49,Default,,0000,0000,0000,,{\fn黑体\fs18}难道这样还不够让他们成为好人吗？{\r}\NIsn't that all their hearts need  to be good?
+Dialogue: 0,1:02:38.75,1:02:40.99,Default,,0000,0000,0000,,{\fn黑体\fs18}谁是好人？谁又是坏人？{\r}\NWho is good? Who is wicked?
+Dialogue: 0,1:02:41.25,1:02:43.49,Default,,0000,0000,0000,,{\fn黑体\fs18}我怎么知道是非对错？{\r}\NHow am I supposed to know  what is right?
+Dialogue: 0,1:02:44.26,1:02:47.50,Default,,0000,0000,0000,,{\fn黑体\fs18}选择在诺亚手中  你我都无权决定{\r}\NThat choice is Noah's.  Not mine. Not yours.
+Dialogue: 0,1:02:48.84,1:02:50.83,Default,,0000,0000,0000,,{\fn黑体\fs18}他看来已经下定决心{\r}\NIt sounds like he has made it.
+Dialogue: 0,1:02:52.01,1:02:53.75,Default,,0000,0000,0000,,{\fn黑体\fs18}这么说您是不会帮我了{\r}\NSo then you will not help me?
+Dialogue: 0,1:02:56.69,1:02:58.35,Default,,0000,0000,0000,,{\fn黑体\fs18}我不知道我帮不帮得了你{\r}\NI don't know if I even could.
+Dialogue: 0,1:02:59.35,1:03:01.69,Default,,0000,0000,0000,,{\fn黑体\fs18}就算可以，帮助你可能会带来痛苦{\r}\NBut if I tried, it could cause pain
+Dialogue: 0,1:03:02.02,1:03:03.68,Default,,0000,0000,0000,,{\fn黑体\fs18}甚至悲剧{\r}\Nand possibly tragedy.
+Dialogue: 0,1:03:04.03,1:03:07.61,Default,,0000,0000,0000,,{\fn黑体\fs18}到头来选择还是会落在诺亚手中{\r}\NAnd in the end,  it would just come back to Noah again.
+Dialogue: 0,1:03:09.28,1:03:10.61,Default,,0000,0000,0000,,{\fn黑体\fs18}这是你要的吗？{\r}\NIs that what you wish?
+Dialogue: 0,1:03:12.78,1:03:14.70,Default,,0000,0000,0000,,{\fn黑体\fs18}我要我的孩子们生儿育女{\r}\NI want my sons to have children.
+Dialogue: 0,1:03:14.83,1:03:16.36,Default,,0000,0000,0000,,{\fn黑体\fs18}我要他们快乐{\r}\NI want them to be happy.
+Dialogue: 0,1:03:18.54,1:03:21.53,Default,,0000,0000,0000,,{\fn黑体\fs18}我无法想像他们孤独老死{\r}\NI can't bear to think of them dying alone.
+Dialogue: 0,1:03:39.31,1:03:42.14,Default,,0000,0000,0000,,{\fn黑体\fs18}让开！我们要过去！{\r}\NOut of the way! Coming through!
+Dialogue: 0,1:03:55.91,1:03:57.07,Default,,0000,0000,0000,,{\fn黑体\fs18}拜托！{\r}\NPlease!
+Dialogue: 0,1:03:58.33,1:03:59.32,Default,,0000,0000,0000,,{\fn黑体\fs18}走开！{\r}\NGet away!
+Dialogue: 0,1:04:00.17,1:04:01.33,Default,,0000,0000,0000,,{\fn黑体\fs18}不…{\r}\NNo. No, no...
+Dialogue: 0,1:04:01.67,1:04:04.53,Default,,0000,0000,0000,,{\fn黑体\fs18}没事的，我不会伤害你{\r}\NIt's all right. It's all right. I'm not...  I'm not going to hurt you.
+Dialogue: 0,1:04:06.04,1:04:08.61,Default,,0000,0000,0000,,{\fn黑体\fs18}我有吃的{\r}\NI have food.
+Dialogue: 0,1:04:11.84,1:04:12.92,Default,,0000,0000,0000,,{\fn黑体\fs18}拿去{\r}\NHere.
+Dialogue: 0,1:04:15.10,1:04:16.43,Default,,0000,0000,0000,,{\fn黑体\fs18}你想怎么样？{\r}\NWhat do you want?
+Dialogue: 0,1:04:17.93,1:04:19.17,Default,,0000,0000,0000,,{\fn黑体\fs18}没怎样{\r}\NNothing.
+Dialogue: 0,1:04:50.80,1:04:52.13,Default,,0000,0000,0000,,{\fn黑体\fs18}你自己一个人吗？{\r}\NAre you alone?
+Dialogue: 0,1:04:52.59,1:04:53.55,Default,,0000,0000,0000,,{\fn黑体\fs18}是啊{\r}\NYes.
+Dialogue: 0,1:04:54.26,1:04:55.59,Default,,0000,0000,0000,,{\fn黑体\fs18}你呢？{\r}\NAnd you?
+Dialogue: 0,1:05:12.99,1:05:14.73,Default,,0000,0000,0000,,{\fn黑体\fs18}我可以带你逃出去{\r}\NI can help you get away.
+Dialogue: 0,1:05:20.91,1:05:21.90,Default,,0000,0000,0000,,{\fn黑体\fs18}不要{\r}\NNo.
+Dialogue: 0,1:05:25.46,1:05:27.49,Default,,0000,0000,0000,,{\fn黑体\fs18}好吧，那我就多待一会儿{\r}\NWell, then, I'll stay a little while.
+Dialogue: 0,1:05:28.80,1:05:30.46,Default,,0000,0000,0000,,{\fn黑体\fs18}可以吗？{\r}\NIf that is all right?
+Dialogue: 0,1:05:47.27,1:05:48.60,Default,,0000,0000,0000,,{\fn黑体\fs18}我叫…{\r}\NMy name
+Dialogue: 0,1:05:49.19,1:05:50.68,Default,,0000,0000,0000,,{\fn黑体\fs18}…娜儿{\r}\N is Na'el.
+Dialogue: 0,1:06:03.04,1:06:04.03,Default,,0000,0000,0000,,{\fn黑体\fs18}闪！{\r}\NShem!
+Dialogue: 0,1:06:05.67,1:06:07.33,Default,,0000,0000,0000,,{\fn黑体\fs18}把大家找回来{\r}\NGo and find them and bring them back.
+Dialogue: 0,1:06:10.34,1:06:11.33,Default,,0000,0000,0000,,{\fn黑体\fs18}小心点{\r}\NBe careful.
+Dialogue: 0,1:06:21.18,1:06:22.22,Default,,0000,0000,0000,,{\fn黑体\fs18}含？{\r}\NHam?
+Dialogue: 0,1:06:24.89,1:06:27.18,Default,,0000,0000,0000,,{\fn黑体\fs18}别怕，小孙女{\r}\NDon't be afraid, granddaughter.
+Dialogue: 0,1:06:28.81,1:06:30.30,Default,,0000,0000,0000,,{\fn黑体\fs18}别怕{\r}\NDon't be afraid.
+Dialogue: 0,1:06:32.07,1:06:34.15,Default,,0000,0000,0000,,{\fn黑体\fs18}- 您是祖父？  - 是的{\r}\NGrandfather?  Yes.
+Dialogue: 0,1:06:34.74,1:06:35.98,Default,,0000,0000,0000,,{\fn黑体\fs18}您在这里做什么？{\r}\NWhat are you doing down here?
+Dialogue: 0,1:06:36.07,1:06:38.06,Default,,0000,0000,0000,,{\fn黑体\fs18}我在找我想吃的莓果{\r}\NI'm looking for berries. I have a craving.
+Dialogue: 0,1:06:38.74,1:06:42.23,Default,,0000,0000,0000,,{\fn黑体\fs18}帮我找找，我的视力已经不如以往{\r}\NCome and help me look for them.  My eyes aren't  as good as they used to be.
+Dialogue: 0,1:06:42.41,1:06:44.87,Default,,0000,0000,0000,,{\fn黑体\fs18}- 我得去找含  - 时间还很够{\r}\NI have to find Ham.  There's time enough for that.
+Dialogue: 0,1:06:45.25,1:06:46.24,Default,,0000,0000,0000,,{\fn黑体\fs18}过来{\r}\NCome here.
+Dialogue: 0,1:06:47.21,1:06:48.37,Default,,0000,0000,0000,,{\fn黑体\fs18}过来{\r}\NCome.
+Dialogue: 0,1:06:49.25,1:06:50.91,Default,,0000,0000,0000,,{\fn黑体\fs18}来这里帮我{\r}\NCome here and help me.
+Dialogue: 0,1:06:51.75,1:06:53.54,Default,,0000,0000,0000,,{\fn黑体\fs18}就在这附近{\r}\NThey're here somewhere.
+Dialogue: 0,1:06:54.09,1:06:56.08,Default,,0000,0000,0000,,{\fn黑体\fs18}这附近有莓果{\r}\NThey're here somewhere, berries.
+Dialogue: 0,1:06:57.09,1:06:58.80,Default,,0000,0000,0000,,{\fn黑体\fs18}我知道就在这里{\r}\NI know there are berries.
+Dialogue: 0,1:06:59.01,1:07:00.75,Default,,0000,0000,0000,,{\fn黑体\fs18}这里什么也没有，祖父{\r}\NThere's nothing here, Grandfather.
+Dialogue: 0,1:07:01.68,1:07:03.51,Default,,0000,0000,0000,,{\fn黑体\fs18}- 我带您去找诺亚  - 不{\r}\N- Let me take you to Noah.  - No.
+Dialogue: 0,1:07:03.93,1:07:06.59,Default,,0000,0000,0000,,{\fn黑体\fs18}没必要，你可以走了{\r}\NNo need for that. You go now.
+Dialogue: 0,1:07:06.94,1:07:08.27,Default,,0000,0000,0000,,{\fn黑体\fs18}去吧{\r}\NYou go.
+Dialogue: 0,1:07:09.10,1:07:10.76,Default,,0000,0000,0000,,{\fn黑体\fs18}等等，等等{\r}\NWait. Wait.
+Dialogue: 0,1:07:12.98,1:07:16.94,Default,,0000,0000,0000,,{\fn黑体\fs18}这十年来你和我的家族一起生活{\r}\NTen years you've been with my own.  With my own family.
+Dialogue: 0,1:07:17.99,1:07:20.82,Default,,0000,0000,0000,,{\fn黑体\fs18}十年了，你爱他们吗？{\r}\NTen years. And you love them?
+Dialogue: 0,1:07:21.99,1:07:23.98,Default,,0000,0000,0000,,{\fn黑体\fs18}闪？还有诺亚？{\r}\NShem? And Noah?
+Dialogue: 0,1:07:26.79,1:07:28.28,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚救了我一命{\r}\NHe saved my life.
+Dialogue: 0,1:07:29.79,1:07:32.95,Default,,0000,0000,0000,,{\fn黑体\fs18}- 抚养我长大  - 是的{\r}\NRaised me.  Yes, he did.
+Dialogue: 0,1:07:34.38,1:07:35.37,Default,,0000,0000,0000,,{\fn黑体\fs18}的确如此{\r}\NYes.
+Dialogue: 0,1:07:35.80,1:07:38.63,Default,,0000,0000,0000,,{\fn黑体\fs18}你就像他的亲生女儿{\r}\NAnd you are now as his own daughter.
+Dialogue: 0,1:07:39.13,1:07:41.47,Default,,0000,0000,0000,,{\fn黑体\fs18}就像我的曾孙女{\r}\NMy own great-granddaughter.
+Dialogue: 0,1:07:43.89,1:07:46.47,Default,,0000,0000,0000,,{\fn黑体\fs18}这十年来你受我家族庇护{\r}\NTen years in the shadow of my home,
+Dialogue: 0,1:07:46.85,1:07:49.51,Default,,0000,0000,0000,,{\fn黑体\fs18}我却没能赐福给你{\r}\Nand yet  I have never given you my blessing.
+Dialogue: 0,1:07:50.56,1:07:51.55,Default,,0000,0000,0000,,{\fn黑体\fs18}让我弥补你{\r}\NMay I?
+Dialogue: 0,1:08:21.88,1:08:23.09,Default,,0000,0000,0000,,{\fn黑体\fs18}含！伊拉！{\r}\NHam! Ila!
+Dialogue: 0,1:08:24.68,1:08:27.34,Default,,0000,0000,0000,,{\fn黑体\fs18}你可以走了，去找他吧{\r}\NYou can go now. Go to him.
+Dialogue: 0,1:08:28.18,1:08:29.92,Default,,0000,0000,0000,,{\fn黑体\fs18}去吧，快{\r}\NYou go. Go now.
+Dialogue: 0,1:08:30.89,1:08:32.01,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉！{\r}\NIla!
+Dialogue: 0,1:08:38.03,1:08:39.36,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉！{\r}\NIla!
+Dialogue: 0,1:08:40.61,1:08:41.60,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉！{\r}\NIla!
+Dialogue: 0,1:08:42.28,1:08:43.69,Default,,0000,0000,0000,,{\fn黑体\fs18}我们必须回…{\r}\NWe have to get back...
+Dialogue: 0,1:10:04.61,1:10:05.98,Default,,0000,0000,0000,,{\fn黑体\fs18}我们必须离开{\r}\NWe have to go.
+Dialogue: 0,1:10:06.36,1:10:08.78,Default,,0000,0000,0000,,{\fn黑体\fs18}我们必须离开，走吧，快！{\r}\NWe have to go. Come on. Now!
+Dialogue: 0,1:10:13.04,1:10:14.62,Default,,0000,0000,0000,,{\fn黑体\fs18}我是人{\r}\NI am a man. 
+Dialogue: 0,1:10:15.12,1:10:16.86,Default,,0000,0000,0000,,{\fn黑体\fs18}你以你的形像造我{\r}\NMade in Your image.
+Dialogue: 0,1:10:20.13,1:10:22.46,Default,,0000,0000,0000,,{\fn黑体\fs18}为什么你不与我交谈？{\r}\NWhy will You not converse with me?
+Dialogue: 0,1:10:46.86,1:10:48.52,Default,,0000,0000,0000,,{\fn黑体\fs18}我赋予生命{\r}\NI give life.
+Dialogue: 0,1:10:49.16,1:10:52.65,Default,,0000,0000,0000,,{\fn黑体\fs18}也可以夺走生命，就跟你一样{\r}\NI take life away. As You do!
+Dialogue: 0,1:10:54.33,1:10:57.16,Default,,0000,0000,0000,,{\fn黑体\fs18}我跟你很像，不是吗？{\r}\NAnd I am like You, am I not?
+Dialogue: 0,1:10:59.92,1:11:01.41,Default,,0000,0000,0000,,{\fn黑体\fs18}跟我说话{\r}\NSpeak to me.
+Dialogue: 0,1:11:09.26,1:11:10.88,Default,,0000,0000,0000,,{\fn黑体\fs18}跟我说话！{\r}\NSpeak to me!
+Dialogue: 0,1:11:18.23,1:11:20.01,Default,,0000,0000,0000,,{\fn黑体\fs18}风暴来了！{\r}\NIt has begun!
+Dialogue: 0,1:11:21.52,1:11:23.85,Default,,0000,0000,0000,,{\fn黑体\fs18}上天要置我们于死地！{\r}\NDeath comes from the heavens!
+Dialogue: 0,1:11:24.69,1:11:26.02,Default,,0000,0000,0000,,{\fn黑体\fs18}这场大雨…{\r}\NThis rain
+Dialogue: 0,1:11:26.36,1:11:29.27,Default,,0000,0000,0000,,{\fn黑体\fs18}…想让我们从世界上消失{\r}\Nis meant to wash us off  the face of this world.
+Dialogue: 0,1:11:30.78,1:11:32.61,Default,,0000,0000,0000,,{\fn黑体\fs18}但我们是人{\r}\NBut we are men.
+Dialogue: 0,1:11:33.62,1:11:36.95,Default,,0000,0000,0000,,{\fn黑体\fs18}生死操之在己{\r}\NWe decide if we live or die.
+Dialogue: 0,1:11:38.37,1:11:39.86,Default,,0000,0000,0000,,{\fn黑体\fs18}我们是人！{\r}\NWe are men!
+Dialogue: 0,1:11:40.29,1:11:43.08,Default,,0000,0000,0000,,{\fn黑体\fs18}只要团结起来便所向披靡！{\r}\NAnd men united are invincible!
+Dialogue: 0,1:11:44.13,1:11:45.87,Default,,0000,0000,0000,,{\fn黑体\fs18}你们想活下去吗？{\r}\NDo you want to live?
+Dialogue: 0,1:11:45.88,1:11:47.40,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,1:11:48.55,1:11:50.16,Default,,0000,0000,0000,,{\fn黑体\fs18}那就把巨人杀了！{\r}\NWe kill the giants!
+Dialogue: 0,1:11:50.59,1:11:52.08,Default,,0000,0000,0000,,{\fn黑体\fs18}把诺亚杀了！{\r}\NWe kill Noah!
+Dialogue: 0,1:11:53.55,1:11:55.17,Default,,0000,0000,0000,,{\fn黑体\fs18}夺下方舟！{\r}\NWe take the ark!
+Dialogue: 0,1:11:55.24,1:11:56.48,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,1:12:02.77,1:12:03.93,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚！{\r}\NNoah!
+Dialogue: 0,1:12:11.24,1:12:12.27,Default,,0000,0000,0000,,{\fn黑体\fs18}含呢？{\r}\NWhere's Ham?
+Dialogue: 0,1:12:43.44,1:12:45.14,Default,,0000,0000,0000,,{\fn黑体\fs18}救我出去，快！{\r}\NGet it off me, no!
+Dialogue: 0,1:12:53.99,1:12:55.65,Default,,0000,0000,0000,,{\fn黑体\fs18}不！不{\r}\NNo,no,no!
+Dialogue: 0,1:12:56.66,1:12:57.87,Default,,0000,0000,0000,,{\fn黑体\fs18}不逃不行！{\r}\NWe have to get away!
+Dialogue: 0,1:12:57.95,1:12:59.49,Default,,0000,0000,0000,,{\fn黑体\fs18}我不会离开你，我不会！{\r}\NI won't leave you. I won't!
+Dialogue: 0,1:13:01.66,1:13:02.82,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:13:05.67,1:13:07.88,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸，帮帮我们！{\r}\NFather, help! Help!
+Dialogue: 0,1:13:08.09,1:13:10.50,Default,,0000,0000,0000,,{\fn黑体\fs18}- 救救她！  - 救我出去！{\r}\N- Help her!  - Help me, please!
+Dialogue: 0,1:13:11.30,1:13:12.63,Default,,0000,0000,0000,,{\fn黑体\fs18}拜托，救我！{\r}\NPlease, help me, please!
+Dialogue: 0,1:13:13.68,1:13:15.29,Default,,0000,0000,0000,,{\fn黑体\fs18}救命啊！{\r}\NPlease... Someone please help me!
+Dialogue: 0,1:13:16.97,1:13:18.18,Default,,0000,0000,0000,,{\fn黑体\fs18}救我！{\r}\NHelp me!
+Dialogue: 0,1:13:20.64,1:13:22.18,Default,,0000,0000,0000,,{\fn黑体\fs18}不要！{\r}\NNo!
+Dialogue: 0,1:13:24.90,1:13:28.24,Default,,0000,0000,0000,,{\fn黑体\fs18}含！含！{\r}\NHam! Ham!  Ham!
+Dialogue: 0,1:13:29.69,1:13:30.48,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:13:51.59,1:13:52.92,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:13:53.34,1:13:54.71,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:13:55.89,1:13:57.22,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:14:14.07,1:14:15.90,Default,,0000,0000,0000,,{\fn黑体\fs18}撒米亚扎！{\r}\NSamyaza!
+Dialogue: 0,1:14:16.41,1:14:18.52,Default,,0000,0000,0000,,{\fn黑体\fs18}撒米亚扎！  撒米亚扎！{\r}\NSamyaza! Samyaza!
+Dialogue: 0,1:14:18.74,1:14:20.20,Default,,0000,0000,0000,,{\fn黑体\fs18}- 诺亚！  - 含呢？{\r}\N- Noah!  - Where is Ham?
+Dialogue: 0,1:14:20.53,1:14:23.24,Default,,0000,0000,0000,,{\fn黑体\fs18}他过去了！  动作快！{\r}\NHam is through! Quickly!
+Dialogue: 0,1:14:23.58,1:14:24.57,Default,,0000,0000,0000,,{\fn黑体\fs18}快跑！{\r}\NRun!
+Dialogue: 0,1:14:33.42,1:14:34.58,Default,,0000,0000,0000,,{\fn黑体\fs18}含{\r}\NHam.
+Dialogue: 0,1:14:37.55,1:14:38.71,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:14:51.23,1:14:52.60,Default,,0000,0000,0000,,{\fn黑体\fs18}加快速度！{\r}\NFaster!
+Dialogue: 0,1:14:55.90,1:14:57.23,Default,,0000,0000,0000,,{\fn黑体\fs18}前进！{\r}\NForward!
+Dialogue: 0,1:15:06.29,1:15:08.45,Default,,0000,0000,0000,,{\fn黑体\fs18}保护妈妈和家人{\r}\NProtect your mother. Protect them all.
+Dialogue: 0,1:15:14.59,1:15:16.08,Default,,0000,0000,0000,,{\fn黑体\fs18}散开！{\r}\NPart!
+Dialogue: 0,1:15:55.80,1:15:57.29,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主…{\r}\NMy Creator,
+Dialogue: 0,1:15:57.76,1:15:59.12,Default,,0000,0000,0000,,{\fn黑体\fs18}…原谅我{\r}\Nforgive me.
+Dialogue: 0,1:16:11.02,1:16:13.98,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主带他回家了{\r}\NThe Creator brings him home.
+Dialogue: 0,1:16:39.13,1:16:40.00,Default,,0000,0000,0000,,{\fn黑体\fs18}含？{\r}\NHam?
+Dialogue: 0,1:16:41.55,1:16:42.34,Default,,0000,0000,0000,,{\fn黑体\fs18}含？{\r}\NHam?
+Dialogue: 0,1:18:31.87,1:18:33.28,Default,,0000,0000,0000,,{\fn黑体\fs18}闪，进去{\r}\NShem. Shem, go inside.
+Dialogue: 0,1:18:34.16,1:18:35.49,Default,,0000,0000,0000,,{\fn黑体\fs18}快进去{\r}\NGo inside.
+Dialogue: 0,1:18:37.12,1:18:39.66,Default,,0000,0000,0000,,{\fn黑体\fs18}他们正在逼近，快进去！{\r}\NThey are upon us. Go inside!
+Dialogue: 0,1:18:53.81,1:18:55.64,Default,,0000,0000,0000,,{\fn黑体\fs18}再见了，亚当之子{\r}\NGood-bye, son of Adam.
+Dialogue: 0,1:19:40.23,1:19:41.89,Default,,0000,0000,0000,,{\fn黑体\fs18}儿子，你在哪里？{\r}\NSon, where are you?
+Dialogue: 0,1:19:43.27,1:19:44.26,Default,,0000,0000,0000,,{\fn黑体\fs18}含！{\r}\NHam!
+Dialogue: 0,1:19:48.07,1:19:49.06,Default,,0000,0000,0000,,{\fn黑体\fs18}含？{\r}\NHam?
+Dialogue: 0,1:19:53.58,1:19:54.91,Default,,0000,0000,0000,,{\fn黑体\fs18}含？{\r}\NHam?
+Dialogue: 0,1:20:55.47,1:20:56.71,Default,,0000,0000,0000,,{\fn黑体\fs18}没事的{\r}\NIt's all right.
+Dialogue: 0,1:21:29.30,1:21:30.63,Default,,0000,0000,0000,,{\fn黑体\fs18}- 闪！  - 爸爸！{\r}\N- Shem!  - Father!
+Dialogue: 0,1:21:30.80,1:21:33.46,Default,,0000,0000,0000,,{\fn黑体\fs18}- 雅弗，你在哪？  - 伊拉，我在这！{\r}\NJapheth, where are you?  - Ila, I'm here!  - Father!
+Dialogue: 0,1:21:33.68,1:21:35.96,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈，爸爸在哪？{\r}\NMother, where's Father?
+Dialogue: 0,1:22:45.08,1:22:46.74,Default,,0000,0000,0000,,{\fn黑体\fs18}求求你，诺亚{\r}\NPlease, Noah,
+Dialogue: 0,1:22:48.54,1:22:50.70,Default,,0000,0000,0000,,{\fn黑体\fs18}一定有方法可以救他们{\r}\Nthere must be something we can do.
+Dialogue: 0,1:22:52.09,1:22:54.20,Default,,0000,0000,0000,,{\fn黑体\fs18}我们可以抛下绳索{\r}\NWe can drag ropes.
+Dialogue: 0,1:22:55.17,1:22:57.54,Default,,0000,0000,0000,,{\fn黑体\fs18}那些人并非全是士兵，爸爸{\r}\NThey cannot all be soldiers, Father.
+Dialogue: 0,1:22:58.43,1:23:01.76,Default,,0000,0000,0000,,{\fn黑体\fs18}他们只是凡人，方舟还有空间{\r}\NThey are just people. And there's room.
+Dialogue: 0,1:23:02.06,1:23:04.09,Default,,0000,0000,0000,,{\fn黑体\fs18}这里没有容纳他们的空间{\r}\NThere is no room for them.
+Dialogue: 0,1:23:53.27,1:23:55.26,Default,,0000,0000,0000,,{\fn黑体\fs18}我们所知的世界很快就要消失{\r}\NSoon everything we knew will be gone.
+Dialogue: 0,1:23:58.03,1:24:00.94,Default,,0000,0000,0000,,{\fn黑体\fs18}创世遗留下来的生命都在这艘船上了{\r}\NAll that is left of Creation  will lie within these walls.
+Dialogue: 0,1:24:02.62,1:24:03.61,Default,,0000,0000,0000,,{\fn黑体\fs18}外面…{\r}\NOutside,
+Dialogue: 0,1:24:05.41,1:24:07.62,Default,,0000,0000,0000,,{\fn黑体\fs18}…只是回到纷乱混沌的状态而已{\r}\Njust the waters of chaos again.
+Dialogue: 0,1:24:09.62,1:24:11.11,Default,,0000,0000,0000,,{\fn黑体\fs18}你们很愤怒{\r}\NYou are angry.
+Dialogue: 0,1:24:12.13,1:24:13.62,Default,,0000,0000,0000,,{\fn黑体\fs18}你们批判我{\r}\NYou judge me.
+Dialogue: 0,1:24:16.46,1:24:18.12,Default,,0000,0000,0000,,{\fn黑体\fs18}我讲一个故事给你们听{\r}\NLet me tell you a story.
+Dialogue: 0,1:24:19.59,1:24:21.71,Default,,0000,0000,0000,,{\fn黑体\fs18}这是我父亲告诉我的第一个故事{\r}\NThe first story my father told me,
+Dialogue: 0,1:24:21.80,1:24:23.96,Default,,0000,0000,0000,,{\fn黑体\fs18}也是我告诉你们的第一个故事{\r}\Nand the first story that I told each of you.
+Dialogue: 0,1:24:32.15,1:24:33.64,Default,,0000,0000,0000,,{\fn黑体\fs18}一开始…{\r}\NIn the beginning,
+Dialogue: 0,1:24:35.11,1:24:36.44,Default,,0000,0000,0000,,{\fn黑体\fs18}…什么也没有{\r}\Nthere was nothing.
+Dialogue: 0,1:24:38.44,1:24:41.48,Default,,0000,0000,0000,,{\fn黑体\fs18}只有无尽无声的黑暗{\r}\NNothing but the silence  of an infinite darkness.
+Dialogue: 0,1:24:42.20,1:24:45.23,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主的气息拂过虚空的表面{\r}\NBut the breath of The Creator  fluttered against
+Dialogue: 0,1:24:45.33,1:24:46.41,Default,,0000,0000,0000,,{\fn黑体\fs18}轻声说…{\r}\Nthe face of the void, whispering,
+Dialogue: 0,1:24:46.49,1:24:48.28,Default,,0000,0000,0000,,{\fn黑体\fs18}…“要有光”{\r}\N"Let there be light. "
+Dialogue: 0,1:24:48.83,1:24:50.29,Default,,0000,0000,0000,,{\fn黑体\fs18}就有了光{\r}\NAnd light was.
+Dialogue: 0,1:24:50.66,1:24:52.00,Default,,0000,0000,0000,,{\fn黑体\fs18}光是好的{\r}\NAnd it was good.
+Dialogue: 0,1:24:52.62,1:24:54.11,Default,,0000,0000,0000,,{\fn黑体\fs18}这是第一天{\r}\NThe first day.
+Dialogue: 0,1:24:54.96,1:24:59.50,Default,,0000,0000,0000,,{\fn黑体\fs18}无形的光开始组成物质并有了形状{\r}\NAnd then the formless light  began to take on substance and shape.
+Dialogue: 0,1:24:59.67,1:25:01.29,Default,,0000,0000,0000,,{\fn黑体\fs18}这是第二天{\r}\NA second day.
+Dialogue: 0,1:25:01.68,1:25:03.51,Default,,0000,0000,0000,,{\fn黑体\fs18}接着我们的世界诞生了{\r}\NAnd our world was born.
+Dialogue: 0,1:25:04.14,1:25:06.34,Default,,0000,0000,0000,,{\fn黑体\fs18}一个美丽又脆弱的家园{\r}\NOur beautiful, fragile home.
+Dialogue: 0,1:25:06.68,1:25:09.51,Default,,0000,0000,0000,,{\fn黑体\fs18}一道强大温暖的光滋养了白昼{\r}\NAnd a great,  warming light nurtured its days.
+Dialogue: 0,1:25:11.02,1:25:13.35,Default,,0000,0000,0000,,{\fn黑体\fs18}一道较小的光统治着黑夜{\r}\NAnd a lesser light ruled the nights.
+Dialogue: 0,1:25:13.73,1:25:16.72,Default,,0000,0000,0000,,{\fn黑体\fs18}也开始有夜晚与早晨{\r}\NAnd there was evening. And morning.
+Dialogue: 0,1:25:17.52,1:25:18.86,Default,,0000,0000,0000,,{\fn黑体\fs18}新的一天{\r}\NAnother day.
+Dialogue: 0,1:25:21.53,1:25:24.02,Default,,0000,0000,0000,,{\fn黑体\fs18}世上的水聚在一处{\r}\NAnd the waters of the world  gathered together,
+Dialogue: 0,1:25:24.53,1:25:27.86,Default,,0000,0000,0000,,{\fn黑体\fs18}使旱地露出来{\r}\Nand in their midst emerged dry land.
+Dialogue: 0,1:25:28.99,1:25:30.70,Default,,0000,0000,0000,,{\fn黑体\fs18}这样又过了一天{\r}\NAnother day passed.
+Dialogue: 0,1:25:31.54,1:25:33.87,Default,,0000,0000,0000,,{\fn黑体\fs18}地上长出生物{\r}\NAnd the ground put forth  the growing things.
+Dialogue: 0,1:25:34.04,1:25:37.20,Default,,0000,0000,0000,,{\fn黑体\fs18}厚厚一层植物遍布大地{\r}\NA thick blanket of green  stretching across all Creation.
+Dialogue: 0,1:25:38.05,1:25:41.00,Default,,0000,0000,0000,,{\fn黑体\fs18}水中也生意盎然{\r}\NAnd the waters, too, teemed with life.
+Dialogue: 0,1:25:41.67,1:25:44.04,Default,,0000,0000,0000,,{\fn黑体\fs18}充斥今日不复存在的奇妙生物{\r}\NGreat creatures of the deep  that are no more.
+Dialogue: 0,1:25:44.38,1:25:49.48,Default,,0000,0000,0000,,{\fn黑体\fs18}鱼种众多，有些可能仍在深海中游动{\r}\NVast multitudes of fish,  some of which may still  swim beneath these seas.
+Dialogue: 0,1:25:49.89,1:25:53.72,Default,,0000,0000,0000,,{\fn黑体\fs18}不久天上已满是飞鸟{\r}\NAnd soon  the sky was streaming with birds.
+Dialogue: 0,1:25:54.06,1:25:58.12,Default,,0000,0000,0000,,{\fn黑体\fs18}黑夜过去，白昼降临，这是第五天{\r}\NAnd there was evening.  And there was morning. A fifth day.
+Dialogue: 0,1:25:58.23,1:26:01.06,Default,,0000,0000,0000,,{\fn黑体\fs18}现在全世界都充满着生命{\r}\NNow the whole world  was full of living beings.
+Dialogue: 0,1:26:01.40,1:26:05.80,Default,,0000,0000,0000,,{\fn黑体\fs18}大地上有各式各样的野兽与爬虫{\r}\NEverything that creeps,  everything that crawls,  and every beast  that walks upon the ground.
+Dialogue: 0,1:26:06.07,1:26:08.36,Default,,0000,0000,0000,,{\fn黑体\fs18}这是好的，全都是好的{\r}\NAnd it was good. It was all good.
+Dialogue: 0,1:26:08.70,1:26:13.36,Default,,0000,0000,0000,,{\fn黑体\fs18}光，空气，水合泥土皆洁净不受污染{\r}\NThere was light and air and water  and soil, all clean and unspoiled.
+Dialogue: 0,1:26:13.71,1:26:16.20,Default,,0000,0000,0000,,{\fn黑体\fs18}植物和虫鱼鸟兽生活其中{\r}\NThere were plants and fish  and fowl and beast,
+Dialogue: 0,1:26:16.42,1:26:20.53,Default,,0000,0000,0000,,{\fn黑体\fs18}各从其类，各安其分，各得其所{\r}\Neach after their own kind.  All part of the greater whole.  All in their place.
+Dialogue: 0,1:26:20.75,1:26:23.59,Default,,0000,0000,0000,,{\fn黑体\fs18}万物平衡，这是乐园{\r}\NAnd all was in balance. It was paradise.
+Dialogue: 0,1:26:23.88,1:26:26.04,Default,,0000,0000,0000,,{\fn黑体\fs18}是造物主掌上的宝石{\r}\NA jewel in The Creator's palm.
+Dialogue: 0,1:26:28.43,1:26:30.01,Default,,0000,0000,0000,,{\fn黑体\fs18}接着造物主创造了男人{\r}\NThen The Creator made Man.
+Dialogue: 0,1:26:30.10,1:26:31.93,Default,,0000,0000,0000,,{\fn黑体\fs18}并创造了女人{\r}\NAnd by his side, Woman.
+Dialogue: 0,1:26:32.35,1:26:34.26,Default,,0000,0000,0000,,{\fn黑体\fs18}他们就是所有人类的父母{\r}\NFather and mother of us all.
+Dialogue: 0,1:26:35.56,1:26:37.55,Default,,0000,0000,0000,,{\fn黑体\fs18}他给他们一个选择{\r}\NHe gave them a choice.
+Dialogue: 0,1:26:40.94,1:26:43.06,Default,,0000,0000,0000,,{\fn黑体\fs18}是顺从黑暗的诱惑{\r}\NFollow the temptation of darkness
+Dialogue: 0,1:26:44.11,1:26:46.94,Default,,0000,0000,0000,,{\fn黑体\fs18}还是把握光明的祝福{\r}\Nor hold on to the blessing of light.
+Dialogue: 0,1:26:57.29,1:26:59.41,Default,,0000,0000,0000,,{\fn黑体\fs18}但他们吃了禁果{\r}\NBut they ate from the forbidden fruit.
+Dialogue: 0,1:27:00.59,1:27:02.62,Default,,0000,0000,0000,,{\fn黑体\fs18}从此失去了纯真{\r}\NTheir innocence was extinguished.
+Dialogue: 0,1:27:03.51,1:27:06.50,Default,,0000,0000,0000,,{\fn黑体\fs18}亚当的子孙到了第十代，罪恶…{\r}\NAnd so for the ten generations since Adam, 
+Dialogue: 0,1:27:06.84,1:27:08.67,Default,,0000,0000,0000,,{\fn黑体\fs18}…一直存在我们内心{\r}\Nsin has walked within us.
+Dialogue: 0,1:27:11.35,1:27:13.13,Default,,0000,0000,0000,,{\fn黑体\fs18}兄弟反目成仇{\r}\NBrother against brother.
+Dialogue: 0,1:27:14.81,1:27:16.67,Default,,0000,0000,0000,,{\fn黑体\fs18}国家兵戎相向{\r}\NNation against nation.
+Dialogue: 0,1:27:17.44,1:27:19.30,Default,,0000,0000,0000,,{\fn黑体\fs18}人类迫害万物{\r}\NMan against Creation.
+Dialogue: 0,1:27:21.23,1:27:22.94,Default,,0000,0000,0000,,{\fn黑体\fs18}我们自相残杀{\r}\NWe murdered each other.
+Dialogue: 0,1:27:25.53,1:27:28.02,Default,,0000,0000,0000,,{\fn黑体\fs18}世界被破坏殆尽，这是我们造成的{\r}\NWe broke the world. We did this.
+Dialogue: 0,1:27:28.66,1:27:30.32,Default,,0000,0000,0000,,{\fn黑体\fs18}是人造成的{\r}\NMan did this.
+Dialogue: 0,1:27:31.20,1:27:33.19,Default,,0000,0000,0000,,{\fn黑体\fs18}世上所有的美好…{\r}\NEverything that was beautiful,
+Dialogue: 0,1:27:33.54,1:27:35.32,Default,,0000,0000,0000,,{\fn黑体\fs18}…与良善…{\r}\Neverything that was good,
+Dialogue: 0,1:27:35.87,1:27:37.36,Default,,0000,0000,0000,,{\fn黑体\fs18}…皆被人摧毁{\r}\Nwe shattered.
+Dialogue: 0,1:27:39.00,1:27:40.33,Default,,0000,0000,0000,,{\fn黑体\fs18}现在…{\r}\NNow, 
+Dialogue: 0,1:27:41.17,1:27:42.83,Default,,0000,0000,0000,,{\fn黑体\fs18}…一切重新开始{\r}\Nit begins again.
+Dialogue: 0,1:27:44.67,1:27:48.00,Default,,0000,0000,0000,,{\fn黑体\fs18}水，空气，泥土，植物和虫鱼鸟兽{\r}\NAir, water, earth, plant,  fish, bird and beast.
+Dialogue: 0,1:27:48.68,1:27:50.34,Default,,0000,0000,0000,,{\fn黑体\fs18}乐园将再现{\r}\NParadise returns.
+Dialogue: 0,1:27:51.30,1:27:52.84,Default,,0000,0000,0000,,{\fn黑体\fs18}但这一次…{\r}\NBut this time,
+Dialogue: 0,1:27:55.18,1:27:56.97,Default,,0000,0000,0000,,{\fn黑体\fs18}…没有人的容身之地{\r}\Nthis time there will be no men.
+Dialogue: 0,1:27:57.98,1:28:00.22,Default,,0000,0000,0000,,{\fn黑体\fs18}如果人再进入伊甸园{\r}\NIf we were to enter the Garden again,
+Dialogue: 0,1:28:00.85,1:28:03.19,Default,,0000,0000,0000,,{\fn黑体\fs18}伊甸园就只会再度被摧毁{\r}\Nit would only be to destroy it once more.
+Dialogue: 0,1:28:03.69,1:28:04.68,Default,,0000,0000,0000,,{\fn黑体\fs18}不{\r}\NNo.
+Dialogue: 0,1:28:06.03,1:28:08.02,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主已经做出审判{\r}\NThe Creator has judged us.
+Dialogue: 0,1:28:09.99,1:28:11.85,Default,,0000,0000,0000,,{\fn黑体\fs18}人类必须灭绝{\r}\NMankind must end.
+Dialogue: 0,1:28:14.03,1:28:15.19,Default,,0000,0000,0000,,{\fn黑体\fs18}闪和伊拉…{\r}\NShem and Ila,
+Dialogue: 0,1:28:16.75,1:28:18.74,Default,,0000,0000,0000,,{\fn黑体\fs18}…你们将埋葬我和妈妈{\r}\Nyou will bury your mother and I.
+Dialogue: 0,1:28:20.08,1:28:22.74,Default,,0000,0000,0000,,{\fn黑体\fs18}含，你将埋葬他们{\r}\NHam, you will bury them.
+Dialogue: 0,1:28:23.42,1:28:25.75,Default,,0000,0000,0000,,{\fn黑体\fs18}雅弗将为你送终{\r}\NJapheth will lay you to rest.
+Dialogue: 0,1:28:27.13,1:28:28.62,Default,,0000,0000,0000,,{\fn黑体\fs18}而你，雅弗…{\r}\NYou, Japheth,
+Dialogue: 0,1:28:29.76,1:28:31.75,Default,,0000,0000,0000,,{\fn黑体\fs18}…你会是最后一名人类{\r}\Nyou will be the last man.
+Dialogue: 0,1:28:32.55,1:28:35.54,Default,,0000,0000,0000,,{\fn黑体\fs18}终究也会归于尘土{\r}\NAnd in time you, too,  will return to the dust.
+Dialogue: 0,1:28:35.93,1:28:37.92,Default,,0000,0000,0000,,{\fn黑体\fs18}世间万物会被留下{\r}\NCreation will be left alone,
+Dialogue: 0,1:28:38.39,1:28:40.38,Default,,0000,0000,0000,,{\fn黑体\fs18}安全无虞，美丽如昔{\r}\Nsafe and beautiful.
+Dialogue: 0,1:28:44.19,1:28:46.02,Default,,0000,0000,0000,,{\fn黑体\fs18}那个女孩的事我很抱歉{\r}\NI'm very sorry about that girl.
+Dialogue: 0,1:28:47.73,1:28:49.40,Default,,0000,0000,0000,,{\fn黑体\fs18}我也为你感到遗憾{\r}\NAnd I'm sorry for you.
+Dialogue: 0,1:28:50.90,1:28:52.74,Default,,0000,0000,0000,,{\fn黑体\fs18}但我们承担的责任…{\r}\NBut we have been entrusted with a task
+Dialogue: 0,1:28:52.86,1:28:54.73,Default,,0000,0000,0000,,{\fn黑体\fs18}…比个人私欲重要得多{\r}\Nmuch greater than our own desires.
+Dialogue: 0,1:29:00.12,1:29:01.11,Default,,0000,0000,0000,,{\fn黑体\fs18}含{\r}\NHam.
+Dialogue: 0,1:29:44.54,1:29:45.58,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚…{\r}\NNoah...
+Dialogue: 0,1:29:46.50,1:29:48.29,Default,,0000,0000,0000,,{\fn黑体\fs18}他知道我在这里吗？{\r}\NDoes he know I'm here?
+Dialogue: 0,1:29:49.25,1:29:51.25,Default,,0000,0000,0000,,{\fn黑体\fs18}- 他知道吗？  - 不知道{\r}\N- Does he know I'm here?  - No, no, no. No.
+Dialogue: 0,1:29:58.51,1:30:00.63,Default,,0000,0000,0000,,{\fn黑体\fs18}你为什么要帮我？{\r}\NWhy are you helping me?
+Dialogue: 0,1:30:05.35,1:30:06.84,Default,,0000,0000,0000,,{\fn黑体\fs18}我遇见一个女孩{\r}\NThere was a girl.
+Dialogue: 0,1:30:11.15,1:30:12.81,Default,,0000,0000,0000,,{\fn黑体\fs18}我试着带她上船{\r}\NI tried to bring her.
+Dialogue: 0,1:30:13.65,1:30:15.64,Default,,0000,0000,0000,,{\fn黑体\fs18}他却眼睁睁让她丧命{\r}\NBut he just let her die.
+Dialogue: 0,1:30:19.95,1:30:21.94,Default,,0000,0000,0000,,{\fn黑体\fs18}所以你想报仇{\r}\NAnd now you want revenge.
+Dialogue: 0,1:30:25.00,1:30:26.03,Default,,0000,0000,0000,,{\fn黑体\fs18}不{\r}\NNo.
+Dialogue: 0,1:30:26.33,1:30:27.99,Default,,0000,0000,0000,,{\fn黑体\fs18}是的，你想{\r}\NYes, you do.
+Dialogue: 0,1:30:34.51,1:30:36.17,Default,,0000,0000,0000,,{\fn黑体\fs18}你想报仇{\r}\NYes, you do.
+Dialogue: 0,1:30:55.70,1:30:57.36,Default,,0000,0000,0000,,{\fn黑体\fs18}陆地完全消失了{\r}\NThere's no more land.
+Dialogue: 0,1:31:01.91,1:31:04.07,Default,,0000,0000,0000,,{\fn黑体\fs18}没有生物可以在外面存活{\r}\NEverything out there must be dead.
+Dialogue: 0,1:31:09.75,1:31:11.58,Default,,0000,0000,0000,,{\fn黑体\fs18}这是他的旨意{\r}\NIt had to be what He wanted.
+Dialogue: 0,1:31:13.21,1:31:14.92,Default,,0000,0000,0000,,{\fn黑体\fs18}一个没有人的世界{\r}\NA world without man.
+Dialogue: 0,1:31:21.10,1:31:22.43,Default,,0000,0000,0000,,{\fn黑体\fs18}你了解这一点吧？{\r}\NYou see that, don't you?
+Dialogue: 0,1:31:29.23,1:31:30.72,Default,,0000,0000,0000,,{\fn黑体\fs18}我只知道…{\r}\NWhat I see
+Dialogue: 0,1:31:32.73,1:31:34.89,Default,,0000,0000,0000,,{\fn黑体\fs18}这件任务对你来说有多艰难{\r}\Nis how hard this was for you to do
+Dialogue: 0,1:31:36.95,1:31:38.94,Default,,0000,0000,0000,,{\fn黑体\fs18}因为你尊重生命{\r}\Nas a man who respects life,
+Dialogue: 0,1:31:39.91,1:31:41.77,Default,,0000,0000,0000,,{\fn黑体\fs18}也爱你的孩子{\r}\Na man who loves his children.
+Dialogue: 0,1:31:48.71,1:31:50.37,Default,,0000,0000,0000,,{\fn黑体\fs18}你一直都很坚强{\r}\NYou've been strong.
+Dialogue: 0,1:31:52.25,1:31:53.74,Default,,0000,0000,0000,,{\fn黑体\fs18}你的工作完成了{\r}\NBut it's done.
+Dialogue: 0,1:31:55.71,1:31:57.20,Default,,0000,0000,0000,,{\fn黑体\fs18}已经大功告成{\r}\NIt's done now.
+Dialogue: 0,1:31:57.72,1:31:59.88,Default,,0000,0000,0000,,{\fn黑体\fs18}你可以卸下重担了{\r}\NAnd you can put that burden down.
+Dialogue: 0,1:32:05.60,1:32:06.93,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,1:32:19.15,1:32:20.49,Default,,0000,0000,0000,,{\fn黑体\fs18}没事了{\r}\NIt's all right.
+Dialogue: 0,1:32:29.16,1:32:31.91,Default,,0000,0000,0000,,{\fn黑体\fs18}如果你父亲发现我  一定会杀了我{\r}\NIf your father found me,  he would kill me.
+Dialogue: 0,1:32:33.29,1:32:36.29,Default,,0000,0000,0000,,{\fn黑体\fs18}我们一定要做好准备  但我太虚弱了{\r}\NWe must be ready, but I am too weak.
+Dialogue: 0,1:32:49.31,1:32:50.64,Default,,0000,0000,0000,,{\fn黑体\fs18}你在做什么？{\r}\NWhat are you doing?
+Dialogue: 0,1:32:51.81,1:32:53.68,Default,,0000,0000,0000,,{\fn黑体\fs18}我得恢复体力{\r}\NI must get my strength back.
+Dialogue: 0,1:32:53.86,1:32:56.35,Default,,0000,0000,0000,,{\fn黑体\fs18}这些野兽很珍贵的  每种只有两只{\r}\NThe beasts are precious.  There are only two of each.
+Dialogue: 0,1:32:56.82,1:32:58.81,Default,,0000,0000,0000,,{\fn黑体\fs18}但我只有一个{\r}\NAnd there is only one of me.
+Dialogue: 0,1:32:59.15,1:33:00.77,Default,,0000,0000,0000,,{\fn黑体\fs18}可是这场大雨和所有奇迹{\r}\NBut the rain, all these miracles,
+Dialogue: 0,1:33:00.86,1:33:02.19,Default,,0000,0000,0000,,{\fn黑体\fs18}都是为了要救它们{\r}\Nare for them.
+Dialogue: 0,1:33:02.99,1:33:03.98,Default,,0000,0000,0000,,{\fn黑体\fs18}救它们？{\r}\NThem?
+Dialogue: 0,1:33:05.33,1:33:08.11,Default,,0000,0000,0000,,{\fn黑体\fs18}你父亲在船上载满野兽  却让孩童溺死{\r}\NYour father fills a ship with beasts  while children drown.
+Dialogue: 0,1:33:08.95,1:33:11.62,Default,,0000,0000,0000,,{\fn黑体\fs18}他要你服侍动物根本贬低了你{\r}\NHe belittles you  by telling you you must serve them.
+Dialogue: 0,1:33:12.00,1:33:13.28,Default,,0000,0000,0000,,{\fn黑体\fs18}不是的{\r}\NNo.
+Dialogue: 0,1:33:14.04,1:33:15.37,Default,,0000,0000,0000,,{\fn黑体\fs18}是动物要服侍我们{\r}\NThey serve us.
+Dialogue: 0,1:33:19.67,1:33:21.66,Default,,0000,0000,0000,,{\fn黑体\fs18}这就是人的伟大之处{\r}\NThat is the greatness of men.
+Dialogue: 0,1:33:22.97,1:33:27.96,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主创造了天地  海洋和这些野兽后{\r}\NWhen The Creator  finished making the sky,  the ground, the sea, and this beast,
+Dialogue: 0,1:33:29.06,1:33:30.89,Default,,0000,0000,0000,,{\fn黑体\fs18}他并不满意{\r}\NHe wasn't satisfied.
+Dialogue: 0,1:33:31.23,1:33:38.02,Default,,0000,0000,0000,,{\fn黑体\fs18}他想创造出更伟大的东西  来支配统治万物{\r}\NHe needed something greater.  Something to take dominion over it  and subdue it.
+Dialogue: 0,1:33:40.86,1:33:42.85,Default,,0000,0000,0000,,{\fn黑体\fs18}因此他照着自己的形像创造人{\r}\NSo He made us in His image.
+Dialogue: 0,1:33:43.32,1:33:44.53,Default,,0000,0000,0000,,{\fn黑体\fs18}那就是我们{\r}\NUs.
+Dialogue: 0,1:33:52.21,1:33:54.20,Default,,0000,0000,0000,,{\fn黑体\fs18}含，这世界属于你{\r}\NThis is your world, Ham.
+Dialogue: 0,1:33:55.25,1:33:56.41,Default,,0000,0000,0000,,{\fn黑体\fs18}你该掌握在手中{\r}\NSeize it.
+Dialogue: 0,1:34:12.35,1:34:13.51,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉{\r}\NIla.
+Dialogue: 0,1:34:45.09,1:34:46.92,Default,,0000,0000,0000,,{\fn黑体\fs18}天啊，祖父{\r}\NGrandfather.
+Dialogue: 0,1:34:50.22,1:34:51.55,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么了？{\r}\NWhat is it?
+Dialogue: 0,1:34:58.44,1:35:00.27,Default,,0000,0000,0000,,{\fn黑体\fs18}你没有生病{\r}\NYou're not sick.
+Dialogue: 0,1:35:03.28,1:35:05.27,Default,,0000,0000,0000,,{\fn黑体\fs18}但这不可能啊{\r}\NBut that's impossible.
+Dialogue: 0,1:35:18.80,1:35:21.58,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么回事？{\r}\NWhat? What is it?
+Dialogue: 0,1:35:23.30,1:35:24.29,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,1:35:27.43,1:35:28.92,Default,,0000,0000,0000,,{\fn黑体\fs18}这可是他的孙儿{\r}\NIt is his grandchild.
+Dialogue: 0,1:35:47.65,1:35:48.99,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么了？{\r}\NWhat's wrong?
+Dialogue: 0,1:35:50.16,1:35:51.65,Default,,0000,0000,0000,,{\fn黑体\fs18}- 爸爸  - 诺亚{\r}\N- Father.  - Noah.
+Dialogue: 0,1:35:54.45,1:35:56.61,Default,,0000,0000,0000,,{\fn黑体\fs18}我们来请求你赐福{\r}\NWe've come to ask for your blessing.
+Dialogue: 0,1:35:58.79,1:36:00.28,Default,,0000,0000,0000,,{\fn黑体\fs18}我不懂你的意思{\r}\NI don't understand.
+Dialogue: 0,1:36:01.96,1:36:03.62,Default,,0000,0000,0000,,{\fn黑体\fs18}我怀了孩子{\r}\NI am with child.
+Dialogue: 0,1:36:10.18,1:36:11.79,Default,,0000,0000,0000,,{\fn黑体\fs18}不可能{\r}\NIt's not possible.
+Dialogue: 0,1:36:13.81,1:36:15.14,Default,,0000,0000,0000,,{\fn黑体\fs18}你没有生育能力{\r}\NYou're barren.
+Dialogue: 0,1:36:16.43,1:36:18.17,Default,,0000,0000,0000,,{\fn黑体\fs18}不可能怀孕{\r}\NYou can't conceive. How...
+Dialogue: 0,1:36:18.35,1:36:20.31,Default,,0000,0000,0000,,{\fn黑体\fs18}- 这怎么可能？  - 是祖父{\r}\N- How is that possible?  - Grandfather.
+Dialogue: 0,1:36:23.19,1:36:25.31,Default,,0000,0000,0000,,{\fn黑体\fs18}- 我求祖父…  - 做什么？{\r}\NI asked Grandfather...  To what?
+Dialogue: 0,1:36:25.53,1:36:27.02,Default,,0000,0000,0000,,{\fn黑体\fs18}破坏造物主的旨意？{\r}\NUndermine The Creator?
+Dialogue: 0,1:36:27.19,1:36:29.18,Default,,0000,0000,0000,,{\fn黑体\fs18}求他给我们的孩子一个未来{\r}\NTo give our children a future.
+Dialogue: 0,1:36:29.57,1:36:31.11,Default,,0000,0000,0000,,{\fn黑体\fs18}给人类一个未来{\r}\NTo give humanity a future.
+Dialogue: 0,1:36:31.49,1:36:34.03,Default,,0000,0000,0000,,{\fn黑体\fs18}你知不知道你干了什么好事？{\r}\NHave you any idea what you've done?
+Dialogue: 0,1:36:34.49,1:36:37.58,Default,,0000,0000,0000,,{\fn黑体\fs18}这么多的生命！这么多的人！{\r}\NAll those lives! All those people!
+Dialogue: 0,1:36:37.87,1:36:39.16,Default,,0000,0000,0000,,{\fn黑体\fs18}全死得毫无意义！{\r}\NFor nothing!
+Dialogue: 0,1:36:40.00,1:36:42.49,Default,,0000,0000,0000,,{\fn黑体\fs18}你知道接下来我被迫要做什么事吗？{\r}\NDo you know what this forces me to do?
+Dialogue: 0,1:36:53.26,1:36:54.25,Default,,0000,0000,0000,,{\fn黑体\fs18}不！{\r}\NNo!
+Dialogue: 0,1:37:19.41,1:37:21.57,Default,,0000,0000,0000,,{\fn黑体\fs18}求求你！求求你！{\r}\NPlease! Please!
+Dialogue: 0,1:37:22.08,1:37:23.24,Default,,0000,0000,0000,,{\fn黑体\fs18}求求你！{\r}\NPlease!
+Dialogue: 0,1:37:23.71,1:37:25.54,Default,,0000,0000,0000,,{\fn黑体\fs18}我做不到！{\r}\NI cannot do this!
+Dialogue: 0,1:37:25.92,1:37:28.03,Default,,0000,0000,0000,,{\fn黑体\fs18}请别让我这么做！{\r}\NTell me I don't need to do this!
+Dialogue: 0,1:37:28.38,1:37:29.71,Default,,0000,0000,0000,,{\fn黑体\fs18}求求你{\r}\NPlease.
+Dialogue: 0,1:37:30.92,1:37:34.88,Default,,0000,0000,0000,,{\fn黑体\fs18}你要我做的事，我哪一件没做到？{\r}\NHave I not done  everything that You asked of me?
+Dialogue: 0,1:37:35.09,1:37:36.76,Default,,0000,0000,0000,,{\fn黑体\fs18}难道这样还不够吗？{\r}\NIs that not enough?
+Dialogue: 0,1:37:39.43,1:37:41.72,Default,,0000,0000,0000,,{\fn黑体\fs18}你为什么不回答我？{\r}\NWhy do You not answer me?
+Dialogue: 0,1:37:43.27,1:37:44.55,Default,,0000,0000,0000,,{\fn黑体\fs18}为什么？{\r}\NWhy?
+Dialogue: 0,1:38:03.92,1:38:05.58,Default,,0000,0000,0000,,{\fn黑体\fs18}我不会让你失望{\r}\NI will not fail You.
+Dialogue: 0,1:38:06.92,1:38:08.78,Default,,0000,0000,0000,,{\fn黑体\fs18}我不会让你失望{\r}\NI will not fail You.
+Dialogue: 0,1:38:10.96,1:38:12.62,Default,,0000,0000,0000,,{\fn黑体\fs18}我不会让你失望{\r}\NI will not fail You.
+Dialogue: 0,1:38:16.97,1:38:18.51,Default,,0000,0000,0000,,{\fn黑体\fs18}我必须这么做{\r}\NIt shall be done.
+Dialogue: 0,1:38:42.83,1:38:44.44,Default,,0000,0000,0000,,{\fn黑体\fs18}我必须这么做{\r}\NIt shall be done.
+Dialogue: 0,1:38:59.30,1:39:00.34,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸？{\r}\NFather?
+Dialogue: 0,1:39:08.56,1:39:10.05,Default,,0000,0000,0000,,{\fn黑体\fs18}雨停了{\r}\NThe rains have stopped.
+Dialogue: 0,1:39:11.52,1:39:13.98,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主对我们的孩子露出了笑容{\r}\NThe Creator smiles on our child.
+Dialogue: 0,1:39:15.36,1:39:18.23,Default,,0000,0000,0000,,{\fn黑体\fs18}雨的确是因为你们的孩子而停了{\r}\NThe rains have stopped  because of your child, yes,
+Dialogue: 0,1:39:19.03,1:39:20.69,Default,,0000,0000,0000,,{\fn黑体\fs18}但这不是笑容{\r}\Nbut He does not smile.
+Dialogue: 0,1:39:23.54,1:39:25.37,Default,,0000,0000,0000,,{\fn黑体\fs18}如果你怀的是男孩{\r}\NIf your child is a boy,
+Dialogue: 0,1:39:26.08,1:39:29.57,Default,,0000,0000,0000,,{\fn黑体\fs18}他会代替雅弗成为最后一名人类{\r}\Nhe will replace Japheth, last man.
+Dialogue: 0,1:39:35.01,1:39:36.71,Default,,0000,0000,0000,,{\fn黑体\fs18}如果是女孩{\r}\NIr it is a girl,
+Dialogue: 0,1:39:37.55,1:39:39.54,Default,,0000,0000,0000,,{\fn黑体\fs18}未来可能成为母亲{\r}\Nwho could mature into a mother,
+Dialogue: 0,1:39:42.72,1:39:44.05,Default,,0000,0000,0000,,{\fn黑体\fs18}因此她必须死{\r}\Nshe must die.
+Dialogue: 0,1:39:49.06,1:39:50.55,Default,,0000,0000,0000,,{\fn黑体\fs18}你疯了吗？{\r}\NAre you mad?
+Dialogue: 0,1:39:52.06,1:39:54.02,Default,,0000,0000,0000,,{\fn黑体\fs18}这可是我的孩子！{\r}\NThat is my child!
+Dialogue: 0,1:40:02.07,1:40:03.91,Default,,0000,0000,0000,,{\fn黑体\fs18}如果你怀的是女孩{\r}\NIf you should bear a girl,
+Dialogue: 0,1:40:05.33,1:40:08.74,Default,,0000,0000,0000,,{\fn黑体\fs18}她一出生我就会亲手结束她的生命{\r}\Nin the moment of her birth,  I will cut her down.
+Dialogue: 0,1:40:57.09,1:40:58.08,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈！{\r}\NMother!
+Dialogue: 0,1:40:58.76,1:41:00.29,Default,,0000,0000,0000,,{\fn黑体\fs18}我的鸟回来了！{\r}\NMother, my bird!
+Dialogue: 0,1:41:13.98,1:41:15.97,Default,,0000,0000,0000,,{\fn黑体\fs18}什么也没有  连泥土都没沾上{\r}\NNothing. No mud.
+Dialogue: 0,1:41:31.16,1:41:32.15,Default,,0000,0000,0000,,{\fn黑体\fs18}毫无所获{\r}\NNothing.
+Dialogue: 0,1:41:33.71,1:41:35.32,Default,,0000,0000,0000,,{\fn黑体\fs18}我们还是得离开{\r}\NWe still have to go.
+Dialogue: 0,1:41:37.00,1:41:37.83,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉…{\r}\NIla,
+Dialogue: 0,1:41:38.55,1:41:39.83,Default,,0000,0000,0000,,{\fn黑体\fs18}…外面一片死寂{\r}\Nthere's nothing.
+Dialogue: 0,1:41:40.84,1:41:43.00,Default,,0000,0000,0000,,{\fn黑体\fs18}什么也没有{\r}\NThere's nothing out there.
+Dialogue: 0,1:41:43.09,1:41:45.25,Default,,0000,0000,0000,,{\fn黑体\fs18}你们准备的食物和水  能撑多久？{\r}\NYou have food and water for how long?
+Dialogue: 0,1:41:45.68,1:41:47.01,Default,,0000,0000,0000,,{\fn黑体\fs18}几个星期？{\r}\NWeeks?
+Dialogue: 0,1:41:47.22,1:41:48.68,Default,,0000,0000,0000,,{\fn黑体\fs18}- 一个月？  - 一个月{\r}\N- A month?  - A month.
+Dialogue: 0,1:41:55.35,1:41:56.43,Default,,0000,0000,0000,,{\fn黑体\fs18}再等等吧{\r}\NPlease wait.
+Dialogue: 0,1:41:57.69,1:42:00.15,Default,,0000,0000,0000,,{\fn黑体\fs18}至少等鸟儿找到陆地  拜托{\r}\NWait until the bird finds land. Please.
+Dialogue: 0,1:42:00.53,1:42:02.69,Default,,0000,0000,0000,,{\fn黑体\fs18}雅弗，再让它去一趟{\r}\NJapheth, send him again.
+Dialogue: 0,1:42:02.99,1:42:05.02,Default,,0000,0000,0000,,{\fn黑体\fs18}- 它太累了  - 送另一只去{\r}\N- He's too tired.  - Then wake another.
+Dialogue: 0,1:42:05.53,1:42:06.52,Default,,0000,0000,0000,,{\fn黑体\fs18}给你{\r}\NHere.
+Dialogue: 0,1:42:07.74,1:42:10.53,Default,,0000,0000,0000,,{\fn黑体\fs18}拜托了，让鸟儿帮我们找一个家{\r}\NPlease. One that can find us a home.
+Dialogue: 0,1:42:21.01,1:42:21.99,Default,,0000,0000,0000,,{\fn黑体\fs18}不{\r}\NNo.
+Dialogue: 0,1:42:27.05,1:42:28.54,Default,,0000,0000,0000,,{\fn黑体\fs18}我们今天就走{\r}\NWe leave today.
+Dialogue: 0,1:42:52.54,1:42:54.24,Default,,0000,0000,0000,,{\fn黑体\fs18}他们会死在外面{\r}\NThey will die out there.
+Dialogue: 0,1:42:55.92,1:42:57.58,Default,,0000,0000,0000,,{\fn黑体\fs18}留在船上就不会死{\r}\NNot if they stay.
+Dialogue: 0,1:42:58.58,1:43:00.92,Default,,0000,0000,0000,,{\fn黑体\fs18}然后让你杀死他们的孩子？{\r}\NAnd let you kill their child?
+Dialogue: 0,1:43:06.05,1:43:07.38,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,1:43:08.89,1:43:10.05,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚！{\r}\NNoah!
+Dialogue: 0,1:43:11.56,1:43:13.05,Default,,0000,0000,0000,,{\fn黑体\fs18}是我害的{\r}\NI did this.
+Dialogue: 0,1:43:14.06,1:43:16.60,Default,,0000,0000,0000,,{\fn黑体\fs18}是我害的，诺亚！{\r}\NI did this, Noah!
+Dialogue: 0,1:43:17.27,1:43:18.26,Default,,0000,0000,0000,,{\fn黑体\fs18}我求你！{\r}\NPlease!
+Dialogue: 0,1:43:19.61,1:43:20.94,Default,,0000,0000,0000,,{\fn黑体\fs18}要罚就罚我！{\r}\NPunish me!
+Dialogue: 0,1:43:21.90,1:43:24.56,Default,,0000,0000,0000,,{\fn黑体\fs18}我才该被惩罚，诺亚{\r}\NPunish me, Noah!
+Dialogue: 0,1:43:25.78,1:43:27.11,Default,,0000,0000,0000,,{\fn黑体\fs18}不该是他们{\r}\NNot them.
+Dialogue: 0,1:43:28.61,1:43:30.28,Default,,0000,0000,0000,,{\fn黑体\fs18}也不该是那个孩子{\r}\NNot the child.
+Dialogue: 0,1:43:31.62,1:43:32.90,Default,,0000,0000,0000,,{\fn黑体\fs18}拜托你{\r}\NPlease.
+Dialogue: 0,1:43:34.08,1:43:36.07,Default,,0000,0000,0000,,{\fn黑体\fs18}不是只有那个孩子{\r}\NThe child is not being punished.
+Dialogue: 0,1:43:36.75,1:43:38.95,Default,,0000,0000,0000,,{\fn黑体\fs18}我们全都在受罚{\r}\NWe are all being punished.
+Dialogue: 0,1:43:40.25,1:43:41.58,Default,,0000,0000,0000,,{\fn黑体\fs18}无一例外{\r}\NAll of us.
+Dialogue: 0,1:43:43.67,1:43:45.66,Default,,0000,0000,0000,,{\fn黑体\fs18}我并不想这么做{\r}\NIt's not something I want to do.
+Dialogue: 0,1:43:49.97,1:43:51.80,Default,,0000,0000,0000,,{\fn黑体\fs18}但我必须这么做{\r}\NIt's something I have to do.
+Dialogue: 0,1:43:59.48,1:44:00.76,Default,,0000,0000,0000,,{\fn黑体\fs18}这么做很痛苦{\r}\NIt is painful,
+Dialogue: 0,1:44:04.78,1:44:06.11,Default,,0000,0000,0000,,{\fn黑体\fs18}但很公正{\r}\Nbut it is just.
+Dialogue: 0,1:44:08.36,1:44:09.69,Default,,0000,0000,0000,,{\fn黑体\fs18}公正？{\r}\NJust?
+Dialogue: 0,1:44:11.66,1:44:12.77,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么会？{\r}\NHow?
+Dialogue: 0,1:44:14.70,1:44:17.36,Default,,0000,0000,0000,,{\fn黑体\fs18}这样怎么会是公正？{\r}\NHow is this just?
+Dialogue: 0,1:44:19.33,1:44:21.29,Default,,0000,0000,0000,,{\fn黑体\fs18}那是个婴儿啊，诺亚{\r}\NIt's a baby, Noah.
+Dialogue: 0,1:44:25.17,1:44:27.16,Default,,0000,0000,0000,,{\fn黑体\fs18}如果你一意孤行{\r}\NIf you hold to this,
+Dialogue: 0,1:44:27.84,1:44:31.83,Default,,0000,0000,0000,,{\fn黑体\fs18}你会失去你的儿子们，失去伊拉{\r}\Nyou will lose your sons, you will lose Ila,
+Dialogue: 0,1:44:32.64,1:44:34.34,Default,,0000,0000,0000,,{\fn黑体\fs18}也会失去我{\r}\Nyou will lose me.
+Dialogue: 0,1:44:40.52,1:44:42.51,Default,,0000,0000,0000,,{\fn黑体\fs18}我爱你，诺亚{\r}\NI love you, Noah.
+Dialogue: 0,1:44:44.19,1:44:48.80,Default,,0000,0000,0000,,{\fn黑体\fs18}我追随你的脚步，与你同甘共苦{\r}\NAnd I have followed you everywhere.  Through everything.
+Dialogue: 0,1:44:49.49,1:44:50.98,Default,,0000,0000,0000,,{\fn黑体\fs18}我原谅了你{\r}\NI forgave you.
+Dialogue: 0,1:44:51.20,1:44:54.16,Default,,0000,0000,0000,,{\fn黑体\fs18}所有人都死了的时候，我原谅了你{\r}\NWhen everyone was dead, I forgave you.
+Dialogue: 0,1:44:54.49,1:44:56.86,Default,,0000,0000,0000,,{\fn黑体\fs18}也准备和你相守至死{\r}\NI was ready to die with you.
+Dialogue: 0,1:44:58.04,1:44:59.40,Default,,0000,0000,0000,,{\fn黑体\fs18}但这件事…{\r}\NBut this
+Dialogue: 0,1:45:00.21,1:45:02.37,Default,,0000,0000,0000,,{\fn黑体\fs18}…我永远都不会原谅你{\r}\NI will never forgive.
+Dialogue: 0,1:45:02.71,1:45:05.54,Default,,0000,0000,0000,,{\fn黑体\fs18}不管是男婴女婴，我都不会原谅你！{\r}\NBoy or girl, I will never forgive!
+Dialogue: 0,1:45:05.88,1:45:07.21,Default,,0000,0000,0000,,{\fn黑体\fs18}你会孤独地死去！{\r}\NAnd you will die alone!
+Dialogue: 0,1:45:07.34,1:45:08.92,Default,,0000,0000,0000,,{\fn黑体\fs18}不仅孤独，还被怨恨！{\r}\NNot just alone, but hated!
+Dialogue: 0,1:45:09.34,1:45:12.21,Default,,0000,0000,0000,,{\fn黑体\fs18}被每个你所爱的人怨恨！{\r}\NHated by everyone you love!
+Dialogue: 0,1:45:13.76,1:45:15.42,Default,,0000,0000,0000,,{\fn黑体\fs18}这才叫公正！{\r}\NThat is just!
+Dialogue: 0,1:45:17.56,1:45:19.05,Default,,0000,0000,0000,,{\fn黑体\fs18}这才叫公正！{\r}\NThat is just.
+Dialogue: 0,1:45:51.26,1:45:52.42,Default,,0000,0000,0000,,{\fn黑体\fs18}是时候了{\r}\NIt's time.
+Dialogue: 0,1:46:13.28,1:46:14.94,Default,,0000,0000,0000,,{\fn黑体\fs18}从那里引他过来{\r}\NBring him through there.
+Dialogue: 0,1:46:15.66,1:46:17.32,Default,,0000,0000,0000,,{\fn黑体\fs18}我会让他一招毙命{\r}\NOne blow will finish it.
+Dialogue: 0,1:46:24.00,1:46:25.66,Default,,0000,0000,0000,,{\fn黑体\fs18}你带着以防万一{\r}\NJust in case, huh?
+Dialogue: 0,1:46:30.75,1:46:32.46,Default,,0000,0000,0000,,{\fn黑体\fs18}我不确定我做得到{\r}\NI don't know if I can.
+Dialogue: 0,1:46:38.51,1:46:40.00,Default,,0000,0000,0000,,{\fn黑体\fs18}他杀了你的女人{\r}\NHe killed your woman.
+Dialogue: 0,1:46:40.31,1:46:42.92,Default,,0000,0000,0000,,{\fn黑体\fs18}现在还想杀了你哥哥的骨肉{\r}\NAnd now  he plots to kill your brother's firstborn.
+Dialogue: 0,1:46:43.10,1:46:44.64,Default,,0000,0000,0000,,{\fn黑体\fs18}这是你要的结局吗？{\r}\NIs that what you want?
+Dialogue: 0,1:46:45.60,1:46:48.14,Default,,0000,0000,0000,,{\fn黑体\fs18}你想让你姐姐死在海上吗？{\r}\NYou want your sister to die on the seas?
+Dialogue: 0,1:46:50.02,1:46:52.52,Default,,0000,0000,0000,,{\fn黑体\fs18}人并非由上天主宰{\r}\NA man isn't ruled by the heavens.
+Dialogue: 0,1:46:52.86,1:46:54.82,Default,,0000,0000,0000,,{\fn黑体\fs18}而是由自己的意志主宰{\r}\NA man is ruled by his will.
+Dialogue: 0,1:46:55.28,1:46:56.82,Default,,0000,0000,0000,,{\fn黑体\fs18}我问你{\r}\NSo I ask you,
+Dialogue: 0,1:46:57.32,1:46:58.81,Default,,0000,0000,0000,,{\fn黑体\fs18}你是不是人？{\r}\Nare you a man?
+Dialogue: 0,1:47:09.13,1:47:10.46,Default,,0000,0000,0000,,{\fn黑体\fs18}很好{\r}\NGood.
+Dialogue: 0,1:47:10.84,1:47:12.83,Default,,0000,0000,0000,,{\fn黑体\fs18}因为如果你是人{\r}\NBecause if you're a man,
+Dialogue: 0,1:47:13.80,1:47:15.13,Default,,0000,0000,0000,,{\fn黑体\fs18}你就杀得下手{\r}\Nyou can kill.
+Dialogue: 0,1:47:19.01,1:47:20.84,Default,,0000,0000,0000,,{\fn黑体\fs18}但他不会跟我来{\r}\NBut he won't follow me.
+Dialogue: 0,1:47:29.64,1:47:31.05,Default,,0000,0000,0000,,{\fn黑体\fs18}谢谢{\r}\NThank you, Japheth.
+Dialogue: 0,1:47:33.40,1:47:35.39,Default,,0000,0000,0000,,{\fn黑体\fs18}你要照顾好宝宝{\r}\NYou take care of that baby.
+Dialogue: 0,1:47:45.50,1:47:47.53,Default,,0000,0000,0000,,{\fn黑体\fs18}别害怕，妈妈{\r}\NDon't be afraid, Mother.
+Dialogue: 0,1:47:48.67,1:47:51.00,Default,,0000,0000,0000,,{\fn黑体\fs18}我们会在新世界相聚{\r}\NWe'll see each other in the new world.
+Dialogue: 0,1:48:02.60,1:48:03.76,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸{\r}\NFather.
+Dialogue: 0,1:48:13.40,1:48:14.23,Default,,0000,0000,0000,,{\fn黑体\fs18}住手！{\r}\NNo!
+Dialogue: 0,1:48:14.57,1:48:15.85,Default,,0000,0000,0000,,{\fn黑体\fs18}不可以！{\r}\NNo!
+Dialogue: 0,1:48:17.53,1:48:19.02,Default,,0000,0000,0000,,{\fn黑体\fs18}你怎么能这么做？{\r}\NHow could you?
+Dialogue: 0,1:48:23.41,1:48:25.40,Default,,0000,0000,0000,,{\fn黑体\fs18}我以为你是善良的！{\r}\NI thought you were good!
+Dialogue: 0,1:48:25.58,1:48:27.41,Default,,0000,0000,0000,,{\fn黑体\fs18}我以为这是他选择你的原因{\r}\NI thought that's why He chose you.
+Dialogue: 0,1:48:27.58,1:48:30.07,Default,,0000,0000,0000,,{\fn黑体\fs18}他选择我是因为他知道我能完成任务{\r}\NHe chose me because  He knew I would complete the task,
+Dialogue: 0,1:48:30.25,1:48:31.46,Default,,0000,0000,0000,,{\fn黑体\fs18}仅此而已{\r}\Nnothing more, son.
+Dialogue: 0,1:48:32.68,1:48:34.60,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈{\r}\NMother.
+Dialogue: 0,1:48:37.72,1:48:38.70,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈{\r}\NMother.
+Dialogue: 0,1:48:39.13,1:48:40.46,Default,,0000,0000,0000,,{\fn黑体\fs18}你要生了{\r}\NIt's your time.
+Dialogue: 0,1:48:44.05,1:48:45.29,Default,,0000,0000,0000,,{\fn黑体\fs18}跟我来{\r}\NCome. Come with me.
+Dialogue: 0,1:48:51.27,1:48:54.23,Default,,0000,0000,0000,,{\fn黑体\fs18}- 没事的  - 雅弗，留在原地{\r}\NYou're all right.  Japheth, stand back.
+Dialogue: 0,1:48:58.84,1:49:01.11,Default,,0000,0000,0000,,{\fn黑体\fs18}进来吧{\r}\NCome now. Come inside.
+Dialogue: 0,1:49:02.11,1:49:03.95,Default,,0000,0000,0000,,{\fn黑体\fs18}就是这样{\r}\NThat's right. That's right.
+Dialogue: 0,1:49:05.45,1:49:09.29,Default,,0000,0000,0000,,{\fn黑体\fs18}你不会有事，伊拉  你在这里很安全{\r}\NYou're all right, Ila. You're safe here.
+Dialogue: 0,1:49:11.79,1:49:14.12,Default,,0000,0000,0000,,{\fn黑体\fs18}不要让宝宝出来{\r}\NPlease keep it inside.
+Dialogue: 0,1:49:14.96,1:49:16.79,Default,,0000,0000,0000,,{\fn黑体\fs18}孩子要出生了{\r}\NYour baby's coming.
+Dialogue: 0,1:49:17.13,1:49:19.25,Default,,0000,0000,0000,,{\fn黑体\fs18}你的孩子要出生了  伊拉{\r}\NYour baby's coming, Ila.
+Dialogue: 0,1:49:19.84,1:49:22.13,Default,,0000,0000,0000,,{\fn黑体\fs18}其他什么都别想{\r}\NDon't think about anything else.
+Dialogue: 0,1:49:58.34,1:50:01.12,Default,,0000,0000,0000,,{\fn黑体\fs18}爸爸，动物醒来了{\r}\NFather! Father, they're awake!
+Dialogue: 0,1:50:01.22,1:50:02.88,Default,,0000,0000,0000,,{\fn黑体\fs18}它们正在互相残食{\r}\NThey're awake!  They're eating each other!
+Dialogue: 0,1:50:03.84,1:50:05.67,Default,,0000,0000,0000,,{\fn黑体\fs18}- 那些野兽  - 你说什么？{\r}\N- The beasts.  - What?
+Dialogue: 0,1:50:06.18,1:50:07.21,Default,,0000,0000,0000,,{\fn黑体\fs18}快来{\r}\NCome.
+Dialogue: 0,1:50:07.68,1:50:08.67,Default,,0000,0000,0000,,{\fn黑体\fs18}快啊！{\r}\NCome!
+Dialogue: 0,1:50:10.18,1:50:13.02,Default,,0000,0000,0000,,{\fn黑体\fs18}没有我们帮忙，它们不可能醒来{\r}\NIt's not possible for them  to have woken up without our help.
+Dialogue: 0,1:50:14.52,1:50:15.85,Default,,0000,0000,0000,,{\fn黑体\fs18}在哪里，儿子？{\r}\NWhich way, son?
+Dialogue: 0,1:50:54.06,1:50:55.67,Default,,0000,0000,0000,,{\fn黑体\fs18}这样就对了{\r}\NThat's right. That's right.
+Dialogue: 0,1:51:10.45,1:51:11.78,Default,,0000,0000,0000,,{\fn黑体\fs18}该隐的子孙{\r}\NThe line of Cain.
+Dialogue: 0,1:51:12.04,1:51:13.12,Default,,0000,0000,0000,,{\fn黑体\fs18}我告诉过你{\r}\NI told you,
+Dialogue: 0,1:51:14.08,1:51:15.87,Default,,0000,0000,0000,,{\fn黑体\fs18}我才不怕奇迹{\r}\NI'm not afraid of miracles.
+Dialogue: 0,1:51:27.59,1:51:28.58,Default,,0000,0000,0000,,{\fn黑体\fs18}就是这样{\r}\NThat's right.
+Dialogue: 0,1:51:29.26,1:51:30.25,Default,,0000,0000,0000,,{\fn黑体\fs18}这就对了{\r}\NThat's right.
+Dialogue: 0,1:51:31.56,1:51:32.59,Default,,0000,0000,0000,,{\fn黑体\fs18}再用力点{\r}\NA bit more.
+Dialogue: 0,1:51:58.29,1:51:59.62,Default,,0000,0000,0000,,{\fn黑体\fs18}是男孩还是女孩？{\r}\NBoy or girl?
+Dialogue: 0,1:52:00.67,1:52:01.78,Default,,0000,0000,0000,,{\fn黑体\fs18}怎么回事？{\r}\NWhat's happening?
+Dialogue: 0,1:52:05.34,1:52:06.62,Default,,0000,0000,0000,,{\fn黑体\fs18}还有一个{\r}\NThere's another.
+Dialogue: 0,1:52:06.92,1:52:07.96,Default,,0000,0000,0000,,{\fn黑体\fs18}有两个？{\r}\NTwo?
+Dialogue: 0,1:52:10.14,1:52:11.12,Default,,0000,0000,0000,,{\fn黑体\fs18}是双胞胎{\r}\NTwins.
+Dialogue: 0,1:52:38.87,1:52:40.36,Default,,0000,0000,0000,,{\fn黑体\fs18}妈妈，怎么样？{\r}\NMother, so?
+Dialogue: 0,1:52:43.84,1:52:45.00,Default,,0000,0000,0000,,{\fn黑体\fs18}对不起{\r}\NI'm sorry.
+Dialogue: 0,1:52:46.13,1:52:47.79,Default,,0000,0000,0000,,{\fn黑体\fs18}真的很遗憾{\r}\NI'm so sorry.
+Dialogue: 0,1:52:49.47,1:52:50.46,Default,,0000,0000,0000,,{\fn黑体\fs18}是一对姐妹{\r}\NSisters.
+Dialogue: 0,1:52:50.84,1:52:52.00,Default,,0000,0000,0000,,{\fn黑体\fs18}不{\r}\NNo.
+Dialogue: 0,1:52:53.05,1:52:54.54,Default,,0000,0000,0000,,{\fn黑体\fs18}不！{\r}\NNo!
+Dialogue: 0,1:52:57.92,1:52:59.00,Default,,0000,0000,0000,,{\fn黑体\fs18}不！{\r}\NNo!
+Dialogue: 0,1:52:59.35,1:53:01.84,Default,,0000,0000,0000,,{\fn黑体\fs18}我不会让他伤害我们的女儿{\r}\NHe will not touch our daughters.
+Dialogue: 0,1:53:04.69,1:53:06.68,Default,,0000,0000,0000,,{\fn黑体\fs18}不行！闪！{\r}\NNo! Shem!
+Dialogue: 0,1:53:07.36,1:53:09.12,Default,,0000,0000,0000,,{\fn黑体\fs18}闪！{\r}\NShem!
+Dialogue: 0,1:53:11.15,1:53:13.32,Default,,0000,0000,0000,,{\fn黑体\fs18}我杀死你父亲时早该连你一并解决{\r}\NI should have killed you  when I killed your father.
+Dialogue: 0,1:53:15.41,1:53:17.37,Default,,0000,0000,0000,,{\fn黑体\fs18}现在就来做个了断{\r}\NWell, now we finish it.
+Dialogue: 0,1:53:17.70,1:53:18.69,Default,,0000,0000,0000,,{\fn黑体\fs18}来吧！{\r}\NNow!
+Dialogue: 0,1:54:03.46,1:54:06.92,Default,,0000,0000,0000,,{\fn黑体\fs18}新的伊甸园不容人类的邪恶存在{\r}\NThe evils of mankind  will not live in this new Eden.
+Dialogue: 0,1:54:16.60,1:54:18.59,Default,,0000,0000,0000,,{\fn黑体\fs18}离我们远一点！让我们自己过活！{\r}\NLeave us! Leave us alone!
+Dialogue: 0,1:54:19.47,1:54:21.09,Default,,0000,0000,0000,,{\fn黑体\fs18}他由我来解决！{\r}\NHe's mine!
+Dialogue: 0,1:54:27.11,1:54:29.22,Default,,0000,0000,0000,,{\fn黑体\fs18}方舟，野兽和你们的女人…{\r}\NThe ark, the beasts,
+Dialogue: 0,1:54:29.32,1:54:31.27,Default,,0000,0000,0000,,{\fn黑体\fs18}…都由我来接收{\r}\Nand all of your women are now mine.
+Dialogue: 0,1:54:32.07,1:54:34.44,Default,,0000,0000,0000,,{\fn黑体\fs18}我会以我的形像…{\r}\NI will build a new world
+Dialogue: 0,1:54:34.78,1:54:36.44,Default,,0000,0000,0000,,{\fn黑体\fs18}…建立一个新世界！{\r}\N in my image!
+Dialogue: 0,1:54:54.80,1:54:57.46,Default,,0000,0000,0000,,{\fn黑体\fs18}现在…你是个人了{\r}\NNow you are a man.
+Dialogue: 0,1:55:26.00,1:55:27.86,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主还没有遗忘我们{\r}\NThe Creator has not forgotten us.
+Dialogue: 0,1:55:34.34,1:55:35.83,Default,,0000,0000,0000,,{\fn黑体\fs18}那个女孩叫娜儿{\r}\NHer name was Na'el.
+Dialogue: 0,1:55:40.01,1:55:41.50,Default,,0000,0000,0000,,{\fn黑体\fs18}她是无辜的{\r}\NShe was innocent.
+Dialogue: 0,1:55:45.52,1:55:47.18,Default,,0000,0000,0000,,{\fn黑体\fs18}她是善良的{\r}\NShe was good.
+Dialogue: 0,1:56:02.53,1:56:03.87,Default,,0000,0000,0000,,{\fn黑体\fs18}是男孩{\r}\NIt's a boy.
+Dialogue: 0,1:56:04.33,1:56:05.32,Default,,0000,0000,0000,,{\fn黑体\fs18}是男孩{\r}\N It's a boy.
+Dialogue: 0,1:56:05.87,1:56:07.24,Default,,0000,0000,0000,,{\fn黑体\fs18}- 是男孩  - 让开{\r}\N- It's a boy.  - Move away.
+Dialogue: 0,1:56:07.41,1:56:08.53,Default,,0000,0000,0000,,{\fn黑体\fs18}是男孩{\r}\NIt's a boy.
+Dialogue: 0,1:56:16.17,1:56:17.50,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉在哪？{\r}\NWhere is she?
+Dialogue: 0,1:56:19.38,1:56:20.72,Default,,0000,0000,0000,,{\fn黑体\fs18}她在哪？{\r}\NWhere is she?
+Dialogue: 0,1:56:26.39,1:56:27.88,Default,,0000,0000,0000,,{\fn黑体\fs18}不行，不可以{\r}\NNo. No. No.
+Dialogue: 0,1:56:29.90,1:56:31.39,Default,,0000,0000,0000,,{\fn黑体\fs18}你不能这么做{\r}\NYou can't.
+Dialogue: 0,1:56:32.27,1:56:33.93,Default,,0000,0000,0000,,{\fn黑体\fs18}她们好漂亮{\r}\NThey're beautiful.
+Dialogue: 0,1:56:36.03,1:56:37.02,Default,,0000,0000,0000,,{\fn黑体\fs18}她们？{\r}\NThey?
+Dialogue: 0,1:56:38.24,1:56:39.73,Default,,0000,0000,0000,,{\fn黑体\fs18}你不能把两个孩子都杀了{\r}\NYou can't kill two.
+Dialogue: 0,1:56:40.20,1:56:42.19,Default,,0000,0000,0000,,{\fn黑体\fs18}他送来我们所需的东西{\r}\NHe sent us what we need.
+Dialogue: 0,1:56:42.74,1:56:44.90,Default,,0000,0000,0000,,{\fn黑体\fs18}不，不，不行！{\r}\NNo.No.No!
+Dialogue: 0,1:56:45.87,1:56:47.41,Default,,0000,0000,0000,,{\fn黑体\fs18}你不能这么做！{\r}\NYou can't!
+Dialogue: 0,1:56:48.58,1:56:49.91,Default,,0000,0000,0000,,{\fn黑体\fs18}不可以！{\r}\NNo!
+Dialogue: 0,1:56:50.04,1:56:51.69,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah!
+Dialogue: 0,1:56:51.76,1:56:53.25,Default,,0000,0000,0000,,{\fn黑体\fs18}伊拉{\r}\NIla!
+Dialogue: 0,1:56:59.76,1:57:00.59,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚{\r}\NNoah.
+Dialogue: 0,1:57:01.09,1:57:02.38,Default,,0000,0000,0000,,{\fn黑体\fs18}求求你{\r}\NPlease.
+Dialogue: 0,1:57:03.60,1:57:05.59,Default,,0000,0000,0000,,{\fn黑体\fs18}她们是我的女儿！{\r}\NThese are my children!
+Dialogue: 0,1:57:05.76,1:57:08.18,Default,,0000,0000,0000,,{\fn黑体\fs18}- 你的孙女！  - 没人能阻止我{\r}\NYour grandchildren!  I will not be stopped.
+Dialogue: 0,1:57:08.18,1:57:10.60,Default,,0000,0000,0000,,{\fn黑体\fs18}我知道我阻止不了你，但她们在哭{\r}\NI know I cannot stop you,  but they're crying!
+Dialogue: 0,1:57:10.94,1:57:13.27,Default,,0000,0000,0000,,{\fn黑体\fs18}请别让她们哭着死去{\r}\NPlease don't let them die crying.
+Dialogue: 0,1:57:14.27,1:57:16.06,Default,,0000,0000,0000,,{\fn黑体\fs18}让我安抚她们{\r}\NLet me calm them.
+Dialogue: 0,1:57:17.90,1:57:20.27,Default,,0000,0000,0000,,{\fn黑体\fs18}拜托，让她们能好好安息{\r}\NPlease, just let them be at peace.
+Dialogue: 0,1:57:31.12,1:57:33.24,Default,,0000,0000,0000,,{\fn黑体\fs18}月亮高挂{\r}\NThe moon is high
+Dialogue: 0,1:57:33.83,1:57:36.45,Default,,0000,0000,0000,,{\fn黑体\fs18}枝叶缠绕{\r}\NThe leaves entwine
+Dialogue: 0,1:57:37.80,1:57:41.46,Default,,0000,0000,0000,,{\fn黑体\fs18}你的父亲等待着…{\r}\NYour Father waits for thee
+Dialogue: 0,1:57:44.14,1:57:49.13,Default,,0000,0000,0000,,{\fn黑体\fs18}…将你抱入怀中{\r}\NTo wrap you in His sheltering wings
+Dialogue: 0,1:57:49.64,1:57:53.51,Default,,0000,0000,0000,,{\fn黑体\fs18}轻声哄你入睡{\r}\NTo whisper you to sleep
+Dialogue: 0,1:57:55.19,1:57:57.68,Default,,0000,0000,0000,,{\fn黑体\fs18}将你抱入…{\r}\NTo wrap you in
+Dialogue: 0,1:57:58.69,1:58:00.68,Default,,0000,0000,0000,,{\fn黑体\fs18}…他的怀中{\r}\NHis welcoming arms
+Dialogue: 0,1:58:01.99,1:58:05.95,Default,,0000,0000,0000,,{\fn黑体\fs18}直到天空破晓{\r}\NTill the night sky breaks
+Dialogue: 0,1:58:07.37,1:58:12.03,Default,,0000,0000,0000,,{\fn黑体\fs18}你的父亲是那疗愈的风{\r}\NYour Father is the healing wind
+Dialogue: 0,1:58:13.62,1:58:17.12,Default,,0000,0000,0000,,{\fn黑体\fs18}轻声哄你入睡{\r}\NThat whispers you to sleep
+Dialogue: 0,1:58:19.84,1:58:22.67,Default,,0000,0000,0000,,{\fn黑体\fs18}轻声哄你们…{\r}\NThat whispers as
+Dialogue: 0,1:58:24.68,1:58:27.21,Default,,0000,0000,0000,,{\fn黑体\fs18}…入睡{\r}\NYou sleep
+Dialogue: 0,1:58:32.85,1:58:36.88,Default,,0000,0000,0000,,{\fn黑体\fs18}- 你不必在场  - 我要抱着她们{\r}\NYou do not need to see this.  I will hold them.
+Dialogue: 0,1:58:45.24,1:58:46.73,Default,,0000,0000,0000,,{\fn黑体\fs18}要杀就快{\r}\NDo it quickly.
+Dialogue: 0,1:58:57.42,1:58:58.75,Default,,0000,0000,0000,,{\fn黑体\fs18}快动手呀！{\r}\NDo it quickly!
+Dialogue: 0,1:59:46.80,1:59:48.46,Default,,0000,0000,0000,,{\fn黑体\fs18}我做不到{\r}\NI cannot do this.
+Dialogue: 0,2:00:04.82,2:00:06.27,Default,,0000,0000,0000,,{\fn黑体\fs18}没事了{\r}\NIt's all right.
+Dialogue: 0,2:02:58.78,2:03:00.44,Default,,0000,0000,0000,,{\fn黑体\fs18}别睁开眼睛，雅弗{\r}\NHide your eyes, Japheth.
+Dialogue: 0,2:03:28.10,2:03:29.81,Default,,0000,0000,0000,,{\fn黑体\fs18}- 含呢？  - 他在这{\r}\N- Ham?  - He's here.
+Dialogue: 0,2:04:14.03,2:04:15.39,Default,,0000,0000,0000,,{\fn黑体\fs18}你不必离开的{\r}\NYou don't have to go.
+Dialogue: 0,2:04:18.99,2:04:20.48,Default,,0000,0000,0000,,{\fn黑体\fs18}我不属于这里{\r}\NI don't belong here.
+Dialogue: 0,2:04:22.53,2:04:24.02,Default,,0000,0000,0000,,{\fn黑体\fs18}不管怎么样…{\r}\NFor what it's worth,
+Dialogue: 0,2:04:24.99,2:04:27.53,Default,,0000,0000,0000,,{\fn黑体\fs18}我很高兴人类的香火由你延续下去{\r}\NI'm glad that it begins again with you.
+Dialogue: 0,2:04:33.09,2:04:35.37,Default,,0000,0000,0000,,{\fn黑体\fs18}或许我们能变得善良{\r}\NMaybe we'll learn to be kind.
+Dialogue: 0,2:05:18.97,2:05:20.46,Default,,0000,0000,0000,,{\fn黑体\fs18}他还会回来吗？{\r}\NWill he come back?
+Dialogue: 0,2:05:24.93,2:05:27.09,Default,,0000,0000,0000,,{\fn黑体\fs18}有些伤害是无法弥补的{\r}\NSome things cannot be unbroken.
+Dialogue: 0,2:05:35.77,2:05:37.26,Default,,0000,0000,0000,,{\fn黑体\fs18}我想知道…{\r}\NI have to know...
+Dialogue: 0,2:05:39.49,2:05:41.23,Default,,0000,0000,0000,,{\fn黑体\fs18}…你为什么放过她们？{\r}\NWhy did you spare them?
+Dialogue: 0,2:05:43.28,2:05:45.77,Default,,0000,0000,0000,,{\fn黑体\fs18}当我低头看着那两个小女娃{\r}\NI looked down at those two little girls,
+Dialogue: 0,2:05:46.41,2:05:48.57,Default,,0000,0000,0000,,{\fn黑体\fs18}我的心中只有爱{\r}\Nand all I had in my heart was love.
+Dialogue: 0,2:05:52.12,2:05:53.61,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚，那你为什么要独自过活？{\r}\NThen why are you alone, Noah?
+Dialogue: 0,2:05:55.42,2:05:57.88,Default,,0000,0000,0000,,{\fn黑体\fs18}为什么远离你的家人？{\r}\NWhy are you separated  from your family?
+Dialogue: 0,2:05:59.92,2:06:01.75,Default,,0000,0000,0000,,{\fn黑体\fs18}因为我辜负了造物主{\r}\NBecause I failed Him.
+Dialogue: 0,2:06:03.01,2:06:04.92,Default,,0000,0000,0000,,{\fn黑体\fs18}也辜负了你们所有人{\r}\NAnd I failed all of you.
+Dialogue: 0,2:06:09.14,2:06:10.38,Default,,0000,0000,0000,,{\fn黑体\fs18}是这样吗？{\r}\NDid you?
+Dialogue: 0,2:06:15.98,2:06:18.39,Default,,0000,0000,0000,,{\fn黑体\fs18}诺亚，他选择你是有原因的{\r}\NHe chose you for a reason, Noah.
+Dialogue: 0,2:06:19.19,2:06:21.60,Default,,0000,0000,0000,,{\fn黑体\fs18}他让你看清人的邪恶{\r}\NHe showed you the wickedness of man
+Dialogue: 0,2:06:21.69,2:06:24.03,Default,,0000,0000,0000,,{\fn黑体\fs18}知道你不会视而不见{\r}\Nand knew you would not look away.
+Dialogue: 0,2:06:25.70,2:06:28.03,Default,,0000,0000,0000,,{\fn黑体\fs18}也让你看到人良善的一面{\r}\NBut then you saw goodness, too.
+Dialogue: 0,2:06:29.29,2:06:33.15,Default,,0000,0000,0000,,{\fn黑体\fs18}选择在你手中，因为这是他的旨意{\r}\NThe choice was put in your hands  because He put it there.
+Dialogue: 0,2:06:34.33,2:06:38.04,Default,,0000,0000,0000,,{\fn黑体\fs18}他让你决定我们是否值得救赎{\r}\NHe asked you to decide  if we were worth saving.
+Dialogue: 0,2:06:40.34,2:06:43.17,Default,,0000,0000,0000,,{\fn黑体\fs18}而你选择了…怜悯{\r}\NAnd you chose mercy.
+Dialogue: 0,2:06:46.26,2:06:47.92,Default,,0000,0000,0000,,{\fn黑体\fs18}你选择了爱{\r}\NYou chose love.
+Dialogue: 0,2:06:52.48,2:06:55.31,Default,,0000,0000,0000,,{\fn黑体\fs18}他给了我们第二次机会{\r}\NHe has given us a second chance.
+Dialogue: 0,2:06:56.48,2:06:58.14,Default,,0000,0000,0000,,{\fn黑体\fs18}做一名父亲{\r}\NBe a father.
+Dialogue: 0,2:06:59.98,2:07:01.97,Default,,0000,0000,0000,,{\fn黑体\fs18}做一名祖父{\r}\NBe a grandfather.
+Dialogue: 0,2:07:03.99,2:07:06.48,Default,,0000,0000,0000,,{\fn黑体\fs18}请帮助我们变得更好{\r}\NHelp us to do better this time.
+Dialogue: 0,2:07:09.33,2:07:11.16,Default,,0000,0000,0000,,{\fn黑体\fs18}帮助我们重新开始{\r}\NHelp us start again.
+Dialogue: 0,2:09:21.58,2:09:22.91,Default,,0000,0000,0000,,{\fn黑体\fs18}造物主…{\r}\NThe Creator 
+Dialogue: 0,2:09:24.04,2:09:26.03,Default,,0000,0000,0000,,{\fn黑体\fs18}…照着自己的形像创造亚当…{\r}\Nmade Adam in His image,
+Dialogue: 0,2:09:26.55,2:09:28.71,Default,,0000,0000,0000,,{\fn黑体\fs18}…让他治理整个世界{\r}\Nand placed the world in his care.
+Dialogue: 0,2:09:29.42,2:09:30.91,Default,,0000,0000,0000,,{\fn黑体\fs18}这与生俱来的权力…{\r}\NThat birthright
+Dialogue: 0,2:09:32.72,2:09:34.38,Default,,0000,0000,0000,,{\fn黑体\fs18}…交给了我们{\r}\Nwas passed down to us.
+Dialogue: 0,2:09:38.35,2:09:40.72,Default,,0000,0000,0000,,{\fn黑体\fs18}先是我的父亲，再给我…{\r}\NTo my father, then to me,
+Dialogue: 0,2:09:40.81,2:09:42.85,Default,,0000,0000,0000,,{\fn黑体\fs18}…然后是我的儿子们…{\r}\Nand to my sons,
+Dialogue: 0,2:09:44.23,2:09:45.22,Default,,0000,0000,0000,,{\fn黑体\fs18}闪{\r}\NShem,
+Dialogue: 0,2:09:49.36,2:09:50.35,Default,,0000,0000,0000,,{\fn黑体\fs18}雅弗{\r}\NJapheth,
+Dialogue: 0,2:09:54.07,2:09:55.28,Default,,0000,0000,0000,,{\fn黑体\fs18}还有含{\r}\Nand Ham.
+Dialogue: 0,2:10:03.58,2:10:05.82,Default,,0000,0000,0000,,{\fn黑体\fs18}现在这项任务传承给你们…{\r}\NThat birthright is now passed to you,
+Dialogue: 0,2:10:07.88,2:10:09.04,Default,,0000,0000,0000,,{\fn黑体\fs18}…我们的孙女{\r}\Nour grandchildren.
+Dialogue: 0,2:10:13.80,2:10:15.54,Default,,0000,0000,0000,,{\fn黑体\fs18}这会是你们的工作{\r}\NThis will be your work,
+Dialogue: 0,2:10:19.10,2:10:21.09,Default,,0000,0000,0000,,{\fn黑体\fs18}也是你们的责任{\r}\Nand your responsibility.
+Dialogue: 0,2:10:21.85,2:10:23.43,Default,,0000,0000,0000,,{\fn黑体\fs18}我要你们…{\r}\NSo I say to you,
+Dialogue: 0,2:10:24.35,2:10:27.69,Default,,0000,0000,0000,,{\fn黑体\fs18}…滋生繁多…{\r}\Nbe fruitful and multiply
+Dialogue: 0,2:10:29.44,2:10:31.43,Default,,0000,0000,0000,,{\fn黑体\fs18}…遍布大地{\r}\Nand replenish the earth.
+
